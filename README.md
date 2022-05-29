@@ -104,6 +104,7 @@
    -  Munkavégzés hosszát
    -  Munka eszköz szükségletét
    -  Munka bérezését
+   -  Bér
    -  Munka státuszát
    -  Munkaadó felhasználó nevét
 
@@ -254,6 +255,7 @@
 -  Tartalmazza:
    -  Felhasználónevét
    -  Vezeték-, keresztnevét
+   -  Nemét
    -  Születési idejét
    -  Email címét
    -  Mobiltelefonszámát
@@ -326,3 +328,4 @@
 **További fejlesztési lehetőségek:**
 
 -  Cégek adatbázisának létrehozása
+-  Részletes értékelést lehessen adni mind a munkaerőről, mind a munkaadóról

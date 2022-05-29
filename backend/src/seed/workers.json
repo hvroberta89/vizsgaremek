@@ -1,0 +1,1934 @@
+[
+  {
+    "id": 0,
+    "user_name": "clambole29",
+    "date_from": "2022-03-26",
+    "date_to": "2022-01-29",
+    "nature": "takarítás",
+    "settlement": "Egerszalók",
+    "raitings": 3.73,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "megbízható"
+      },
+      {
+        "id": 1,
+        "review": "pontos"
+      },
+      {
+        "id": 2,
+        "review": "pontos"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "user_name": "pelphey2a",
+    "date_from": "2022-02-16",
+    "date_to": "2022-03-16",
+    "nature": "gyerekfelyügyelet",
+    "settlement": "Kisnána",
+    "raitings": 3.088,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "pontos"
+      },
+      {
+        "id": 1,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 2,
+        "review": "nagyon kedves"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "user_name": "stordoff1q",
+    "date_from": "2022-03-23",
+    "date_to": "2022-01-22",
+    "nature": "gyerekfelyügyelet",
+    "settlement": "Noszvaj",
+    "raitings": 4.6321,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 1,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 2,
+        "review": "pontos"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "user_name": "mpleatc",
+    "date_from": "2022-01-11",
+    "date_to": "2022-01-26",
+    "nature": "takarítás",
+    "settlement": "Parád",
+    "raitings": 2.4175,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 1,
+        "review": "pontos"
+      },
+      {
+        "id": 2,
+        "review": "ajánlom mindenkinek"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "user_name": "erazoux2e",
+    "date_from": "2022-01-13",
+    "date_to": "2022-03-12",
+    "nature": "takarítás",
+    "settlement": "Noszvaj",
+    "raitings": 3.2512,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 1,
+        "review": "pontos"
+      },
+      {
+        "id": 2,
+        "review": "pontos"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "user_name": "tjukesy",
+    "date_from": "2022-03-04",
+    "date_to": "2022-02-07",
+    "nature": "takarítás",
+    "settlement": "Visonta",
+    "raitings": 1.5171,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "pontos"
+      },
+      {
+        "id": 1,
+        "review": "pontos"
+      },
+      {
+        "id": 2,
+        "review": "ajánlom mindenkinek"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "user_name": "delmore1s",
+    "date_from": "2022-03-04",
+    "date_to": "2022-05-11",
+    "nature": "villanyszerelés",
+    "settlement": "Bátor",
+    "raitings": 3.3392,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 1,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 2,
+        "review": "ügyes kezű"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "user_name": "stordoff1q",
+    "date_from": "2022-02-07",
+    "date_to": "2022-05-02",
+    "nature": "kerti",
+    "settlement": "Egerszalók",
+    "raitings": 4.3763,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "pontos"
+      },
+      {
+        "id": 1,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 2,
+        "review": "pontos"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "user_name": "stordoff1q",
+    "date_from": "2022-04-09",
+    "date_to": "2022-04-15",
+    "nature": "kerti",
+    "settlement": "Egerfarmos",
+    "raitings": 4.6406,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "megbízható"
+      },
+      {
+        "id": 1,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 2,
+        "review": "pontos"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "user_name": "csmidmoorf",
+    "date_from": "2022-05-15",
+    "date_to": "2022-04-07",
+    "nature": "vízvezeték szerelés",
+    "settlement": "Bekölce",
+    "raitings": 4.7412,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 1,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 2,
+        "review": "pontos"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "user_name": "delmore1s",
+    "date_from": "2022-05-10",
+    "date_to": "2022-05-18",
+    "nature": "főzés",
+    "settlement": "Felsőtárkány",
+    "raitings": 3.801,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "pontos"
+      },
+      {
+        "id": 1,
+        "review": "pontos"
+      },
+      {
+        "id": 2,
+        "review": "megbízható"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "user_name": "lcallf1x",
+    "date_from": "2022-01-25",
+    "date_to": "2022-03-01",
+    "nature": "villanyszerelés",
+    "settlement": "Eger",
+    "raitings": 4.3463,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 1,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 2,
+        "review": "ajánlom mindenkinek"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "user_name": "mpleatc",
+    "date_from": "2022-05-26",
+    "date_to": "2022-05-04",
+    "nature": "gyerekfelyügyelet",
+    "settlement": "Szarvaskő",
+    "raitings": 1.6175,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "pontos"
+      },
+      {
+        "id": 1,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 2,
+        "review": "ajánlom mindenkinek"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "user_name": "jaberkirder1",
+    "date_from": "2022-04-01",
+    "date_to": "2022-02-15",
+    "nature": "főzés",
+    "settlement": "Balaton",
+    "raitings": 1.7685,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 1,
+        "review": "megbízható"
+      },
+      {
+        "id": 2,
+        "review": "ügyes kezű"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "user_name": "delmore1s",
+    "date_from": "2022-02-09",
+    "date_to": "2022-01-26",
+    "nature": "kerti",
+    "settlement": "Parádsasvár",
+    "raitings": 3.909,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 1,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 2,
+        "review": "megbízható"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "user_name": "cirnis1l",
+    "date_from": "2022-01-24",
+    "date_to": "2022-02-02",
+    "nature": "kerti",
+    "settlement": "Maklár",
+    "raitings": 1.262,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "pontos"
+      },
+      {
+        "id": 1,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 2,
+        "review": "megbízható"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "user_name": "lhardeyk",
+    "date_from": "2022-05-19",
+    "date_to": "2022-03-10",
+    "nature": "villanyszerelés",
+    "settlement": "Egercsehi",
+    "raitings": 1.825,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "pontos"
+      },
+      {
+        "id": 1,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 2,
+        "review": "ügyes kezű"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "user_name": "rdullingham1v",
+    "date_from": "2022-01-27",
+    "date_to": "2022-05-05",
+    "nature": "villanyszerelés",
+    "settlement": "Bélapátfalva",
+    "raitings": 3.4525,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "pontos"
+      },
+      {
+        "id": 1,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 2,
+        "review": "ajánlom mindenkinek"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "user_name": "stordoff1q",
+    "date_from": "2022-04-06",
+    "date_to": "2022-02-27",
+    "nature": "főzés",
+    "settlement": "Egerszalók",
+    "raitings": 4.3566,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "megbízható"
+      },
+      {
+        "id": 1,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 2,
+        "review": "nagyon kedves"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "user_name": "fbruck2g",
+    "date_from": "2022-02-15",
+    "date_to": "2022-03-24",
+    "nature": "gyerekfelyügyelet",
+    "settlement": "Egerszalók",
+    "raitings": 1.8946,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 1,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 2,
+        "review": "nagyon kedves"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "user_name": "gbarfootv",
+    "date_from": "2022-04-03",
+    "date_to": "2022-05-11",
+    "nature": "főzés",
+    "settlement": "Eger",
+    "raitings": 3.9379,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 1,
+        "review": "megbízható"
+      },
+      {
+        "id": 2,
+        "review": "pontos"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "user_name": "saireton0",
+    "date_from": "2022-03-23",
+    "date_to": "2022-02-01",
+    "nature": "takarítás",
+    "settlement": "Bükkszenterzsébet",
+    "raitings": 4.0118,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 1,
+        "review": "pontos"
+      },
+      {
+        "id": 2,
+        "review": "ügyes kezű"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "user_name": "akrolle1u",
+    "date_from": "2022-01-25",
+    "date_to": "2022-04-14",
+    "nature": "kerti",
+    "settlement": "Szarvaskő",
+    "raitings": 1.4072,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "megbízható"
+      },
+      {
+        "id": 1,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 2,
+        "review": "ügyes kezű"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "user_name": "lhardeyk",
+    "date_from": "2022-02-20",
+    "date_to": "2022-02-11",
+    "nature": "vízvezeték szerelés",
+    "settlement": "Verpelét",
+    "raitings": 0.2143,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "megbízható"
+      },
+      {
+        "id": 1,
+        "review": "megbízható"
+      },
+      {
+        "id": 2,
+        "review": "ügyes kezű"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "user_name": "yipsgrave1j",
+    "date_from": "2022-05-13",
+    "date_to": "2022-05-25",
+    "nature": "főzés",
+    "settlement": "Bélapátfalva",
+    "raitings": 4.0542,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "pontos"
+      },
+      {
+        "id": 1,
+        "review": "pontos"
+      },
+      {
+        "id": 2,
+        "review": "ügyes kezű"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "user_name": "bspray1e",
+    "date_from": "2022-03-19",
+    "date_to": "2022-04-13",
+    "nature": "főzés",
+    "settlement": "Recsk",
+    "raitings": 4.9284,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 1,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 2,
+        "review": "ajánlom mindenkinek"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "user_name": "saireton0",
+    "date_from": "2022-05-23",
+    "date_to": "2022-02-21",
+    "nature": "takarítás",
+    "settlement": "Aldebrő",
+    "raitings": 2.3796,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 1,
+        "review": "pontos"
+      },
+      {
+        "id": 2,
+        "review": "megbízható"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "user_name": "clambole29",
+    "date_from": "2022-01-21",
+    "date_to": "2022-04-25",
+    "nature": "gyerekfelyügyelet",
+    "settlement": "Szilvásvárad",
+    "raitings": 2.7046,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 1,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 2,
+        "review": "ajánlom mindenkinek"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "user_name": "amatyatin1y",
+    "date_from": "2022-03-12",
+    "date_to": "2022-01-15",
+    "nature": "takarítás",
+    "settlement": "Verpelét",
+    "raitings": 4.5141,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "pontos"
+      },
+      {
+        "id": 1,
+        "review": "pontos"
+      },
+      {
+        "id": 2,
+        "review": "ajánlom mindenkinek"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "user_name": "cirnis1l",
+    "date_from": "2022-04-25",
+    "date_to": "2022-02-10",
+    "nature": "kerti",
+    "settlement": "Parádsasvár",
+    "raitings": 4.3712,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 1,
+        "review": "pontos"
+      },
+      {
+        "id": 2,
+        "review": "ajánlom mindenkinek"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "user_name": "clambole29",
+    "date_from": "2022-01-16",
+    "date_to": "2022-01-28",
+    "nature": "gyerekfelyügyelet",
+    "settlement": "Besenyőtelek",
+    "raitings": 1.2237,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "megbízható"
+      },
+      {
+        "id": 1,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 2,
+        "review": "nagyon kedves"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "user_name": "fbruck2g",
+    "date_from": "2022-03-29",
+    "date_to": "2022-01-13",
+    "nature": "takarítás",
+    "settlement": "Balaton",
+    "raitings": 3.714,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "megbízható"
+      },
+      {
+        "id": 1,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 2,
+        "review": "megbízható"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "user_name": "dgreydon21",
+    "date_from": "2022-02-19",
+    "date_to": "2022-04-29",
+    "nature": "vízvezeték szerelés",
+    "settlement": "Aldebrő",
+    "raitings": 4.8192,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 1,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 2,
+        "review": "ajánlom mindenkinek"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "user_name": "csmidmoorf",
+    "date_from": "2022-01-07",
+    "date_to": "2022-01-11",
+    "nature": "takarítás",
+    "settlement": "Felsőtárkány",
+    "raitings": 2.0355,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "pontos"
+      },
+      {
+        "id": 1,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 2,
+        "review": "ajánlom mindenkinek"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "user_name": "pelphey2a",
+    "date_from": "2022-05-05",
+    "date_to": "2022-03-19",
+    "nature": "gyerekfelyügyelet",
+    "settlement": "Nagytálya",
+    "raitings": 1.4655,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 1,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 2,
+        "review": "nagyon kedves"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "user_name": "lcallf1x",
+    "date_from": "2022-02-06",
+    "date_to": "2022-02-03",
+    "nature": "kerti",
+    "settlement": "Egerszólát",
+    "raitings": 4.5676,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 1,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 2,
+        "review": "ügyes kezű"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "user_name": "mpleatc",
+    "date_from": "2022-03-17",
+    "date_to": "2022-01-15",
+    "nature": "vízvezeték szerelés",
+    "settlement": "Tarnalelesz",
+    "raitings": 3.5855,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 1,
+        "review": "megbízható"
+      },
+      {
+        "id": 2,
+        "review": "ügyes kezű"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "user_name": "fbruck2g",
+    "date_from": "2022-03-11",
+    "date_to": "2022-05-13",
+    "nature": "villanyszerelés",
+    "settlement": "Kerecsend",
+    "raitings": 1.0314,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 1,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 2,
+        "review": "ajánlom mindenkinek"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "user_name": "akrolle1u",
+    "date_from": "2022-05-16",
+    "date_to": "2022-04-29",
+    "nature": "gyerekfelyügyelet",
+    "settlement": "Recsk",
+    "raitings": 1.6456,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "megbízható"
+      },
+      {
+        "id": 1,
+        "review": "megbízható"
+      },
+      {
+        "id": 2,
+        "review": "ajánlom mindenkinek"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "user_name": "fpalluschekr",
+    "date_from": "2022-05-21",
+    "date_to": "2022-02-06",
+    "nature": "gyerekfelyügyelet",
+    "settlement": "Szarvaskő",
+    "raitings": 1.737,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "pontos"
+      },
+      {
+        "id": 1,
+        "review": "megbízható"
+      },
+      {
+        "id": 2,
+        "review": "nagyon kedves"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "user_name": "lcallf1x",
+    "date_from": "2022-04-25",
+    "date_to": "2022-04-26",
+    "nature": "főzés",
+    "settlement": "Tenk",
+    "raitings": 2.8179,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 1,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 2,
+        "review": "ügyes kezű"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "user_name": "olindsay1r",
+    "date_from": "2022-05-15",
+    "date_to": "2022-02-19",
+    "nature": "főzés",
+    "settlement": "Noszvaj",
+    "raitings": 1.7703,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "megbízható"
+      },
+      {
+        "id": 1,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 2,
+        "review": "nagyon kedves"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "user_name": "cirnis1l",
+    "date_from": "2022-04-29",
+    "date_to": "2022-02-19",
+    "nature": "vízvezeték szerelés",
+    "settlement": "Kerecsend",
+    "raitings": 4.7435,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 1,
+        "review": "megbízható"
+      },
+      {
+        "id": 2,
+        "review": "megbízható"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "user_name": "akrolle1u",
+    "date_from": "2022-01-11",
+    "date_to": "2022-02-08",
+    "nature": "vízvezeték szerelés",
+    "settlement": "Verpelét",
+    "raitings": 4.9484,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "pontos"
+      },
+      {
+        "id": 1,
+        "review": "megbízható"
+      },
+      {
+        "id": 2,
+        "review": "ügyes kezű"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "user_name": "csmidmoorf",
+    "date_from": "2022-05-26",
+    "date_to": "2022-05-21",
+    "nature": "takarítás",
+    "settlement": "Visonta",
+    "raitings": 4.9987,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 1,
+        "review": "pontos"
+      },
+      {
+        "id": 2,
+        "review": "ügyes kezű"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "user_name": "csmidmoorf",
+    "date_from": "2022-02-09",
+    "date_to": "2022-01-26",
+    "nature": "vízvezeték szerelés",
+    "settlement": "Szarvaskő",
+    "raitings": 4.1525,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 1,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 2,
+        "review": "megbízható"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "user_name": "cirnis1l",
+    "date_from": "2022-04-05",
+    "date_to": "2022-01-29",
+    "nature": "vízvezeték szerelés",
+    "settlement": "Besenyőtelek",
+    "raitings": 0.5943,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 1,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 2,
+        "review": "pontos"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "user_name": "clambole29",
+    "date_from": "2022-03-22",
+    "date_to": "2022-02-12",
+    "nature": "gyerekfelyügyelet",
+    "settlement": "Bükkszenterzsébet",
+    "raitings": 1.6923,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 1,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 2,
+        "review": "pontos"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "user_name": "ahince1a",
+    "date_from": "2022-01-31",
+    "date_to": "2022-02-01",
+    "nature": "takarítás",
+    "settlement": "Nagyvisnyó",
+    "raitings": 3.2253,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 1,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 2,
+        "review": "pontos"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "user_name": "olindsay1r",
+    "date_from": "2022-04-08",
+    "date_to": "2022-04-19",
+    "nature": "gyerekfelyügyelet",
+    "settlement": "Tenk",
+    "raitings": 3.7693,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "megbízható"
+      },
+      {
+        "id": 1,
+        "review": "pontos"
+      },
+      {
+        "id": 2,
+        "review": "ügyes kezű"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "user_name": "pelphey2a",
+    "date_from": "2022-04-04",
+    "date_to": "2022-04-28",
+    "nature": "vízvezeték szerelés",
+    "settlement": "Noszvaj",
+    "raitings": 0.2152,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 1,
+        "review": "pontos"
+      },
+      {
+        "id": 2,
+        "review": "nagyon kedves"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "user_name": "dgreydon21",
+    "date_from": "2022-04-04",
+    "date_to": "2022-04-24",
+    "nature": "gyerekfelyügyelet",
+    "settlement": "Szarvaskő",
+    "raitings": 1.8179,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "pontos"
+      },
+      {
+        "id": 1,
+        "review": "pontos"
+      },
+      {
+        "id": 2,
+        "review": "ügyes kezű"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "user_name": "mpleatc",
+    "date_from": "2022-01-15",
+    "date_to": "2022-04-17",
+    "nature": "kerti",
+    "settlement": "Sirok",
+    "raitings": 0.8458,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "megbízható"
+      },
+      {
+        "id": 1,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 2,
+        "review": "megbízható"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "user_name": "bdanfordn",
+    "date_from": "2022-02-17",
+    "date_to": "2022-03-21",
+    "nature": "villanyszerelés",
+    "settlement": "Bekölce",
+    "raitings": 2.2854,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "pontos"
+      },
+      {
+        "id": 1,
+        "review": "megbízható"
+      },
+      {
+        "id": 2,
+        "review": "ügyes kezű"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "user_name": "cirnis1l",
+    "date_from": "2022-01-25",
+    "date_to": "2022-04-03",
+    "nature": "takarítás",
+    "settlement": "Parád",
+    "raitings": 4.4168,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 1,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 2,
+        "review": "nagyon kedves"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "user_name": "rdullingham1v",
+    "date_from": "2022-02-25",
+    "date_to": "2022-02-12",
+    "nature": "vízvezeték szerelés",
+    "settlement": "Maklár",
+    "raitings": 1.2235,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 1,
+        "review": "pontos"
+      },
+      {
+        "id": 2,
+        "review": "ajánlom mindenkinek"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "user_name": "ahince1a",
+    "date_from": "2022-03-14",
+    "date_to": "2022-02-09",
+    "nature": "kerti",
+    "settlement": "Novaj",
+    "raitings": 2.2077,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "megbízható"
+      },
+      {
+        "id": 1,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 2,
+        "review": "ügyes kezű"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "user_name": "lcallf1x",
+    "date_from": "2022-01-31",
+    "date_to": "2022-05-26",
+    "nature": "főzés",
+    "settlement": "Kerecsend",
+    "raitings": 3.356,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 1,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 2,
+        "review": "megbízható"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "user_name": "mmorey24",
+    "date_from": "2022-03-08",
+    "date_to": "2022-04-25",
+    "nature": "kerti",
+    "settlement": "Demjén",
+    "raitings": 3.8679,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 1,
+        "review": "megbízható"
+      },
+      {
+        "id": 2,
+        "review": "ajánlom mindenkinek"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "user_name": "akrolle1u",
+    "date_from": "2022-05-25",
+    "date_to": "2022-04-20",
+    "nature": "gyerekfelyügyelet",
+    "settlement": "Nagyvisnyó",
+    "raitings": 0.5006,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "pontos"
+      },
+      {
+        "id": 1,
+        "review": "pontos"
+      },
+      {
+        "id": 2,
+        "review": "ajánlom mindenkinek"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "user_name": "clambole29",
+    "date_from": "2022-02-13",
+    "date_to": "2022-05-07",
+    "nature": "villanyszerelés",
+    "settlement": "Mikófalva",
+    "raitings": 1.4973,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 1,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 2,
+        "review": "nagyon kedves"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "user_name": "aterrazzo1k",
+    "date_from": "2022-05-02",
+    "date_to": "2022-03-06",
+    "nature": "kerti",
+    "settlement": "Parádsasvár",
+    "raitings": 3.5664,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "pontos"
+      },
+      {
+        "id": 1,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 2,
+        "review": "ajánlom mindenkinek"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "user_name": "clambole29",
+    "date_from": "2022-03-18",
+    "date_to": "2022-02-16",
+    "nature": "gyerekfelyügyelet",
+    "settlement": "Nagyvisnyó",
+    "raitings": 3.6494,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 1,
+        "review": "megbízható"
+      },
+      {
+        "id": 2,
+        "review": "ügyes kezű"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "user_name": "jaberkirder1",
+    "date_from": "2022-02-25",
+    "date_to": "2022-05-27",
+    "nature": "kerti",
+    "settlement": "Noszvaj",
+    "raitings": 2.4758,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 1,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 2,
+        "review": "pontos"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "user_name": "bbacop22",
+    "date_from": "2022-05-02",
+    "date_to": "2022-03-21",
+    "nature": "vízvezeték szerelés",
+    "settlement": "Abasár",
+    "raitings": 3.3546,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 1,
+        "review": "pontos"
+      },
+      {
+        "id": 2,
+        "review": "pontos"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "user_name": "lcallf1x",
+    "date_from": "2022-01-10",
+    "date_to": "2022-03-13",
+    "nature": "kerti",
+    "settlement": "Demjén",
+    "raitings": 0.0027,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 1,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 2,
+        "review": "ajánlom mindenkinek"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "user_name": "dgreydon21",
+    "date_from": "2022-04-30",
+    "date_to": "2022-01-25",
+    "nature": "takarítás",
+    "settlement": "Mikófalva",
+    "raitings": 2.5841,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "megbízható"
+      },
+      {
+        "id": 1,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 2,
+        "review": "ügyes kezű"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "user_name": "ahince1a",
+    "date_from": "2022-04-22",
+    "date_to": "2022-03-29",
+    "nature": "villanyszerelés",
+    "settlement": "Szilvásvárad",
+    "raitings": 3.6998,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 1,
+        "review": "pontos"
+      },
+      {
+        "id": 2,
+        "review": "ügyes kezű"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "user_name": "csmidmoorf",
+    "date_from": "2022-01-29",
+    "date_to": "2022-01-17",
+    "nature": "villanyszerelés",
+    "settlement": "Aldebrő",
+    "raitings": 4.7955,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 1,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 2,
+        "review": "ügyes kezű"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "user_name": "akrolle1u",
+    "date_from": "2022-02-03",
+    "date_to": "2022-04-24",
+    "nature": "villanyszerelés",
+    "settlement": "Egerbocs",
+    "raitings": 4.8901,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 1,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 2,
+        "review": "nagyon kedves"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "user_name": "btidball1n",
+    "date_from": "2022-02-12",
+    "date_to": "2022-03-23",
+    "nature": "takarítás",
+    "settlement": "Mikófalva",
+    "raitings": 3.7016,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "pontos"
+      },
+      {
+        "id": 1,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 2,
+        "review": "megbízható"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "user_name": "delmore1s",
+    "date_from": "2022-04-05",
+    "date_to": "2022-05-11",
+    "nature": "kerti",
+    "settlement": "Demjén",
+    "raitings": 0.9016,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 1,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 2,
+        "review": "ajánlom mindenkinek"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "user_name": "gbarfootv",
+    "date_from": "2022-02-20",
+    "date_to": "2022-03-02",
+    "nature": "gyerekfelyügyelet",
+    "settlement": "Egerszólát",
+    "raitings": 4.936,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 1,
+        "review": "megbízható"
+      },
+      {
+        "id": 2,
+        "review": "megbízható"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "user_name": "delmore1s",
+    "date_from": "2022-04-20",
+    "date_to": "2022-02-27",
+    "nature": "főzés",
+    "settlement": "Bélapátfalva",
+    "raitings": 1.8944,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 1,
+        "review": "pontos"
+      },
+      {
+        "id": 2,
+        "review": "megbízható"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "user_name": "gbarfootv",
+    "date_from": "2022-03-12",
+    "date_to": "2022-05-24",
+    "nature": "kerti",
+    "settlement": "Balaton",
+    "raitings": 2.1313,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 1,
+        "review": "megbízható"
+      },
+      {
+        "id": 2,
+        "review": "nagyon kedves"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "user_name": "gbarfootv",
+    "date_from": "2022-03-06",
+    "date_to": "2022-01-02",
+    "nature": "takarítás",
+    "settlement": "Bekölce",
+    "raitings": 2.795,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 1,
+        "review": "megbízható"
+      },
+      {
+        "id": 2,
+        "review": "ajánlom mindenkinek"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "user_name": "amatyatin1y",
+    "date_from": "2022-04-19",
+    "date_to": "2022-05-16",
+    "nature": "kerti",
+    "settlement": "Pétervására",
+    "raitings": 4.6371,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "pontos"
+      },
+      {
+        "id": 1,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 2,
+        "review": "ajánlom mindenkinek"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "user_name": "fbruck2g",
+    "date_from": "2022-05-04",
+    "date_to": "2022-04-23",
+    "nature": "kerti",
+    "settlement": "Ostoros",
+    "raitings": 4.2007,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "megbízható"
+      },
+      {
+        "id": 1,
+        "review": "megbízható"
+      },
+      {
+        "id": 2,
+        "review": "ügyes kezű"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "user_name": "rdullingham1v",
+    "date_from": "2022-05-17",
+    "date_to": "2022-01-11",
+    "nature": "vízvezeték szerelés",
+    "settlement": "Tenk",
+    "raitings": 0.2185,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 1,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 2,
+        "review": "ügyes kezű"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "user_name": "saireton0",
+    "date_from": "2022-02-14",
+    "date_to": "2022-02-09",
+    "nature": "villanyszerelés",
+    "settlement": "Sirok",
+    "raitings": 1.3653,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 1,
+        "review": "pontos"
+      },
+      {
+        "id": 2,
+        "review": "pontos"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "user_name": "aterrazzo1k",
+    "date_from": "2022-03-18",
+    "date_to": "2022-05-06",
+    "nature": "kerti",
+    "settlement": "Poroszló",
+    "raitings": 3.8263,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "megbízható"
+      },
+      {
+        "id": 1,
+        "review": "ajánlom mindenkinek"
+      },
+      {
+        "id": 2,
+        "review": "megbízható"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "user_name": "csmidmoorf",
+    "date_from": "2022-05-21",
+    "date_to": "2022-05-29",
+    "nature": "kerti",
+    "settlement": "Kisnána",
+    "raitings": 3.4884,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 1,
+        "review": "nagyon kedves"
+      },
+      {
+        "id": 2,
+        "review": "megbízható"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "user_name": "stordoff1q",
+    "date_from": "2022-01-16",
+    "date_to": "2022-04-08",
+    "nature": "főzés",
+    "settlement": "Nagytálya",
+    "raitings": 4.1321,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "ügyes kezű"
+      },
+      {
+        "id": 1,
+        "review": "megbízható"
+      },
+      {
+        "id": 2,
+        "review": "ajánlom mindenkinek"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "user_name": "pelphey2a",
+    "date_from": "2022-05-27",
+    "date_to": "2022-05-02",
+    "nature": "villanyszerelés",
+    "settlement": "Poroszló",
+    "raitings": 4.5485,
+    "reviews": [
+      {
+        "id": 0,
+        "review": "pontos"
+      },
+      {
+        "id": 1,
+        "review": "megbízható"
+      },
+      {
+        "id": 2,
+        "review": "megbízható"
+      }
+    ]
+  }
+]
