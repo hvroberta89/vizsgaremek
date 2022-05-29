@@ -41,8 +41,10 @@
 -  Űrlapot tartalmaz (felhasználónév és jelszó)
 -  A helyes azonosító adatok megadásával be lehet jelentkezni a felületre.
 -  A profil nélküli felhasználóknak lehetőségük van regisztrálni.
--  **2. Agilis felhasználói történet:**
-   > _Az bejelentkezési kísérletem sikeres vagy sikertelen._
+
+**2. Agilis felhasználói történet:**
+
+> _Az bejelentkezési kísérletem sikeres vagy sikertelen._
 
 **Elfogadási kritériumok:**
 
@@ -78,13 +80,12 @@
 
 -  A munkák minden adata jelenjen meg.
 -  Tartalmazza:
-   -  Munka megnevezése
-   -  Munka jellege
-   -  Munkavégzés helye
-   -  Munkavégzés időpontja
-   -  Munkavégzés hossza
-   -  Munka bérezése
-   -  Munka státusza
+   -  Munka megnevezését
+   -  Munka jellegét
+   -  Munkavégzés helyét
+   -  Munkavégzés időpontját
+   -  Munkavégzés hosszát
+   -  Munka státuszát
    -  Munkaadó felhasználó nevét
 
 **2. Agilis felhasználói történet:**
@@ -152,7 +153,7 @@
 **Elfogadási kritériumok:**
 
 -  A munkalehetőség törlése után az adatbázis töltődjön be újra automatikusan.
--  Adjon lehetőséget a folyamat megszakítására.
+-  Adjon lehetőséget a folyamat megszakítására az adatbázis módosítása nélkül.
 
 ---
 
@@ -235,7 +236,7 @@
 **Elfogadási kritériumok:**
 
 -  A munkaerő törlése után az adatbázis töltődjön be újra automatikusan.
--  Adjon lehetőséget a folyamat megszakítására.
+-  Adjon lehetőséget a folyamat megszakítására az adatbázis módosítása nélkül.
 
 ---
 
@@ -303,7 +304,7 @@
 **Elfogadási kritériumok:**
 
 -  A munkaerő törlése után az adatbázis töltődjön be újra automatikusan.
--  Adjon lehetőséget a folyamat megszakítására.
+-  Adjon lehetőséget a folyamat megszakítására az adatbázis módosítása nélkül.
 
 ---
 
