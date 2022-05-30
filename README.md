@@ -8,7 +8,7 @@
 
 ---
 
-> _Az alkalmazás célja, hogy segítséget nyújtson a felhasználóknak a házkörüli feladatok elvégzésében segítséget, illetve szabadidőben alkalmi munkát találni._
+> _Az alkalmazás célja, hogy lehetőséget adjon a felhasználóknak a házkörüli feladatok elvégzésében segítséget, illetve szabadidőben alkalmi munkát találni._
 
 ---
 
@@ -27,6 +27,8 @@
 -  3db kártya a legfrissebb munkalehetőséggel
 -  3db kártya a legújabb munkaerőkkel
 -  bejelentkezési lehetőség
+
+---
 
 ### _*2. Bejelentkezési oldal*_
 
@@ -143,6 +145,7 @@
 
 **Elfogadási kritériumok:**
 
+-  Munkalehetőségek mellett található szerkesztő gombok egy új felületre irányítanak.
 -  Mezők validációja az adatok módosítása során megtörténik.
 -  Az adatok módosítása után a munkalehetőségek listája töltődjön be újra automatikusan.
 -  Lehetőséget biztosít a folyamat megszakítására, ebben esetben az adatok módosítása nélkül betölti újra az adatbázist.
@@ -153,6 +156,7 @@
 
 **Elfogadási kritériumok:**
 
+-  Munkalehetőségek mellett található törlő gombokkal tudunk egy-egy rekordot törölni.
 -  A munkalehetőség törlése után az adatbázis töltődjön be újra automatikusan.
 -  Adjon lehetőséget a folyamat megszakítására az adatbázis módosítása nélkül.
 
@@ -222,10 +226,11 @@
 
 **6. Agilis felhasználói történet:**
 
-> _Szeretném módosítani az egyik munkaerőket._
+> _Szeretném módosítani az egyik munkaerőt._
 
 **Elfogadási kritériumok:**
 
+-  Munkaerők mellett található szerkesztő gombok egy új felületre irányítanak.
 -  Mezők validációja az adatok módosítása során megtörténik.
 -  Az adatok módosítása után a munkalehetőségek listája töltődjön be újra automatikusan.
 -  Lehetőséget biztosít a folyamat megszakítására, ebben esetben az adatok módosítása nélkül betölti újra az adatbázist.
@@ -236,6 +241,7 @@
 
 **Elfogadási kritériumok:**
 
+-  Munkaerő mellett található törlő gombokkal tudunk egy-egy rekordot törölni.
 -  A munkaerő törlése után az adatbázis töltődjön be újra automatikusan.
 -  Adjon lehetőséget a folyamat megszakítására az adatbázis módosítása nélkül.
 
@@ -286,7 +292,7 @@
 
 -  Egy üres adatlap jelenik meg az új felhasználók felvitelére.
 -  Mezők validációja az adatok felvitele során megtörténik.
--  Az adatok bevitele után a felhasználókat listája töltődjön be újra automatikusan.
+-  Az adatok bevitele után a felhasználók listája töltődjön be újra automatikusan.
 -  Lehetőséget biztosít a folyamat megszakítására és betölti újra az adatbázist.
 
 **5. Agilis felhasználói történet:**
@@ -295,6 +301,7 @@
 
 **Elfogadási kritériumok:**
 
+-  A felhasználók mellett található szerkesztő gombok egy új felületre irányítanak.
 -  Mezők validációja az adatok módosítása során megtörténik.
 -  Az adatok módosítása után a felhasználók listája töltődjön be újra automatikusan.
 -  Lehetőséget biztosít a folyamat megszakítására, ebben esetben az adatok módosítása nélkül betölti újra az adatbázist.
@@ -305,7 +312,8 @@
 
 **Elfogadási kritériumok:**
 
--  A munkaerő törlése után az adatbázis töltődjön be újra automatikusan.
+-  Felhasználók mellett található törlő gombokkal tudunk egy-egy rekordot törölni.
+-  A felhasználók törlése után az adatbázis töltődjön be újra automatikusan.
 -  Adjon lehetőséget a folyamat megszakítására az adatbázis módosítása nélkül.
 
 ---
