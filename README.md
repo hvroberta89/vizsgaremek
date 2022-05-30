@@ -22,11 +22,11 @@
 
 **Elfogadási kritérium:**
 
--  üdvözlés
--  rövid ismertető,
+-  Üdvözlés
+-  Rövid ismertető,
 -  3db kártya a legfrissebb munkalehetőséggel
 -  3db kártya a legújabb munkaerőkkel
--  bejelentkezési lehetőség
+-  Bejelentkezési lehetőség
 
 ---
 
@@ -36,7 +36,7 @@
 
 **1. Agilis felhasználói történet:**
 
-> _Szeretnék bejelentkezni az oldalra._
+> _Be lehet jelentkezni az oldalra._
 
 **Elfogadási kritérium:**
 
@@ -46,7 +46,7 @@
 
 **2. Agilis felhasználói történet:**
 
-> _Az bejelentkezési kísérletem sikeres vagy sikertelen._
+> _A bejelentkezési kísérlet sikeres vagy sikertelen._
 
 **Elfogadási kritériumok:**
 
@@ -61,7 +61,7 @@
 
 **1. Agilis felhasználói történet:**
 
-> _Grafikonok és adatkártyák segítségével szeretném látni a legfontosabb mérőszámokat._
+> _Grafikonok és adatkártyák segítségével láthatóak a legfontosabb mérőszámokat._
 
 **Elfogadási kritériumok:**
 
@@ -76,11 +76,11 @@
 
 **1. Agilis felhasználói történet:**
 
-> _Táblázatos formában szeretném látni a munkalehetőségeket._
+> _Táblázatos formában láthatóak a munkalehetőségek._
 
 **Elfogadási kritériumok:**
 
--  A munkák minden adata jelenjen meg.
+-  A munkák minden adata megjelenik.
 -  Tartalmazza:
    -  Munka megnevezését
    -  Munka jellegét
@@ -114,7 +114,7 @@
 
 **3. Agilis felhasználói történet:**
 
-> _Különböző szempontok alapján szeretném szűrni a munkalehetőségeket._
+> _Különböző szempontok alapján lehet szűrni a munkalehetőségeket._
 
 **Elfogadási kritériumok:**
 
@@ -127,40 +127,40 @@
 
 **Elfogadási kritériumok:**
 
--  Minden egyes kategória szerint legyen sorbarendezhető az adatbázis
--  Növekvő és csökkenő sorrendbe is legyenek rendezhetőek az adatok
+-  Minden egyes kategória szerint sorbarendezhető az adatbázis
+-  Növekvő és csökkenő sorrendbe is rendezhetőek az adatok
 
 **5. Agilis felhasználói történet:**
 
-> _Szeretnék új munkalehetőséget felvinni az adatbázisba._
+> _Új munkalehetőséget lehet felvinni az adatbázisba._
 
 **Elfogadási kritériumok:**
 
 -  Egy üres adatlap jelenik meg az új munkalehetőség felvitelére.
 -  Mezők validációja az adatok felvitele során megtörténik.
--  Az adatok bevitele után a munkalehetőségek listája töltődjön be újra automatikusan.
+-  Az adatok bevitele után a munkalehetőségek listája betöltődik újra automatikusan.
 -  Lehetőséget biztosít a folyamat megszakítására és betölti újra az adatbázist.
 
 **6. Agilis felhasználói történet:**
 
-> _Szeretném módosítani az egyik munkalehetőséget._
+> _Lehet módosítani a munkalehetőségeket._
 
 **Elfogadási kritériumok:**
 
 -  Munkalehetőségek mellett található szerkesztő gombok egy új felületre irányítanak.
 -  Mezők validációja az adatok módosítása során megtörténik.
--  Az adatok módosítása után a munkalehetőségek listája töltődjön be újra automatikusan.
+-  Az adatok módosítása után a munkalehetőségek listája betöltődik újra automatikusan.
 -  Lehetőséget biztosít a folyamat megszakítására, ebben esetben az adatok módosítása nélkül betölti újra az adatbázist.
 
 **7. Agilis felhasználói történet:**
 
-> _Szeretném törölni az egyik munkalehetőséget._
+> _Lehet törölni a munkalehetőségeket._
 
 **Elfogadási kritériumok:**
 
 -  Munkalehetőségek mellett található törlő gombokkal tudunk egy-egy rekordot törölni.
--  A munkalehetőség törlése után az adatbázis töltődjön be újra automatikusan.
--  Adjon lehetőséget a folyamat megszakítására az adatbázis módosítása nélkül.
+-  A munkalehetőség törlése után az adatbázis betöltődik újra automatikusan.
+-  Van lehetőséget a folyamat megszakítására az adatbázis módosítása nélkül.
 
 ---
 
@@ -170,11 +170,11 @@
 
 **1. Agilis felhasználói történet:**
 
-> _Táblázatos formában szeretném látni a munkaerőket._
+> _Táblázatos formában láthatóak a munkaerők._
 
 **Elfogadási kritériumok:**
 
--  A munkaerők minden adata jelenjen meg.
+-  A munkaerők minden adata megjelenik.
 -  Tartalmazza:
    -  Felhasználó nevét
    -  Rendelkezésre állást
@@ -199,11 +199,11 @@
 
 **3. Agilis felhasználói történet:**
 
-> _Különböző szempontok alapján szeretném szűrni a munkaerőket._
+> _Különböző szempontok alapján lehet szűrni a munkaerőket._
 
 **Elfogadási kritériumok:**
 
--  A szűrési paraméterek minden kategóriát tartalmazzanak
+-  A szűrési paraméterek minden kategóriát tartalmaznak
 -  Lehetőséget biztosít összetett szűrések elvégzésére
 
 **4. Agilis felhasználói történet:**
@@ -212,40 +212,40 @@
 
 **Elfogadási kritériumok:**
 
--  Minden egyes kategória szerint legyen sorbarendezhető az adatbázis.
--  Növekvő és csökkenő sorrendbe is legyenek rendezhetőek az adatok.
+-  Minden egyes kategória szerint sorbarendezhető az adatbázis.
+-  Növekvő és csökkenő sorrendbe is rendezhetőek az adatok.
 
 **5. Agilis felhasználói történet:**
 
-> _Szeretnék új munkaerőket felvinni az adatbázisba._
+> _Új munkaerőket lehet felvinni az adatbázisba._
 
 **Elfogadási kritériumok:**
 
 -  Egy üres adatlap jelenik meg az új munkaerő felvitelére.
 -  Mezők validációja az adatok felvitele során megtörténik.
--  Az adatok bevitele után a munkaerők listája töltődjön be újra automatikusan.
+-  Az adatok bevitele után a munkaerők listája betöltődik újra automatikusan.
 -  Lehetőséget biztosít a folyamat megszakítására és betölti újra az adatbázist.
 
 **6. Agilis felhasználói történet:**
 
-> _Szeretném módosítani az egyik munkaerőt._
+> _Lehet módosítani a munkaerőket._
 
 **Elfogadási kritériumok:**
 
 -  Munkaerők mellett található szerkesztő gombok egy új felületre irányítanak.
 -  Mezők validációja az adatok módosítása során megtörténik.
--  Az adatok módosítása után a munkalehetőségek listája töltődjön be újra automatikusan.
+-  Az adatok módosítása után a munkalehetőségek listája betöltődik újra automatikusan.
 -  Lehetőséget biztosít a folyamat megszakítására, ebben esetben az adatok módosítása nélkül betölti újra az adatbázist.
 
 **7. Agilis felhasználói történet:**
 
-> _Szeretném törölni az egyik munkaerőt._
+> _Lehet törölni a munkaerőket._
 
 **Elfogadási kritériumok:**
 
 -  Munkaerő mellett található törlő gombokkal tudunk egy-egy rekordot törölni.
--  A munkaerő törlése után az adatbázis töltődjön be újra automatikusan.
--  Adjon lehetőséget a folyamat megszakítására az adatbázis módosítása nélkül.
+-  A munkaerő törlése után az adatbázis betöltődik újra automatikusan.
+-  Van lehetőséget a folyamat megszakítására az adatbázis módosítása nélkül.
 
 ---
 
@@ -255,11 +255,11 @@
 
 **1. Agilis felhasználói történet:**
 
-> _Táblázatos formában szeretném látni a regisztrált felhasználókat._
+> _Táblázatos formában lehet látni a regisztrált felhasználókat._
 
 **Elfogadási kritériumok:**
 
--  A felhasználók minden adata jelenjen meg.
+-  A felhasználók minden adata megjelenik.
 -  Tartalmazza:
    -  Felhasználónevét
    -  Vezeték-, keresztnevét
@@ -270,11 +270,11 @@
 
 **2. Agilis felhasználói történet:**
 
-> _Különböző szempontok alapján szeretném szűrni a felhasználókat._
+> _Különböző szempontok alapján lehet szűrni a felhasználókat._
 
 **Elfogadási kritériumok:**
 
--  A szűrési paraméterek minden kategóriát tartalmazzanak
+-  A szűrési paraméterek minden kategóriát tartalmaznak
 -  Lehetőséget biztosít összetett szűrések elvégzésére
 
 **3. Agilis felhasználói történet:**
@@ -283,39 +283,39 @@
 
 **Elfogadási kritériumok:**
 
--  Minden egyes kategória szerint legyen sorbarendezhető az adatbázis.
--  Növekvő és csökkenő sorrendbe is legyenek rendezhetőek az adatok.
+-  Minden egyes kategória szerint sorbarendezhető az adatbázis.
+-  Növekvő és csökkenő sorrendbe is rendezhetőek az adatok.
 
 **4. Agilis felhasználói történet:**
 
-> _Szeretnék új felhasználókat felvinni az adatbázisba._
+> _Új felhasználókat lehet felvinni az adatbázisba._
 
 **Elfogadási kritériumok:**
 
 -  Egy üres adatlap jelenik meg az új felhasználók felvitelére.
 -  Mezők validációja az adatok felvitele során megtörténik.
--  Az adatok bevitele után a felhasználók listája töltődjön be újra automatikusan.
+-  Az adatok bevitele után a felhasználók listája betöltődik újra automatikusan.
 -  Lehetőséget biztosít a folyamat megszakítására és betölti újra az adatbázist.
 
 **5. Agilis felhasználói történet:**
 
-> _Szeretném módosítani az egyik felhasználót._
+> _Lehet módosítani a felhasználókat._
 
 **Elfogadási kritériumok:**
 
 -  A felhasználók mellett található szerkesztő gombok egy új felületre irányítanak.
 -  Mezők validációja az adatok módosítása során megtörténik.
--  Az adatok módosítása után a felhasználók listája töltődjön be újra automatikusan.
+-  Az adatok módosítása után a felhasználók listája betöltődik újra automatikusan.
 -  Lehetőséget biztosít a folyamat megszakítására, ebben esetben az adatok módosítása nélkül betölti újra az adatbázist.
 
 **6. Agilis felhasználói történet:**
 
-> _Szeretném törölni az egyik felhasználót._
+> _Lehet törölni a felhasználókat._
 
 **Elfogadási kritériumok:**
 
 -  Felhasználók mellett található törlő gombokkal tudunk egy-egy rekordot törölni.
--  A felhasználók törlése után az adatbázis töltődjön be újra automatikusan.
+-  A felhasználók törlése után az adatbázis betöltődik újra automatikusan.
 -  Adjon lehetőséget a folyamat megszakítására az adatbázis módosítása nélkül.
 
 ---
