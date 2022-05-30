@@ -89,6 +89,7 @@
    -  Munkavégzés hosszát
    -  Munka státuszát
    -  Munkaadó felhasználó nevét
+   -  Elvégző felhasználó nevét
 
 **2. Agilis felhasználói történet:**
 
@@ -109,6 +110,7 @@
    -  Bér
    -  Munka státuszát
    -  Munkaadó felhasználó nevét
+   -  Elvégző felhasználó nevét
 
 **3. Agilis felhasználói történet:**
 
@@ -182,7 +184,7 @@
 
 **2. Agilis felhasználói történet:**
 
-> _Az egyes munkalehetőségekre kattintva megjelenik egy részletes adatlap a munkáról._
+> _Az egyes munkaerőkre kattintva megjelenik egy részletes adatlap a munkáról._
 
 **Elfogadási kritérium:**
 
