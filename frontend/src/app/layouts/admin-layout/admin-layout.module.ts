@@ -3,13 +3,14 @@ import { RouterModule } from '@angular/router';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 
-import { AdminLayoutRoutes } from './admin-layout.routing';
+import { AdminLayoutRoutes }    from './admin-layout.routing';
 
-import { BaseTableComponent } from '../../shared/base-table/base-table.component'
-import { DashboardComponent }       from '../../pages/dashboard/dashboard.component';
-import { UsersComponent }            from '../../pages/users/users.component';
-import { WorkersComponent }            from '../../pages/workers/workers.component';
-import { JobsComponent }            from '../../pages/jobs/jobs.component';
+import { BaseTableComponent }   from '../../shared/base-table/base-table.component';
+import { HomeComponent }        from '../../pages/home/home.component';
+import { DashboardComponent }   from '../../pages/dashboard/dashboard.component';
+import { UsersComponent }       from '../../pages/users/users.component';
+import { WorkersComponent }     from '../../pages/workers/workers.component';
+import { JobsComponent }        from '../../pages/jobs/jobs.component';
 
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
@@ -22,6 +23,7 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
   ],
   declarations: [
     BaseTableComponent,
+    HomeComponent,
     DashboardComponent,
     UsersComponent,
     WorkersComponent,
