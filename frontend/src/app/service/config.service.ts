@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { INgTableColumn } from '../shared/base-table/base-table.component';
+import { INgTableColumn } from '../data-table/ng-data-table/ng-data-table.component';
 
 @Injectable({
   providedIn: 'root',
