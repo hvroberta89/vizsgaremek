@@ -1,0 +1,7 @@
+{
+  "database": {
+    "user": "rentAdmin",
+    "pass": "fumvcjTiMdy3PVag",
+    "host": "cluster0.ep0gx.mongodb.net/?retryWrites=true&w=majority"
+  }
+}

@@ -14,7 +14,7 @@ export interface INgTableColumn {
 export class NgDataTableComponent<T extends { [x: string]: any }> implements OnInit {
 
   @Input() tableTitle: string = '';
-  @Input() tableColumn: string[] = [];
+  @Input() tableColumn: INgTableColumn[] = [];
   @Input()  list: T[] = [];
 
   constructor(
