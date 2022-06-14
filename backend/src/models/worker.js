@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const idValidator = require('mongoose-id-validator');
 
-const JobSchema = mongoose.Schema({
+const WorkerSchema = mongoose.Schema({
   name: { 
     type: String,
     required:true,
@@ -25,7 +25,7 @@ const JobSchema = mongoose.Schema({
   reviews: [
     {
       type: mongoose.Schema.Types.ObjectId,
-      ref: 'review'
+      ref: 'Review'
     }
   ]
 },{

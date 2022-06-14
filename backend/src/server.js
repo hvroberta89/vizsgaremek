@@ -7,8 +7,10 @@ const cors = require('cors');
 
 const app = express();
 
-const jobRouter =require('./controllers/job/job.router');
 const userRouter =require('./controllers/user/user.router');
+const jobRouter =require('./controllers/job/job.router');
+const workerRouter =require('./controllers/worker/worker.router');
+const reviewRouter =require('./controllers/review/review.router');
 
 const { host, user, pass} = config.get('database');
 mongoose.connect(`mongodb+srv://${host}`, {
@@ -26,10 +28,14 @@ app.use(express.static('public'));
 app.use(bodyParser.json());
 
 
-// Jobs
-app.use('/jobs', jobRouter);
 // Users
 app.use('/users', userRouter);
+// Jobs
+app.use('/jobs', jobRouter);
+// Workers
+app.use('/workers', workerRouter);
+// Review
+app.use('/reviews', reviewRouter);
 // Index
 app.use('/', (req, res) => {
   res.send('api server');

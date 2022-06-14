@@ -21,7 +21,7 @@ router.patch('/:id', (req, res, next) => {
 
 /* Update one User in terminal
 fetch("http://localhost:3000/users/6296014011ad7fe9d378b562", {
-   method: "PUT",
+   method: "PATCH",
    headers: {
       "Content-Type": "application/json",
    },

@@ -48,27 +48,7 @@ const UserSchema = mongoose.Schema({
   password: {
     type: String,
     required: true,
-  },    
-  reviews: [
-    {
-      type: mongoose.Schema.Types.ObjectId,
-      ref: 'review'
-    }
-  ],
-  asWorker: [
-    {
-      type: mongoose.Schema.Types.ObjectId,
-      ref: 'worker'
-    }
-  ],
-  asEmployer: [
-    {
-      type: mongoose.Schema.Types.ObjectId,
-      ref: 'job'
-    }
-  ]
-
-
+  }
 },{
   collection: 'users',
   timestamps: true,

@@ -1,14 +1,14 @@
 const mongoose = require('mongoose');
 const idValidator = require('mongoose-id-validator');
 
-const JobSchema = mongoose.Schema({
+const ReviewSchema = mongoose.Schema({
   editor_user: {
     type: mongoose.Schema.Types.ObjectId,
-    ref: 'user'
+    ref: 'User'
   },
   rated_user:{
     type: mongoose.Schema.Types.ObjectId,
-    ref: 'user'
+    ref: 'User'
   },
   score: { 
     type: Number,

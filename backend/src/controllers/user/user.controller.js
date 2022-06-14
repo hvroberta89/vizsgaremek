@@ -1,5 +1,6 @@
 const createError = require('http-errors');
-const userService = require('./user.service');
+const User = require('../../models/user');
+const baseService = require('../base/base.service')(User);
 
 exports.create = ( req, res, next) => {
   const { 
@@ -36,7 +37,7 @@ exports.create = ( req, res, next) => {
     photo,
     password
   };
-  return userService.create(newUser)
+  return baseService.create(newUser)
     .then((createdUser) => {
       res.status(201);
       res.json(createdUser);

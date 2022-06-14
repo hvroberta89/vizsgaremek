@@ -44,14 +44,14 @@ const JobSchema = mongoose.Schema({
   },
   editor_user: { 
     type: mongoose.Schema.Types.ObjectId,
-    ref: 'users',
+    ref: 'User',
     required: true
   },
   worker_user: { 
     type: mongoose.Schema.Types.ObjectId,
-    ref: 'users',
+    ref: 'User',
     required: false
-  },
+  }
 }, {
   collection: 'jobs',
   timeStamps: true
