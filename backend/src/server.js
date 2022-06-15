@@ -17,7 +17,14 @@ mongoose.connect(`mongodb+srv://${host}`, {
   user, 
   pass,
 })
-.then( connect => console.log('Connection success!') )
+.then( connect => {
+  console.log('Connection success.');
+  
+  //Database seeding
+  //require('./seed/seeder');
+  //console.log('Database is seeded.');
+
+})
 .catch( err =>{
   throw new Error(err.message);
 });

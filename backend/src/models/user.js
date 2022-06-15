@@ -1,6 +1,14 @@
 const mongoose = require('mongoose');
 const idValidator = require('mongoose-id-validator');
 
+const AddressSchema = mongoose.Schema({
+  country: String,
+  zipCode: Number,
+  city: String,
+  street: String,
+  number: String,
+});
+
 const UserSchema = mongoose.Schema({
   user_name: { 
     type: String,
@@ -25,11 +33,7 @@ const UserSchema = mongoose.Schema({
     type: Date,
     required:true,
   },
-  address: {
-    type: String,
-    //type: Object,
-    required: true,
-  },
+  address: AddressSchema,
   email: { 
     type: String,
     required:true,
@@ -41,14 +45,11 @@ const UserSchema = mongoose.Schema({
     type: String,
     required:true,
   },
-  photo: {
-    type: String,
-    required:false,
-  },
   password: {
     type: String,
     required: true,
-  }
+  },
+  role: Number
 },{
   collection: 'users',
   timestamps: true,

@@ -2,9 +2,9 @@ const mongoose = require('mongoose');
 const idValidator = require('mongoose-id-validator');
 
 const WorkerSchema = mongoose.Schema({
-  name: { 
-    type: String,
-    required:true,
+  editor_user: { 
+    type: mongoose.Schema.Types.ObjectId,
+    ref: 'User'
   },
   date_from: { 
     type: Date,
@@ -14,7 +14,11 @@ const WorkerSchema = mongoose.Schema({
     type: Date,
     required:true,
   },
-  nature: { 
+  category: { 
+    type: String,
+    required:true,
+  },
+  description: {
     type: String,
     required:true,
   },
