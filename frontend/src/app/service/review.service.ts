@@ -1,16 +1,16 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 
-import { Job } from './../model/job';
+import { Review } from './../model/review';
 import { BaseService } from './base.service';
 
 @Injectable({
   providedIn: 'root'
 })
-export class JobService extends BaseService<Job> {
+export class ReviewService extends BaseService<Review> {
 
   constructor(public override http:HttpClient) {
     super(http);
-    this.entityName = 'jobs';
+    this.entityName = 'reviews';
   }
 }

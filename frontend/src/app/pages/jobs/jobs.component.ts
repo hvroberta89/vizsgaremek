@@ -1,8 +1,9 @@
-import { Job } from './../../model/job';
 import { Component, OnInit } from '@angular/core';
-import { ConfigService } from 'app/service/config.service';
-import { JobService } from 'app/service/job.service';
 import { Observable } from 'rxjs';
+
+import { ConfigService } from 'app/service/config.service';
+import { Job } from './../../model/job';
+import { JobService } from 'app/service/job.service';
 
 @Component({
   selector: 'app-jobs',

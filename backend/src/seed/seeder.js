@@ -2,10 +2,10 @@ const fsp = require('fs').promises;
 const { join } = require('path');
 
 const modelList = [
-//  'user',
-//  'job',
-//  'review',
-  'worker'
+  //'user',
+  //'job',
+  //'review',
+  //worker'
 ];
 
 (async () => {

@@ -13,7 +13,8 @@ export const ROUTES: RouteInfo[] = [
     { path: '/dashboard',     title: 'Dashboard',         icon:'nc-sound-wave',   class: '' },
     { path: '/jobs',          title: 'Munkalehetőségek',  icon:'nc-briefcase-24', class: '' },
     { path: '/workers',       title: 'Munkavállalók',     icon:'nc-settings',     class: '' },
-    { path: '/users',         title: 'Felhasználók',      icon:'nc-badge',        class: '' }
+    { path: '/users',         title: 'Felhasználók',      icon:'nc-badge',        class: '' },
+    { path: '/reviews',       title: 'Vélemények',        icon:'nc-chat-33',        class: '' }
 ];
 
 @Component({

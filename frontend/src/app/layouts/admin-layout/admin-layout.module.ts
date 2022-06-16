@@ -11,6 +11,7 @@ import { DashboardComponent }   from '../../pages/dashboard/dashboard.component'
 import { UsersComponent }       from '../../pages/users/users.component';
 import { WorkersComponent }     from '../../pages/workers/workers.component';
 import { JobsComponent }        from '../../pages/jobs/jobs.component';
+import { ReviewsComponent }        from '../../pages/reviews/reviews.component';
 
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
@@ -27,7 +28,8 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     DashboardComponent,
     UsersComponent,
     WorkersComponent,
-    JobsComponent
+    JobsComponent,
+    ReviewsComponent
   ]
 })
 

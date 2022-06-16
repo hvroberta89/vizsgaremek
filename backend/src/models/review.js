@@ -25,7 +25,7 @@ const ReviewSchema = mongoose.Schema({
     required:true,
   },
   review_date: {
-    type: Date,
+    type: String,
     required: true,
   }
 },{

@@ -6,7 +6,7 @@ const JobSchema = mongoose.Schema({
   category: String,
   description: String,
   settlement: String,
-  date: Date,
+  date: String,
   time: String,
   tools: Boolean,
   wage: String,

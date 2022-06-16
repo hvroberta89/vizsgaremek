@@ -30,7 +30,7 @@ const UserSchema = mongoose.Schema({
     required:true,
   },
   birth_date: { 
-    type: Date,
+    type: String,
     required:true,
   },
   address: AddressSchema,
