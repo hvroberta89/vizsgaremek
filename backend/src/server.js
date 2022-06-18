@@ -7,6 +7,7 @@ const cors = require('cors');
 
 const app = express();
 
+const loginRouter =require('./controllers/login/login.router');
 const userRouter =require('./controllers/user/user.router');
 const jobRouter =require('./controllers/job/job.router');
 const workerRouter =require('./controllers/worker/worker.router');
@@ -33,15 +34,18 @@ app.use(cors());
 app.use(express.static('public'));
 app.use(bodyParser.json());
 
+const authenticateJwt = require('./modules/auth/authenticate'); 
 
+//Login
+app.use('/login', loginRouter);
 // Users
-app.use('/users', userRouter);
+app.use('/users', authenticateJwt, userRouter);
 // Jobs
-app.use('/jobs', jobRouter);
+app.use('/jobs', authenticateJwt, jobRouter);
 // Workers
-app.use('/workers', workerRouter);
+app.use('/workers', authenticateJwt, workerRouter);
 // Review
-app.use('/reviews', reviewRouter);
+app.use('/reviews', authenticateJwt, reviewRouter);
 // Index
 app.use('/', (req, res) => {
   res.send('api server');

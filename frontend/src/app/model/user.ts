@@ -11,6 +11,6 @@ export class User {
   address: Address = new Address();
   email: string = '';
   mobil_number: string = '';
-  password: string = '';
-  role: number = 1;
+  password?: string = '';
+  role?: number = 1;
 }

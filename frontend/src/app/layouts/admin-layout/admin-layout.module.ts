@@ -6,7 +6,6 @@ import { FormsModule } from '@angular/forms';
 
 import { AdminLayoutRoutes }    from './admin-layout.routing';
 
-import { HomeComponent }        from '../../pages/home/home.component';
 import { DashboardComponent }   from '../../pages/dashboard/dashboard.component';
 import { UsersComponent }       from '../../pages/users/users.component';
 import { WorkersComponent }     from '../../pages/workers/workers.component';
@@ -24,7 +23,6 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     DataTableModule
   ],
   declarations: [
-    HomeComponent,
     DashboardComponent,
     UsersComponent,
     WorkersComponent,

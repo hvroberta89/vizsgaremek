@@ -1,0 +1,26 @@
+<main>
+  <div class="row">
+    <div class="col-lg-6 col-md-8 mx-auto">
+      <div class="card card-user px-3">
+        <div class="card-header">
+          <h5 class="card-title">Bejelentkezés</h5>
+        </div>
+        <div class="card-body">
+          <form (ngSubmit)="onLogin()">
+            <div class="form-group">
+              <label for="email">Email</label>
+              <input type="email" class="form-control" placeholder="Email" name="email" [(ngModel)]="loginData.email">
+            </div>
+            <div class="form-group">
+              <label>Jelszó</label>
+              <input type="password" class="form-control" name="password" placeholder="Jelszó" [(ngModel)]="loginData.password">
+            </div>
+            <button type="submit" class="btn btn-primary btn-round">
+              Bejelentkezés
+            </button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
