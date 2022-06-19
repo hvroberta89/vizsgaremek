@@ -2,16 +2,46 @@ const mongoose = require('mongoose');
 const idValidator = require('mongoose-id-validator');
 
 const JobSchema = mongoose.Schema({
-  title: String,
-  category: String,
-  description: String,
-  settlement: String,
-  date: String,
-  time: String,
-  tools: Boolean,
-  wage: String,
-  amount:Number,
-  active: Boolean,
+  title: {
+    type: String,
+    require: true
+  },  
+  category: {
+    type: String,
+    require: true
+  },  
+  description: {
+    type: String,
+    require: true
+  },  
+  settlement:{
+    type: String,
+    require: true
+  },  
+  date:{
+    type: Date,
+    require: true
+  },  
+  time:{
+    type: String,
+    require: false
+  },  
+  tools: {
+    type: Boolean,
+    require: true
+  },  
+  wage:{
+    type: String,
+    require: false
+  },
+  amount:{
+    type: Number,
+    require: false
+  },  
+  active: {
+    type: Boolean,
+    require: true
+  },  
   editor_user: { 
     type: mongoose.Schema.Types.ObjectId,
     ref: 'User',

@@ -7,12 +7,12 @@ export class Job {
   category: string = '';
   description: string = '';
   settlement: string = '';
-  //date: Date = new Date();
-  date: string = '';
+  date: Date = new Date();
+  //date: string = '';
   time: string = '';
   tools: boolean = false;
   amount: number = 0;
-  wage: string = 'óra bér' || 'fix bér';
+  wage: string = '';
   active: boolean = false;
   editor_user: User = new User();
   worker_user?: User = new User();

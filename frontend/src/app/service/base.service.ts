@@ -20,8 +20,8 @@ export class BaseService<T extends { _id: string, [key: string]: any }> {
     return this.http.get<T[]>(`${this.apiUrl}${this.entityName}`);
   }
 
-  getOne(_id: string): Observable<T> {
-    return this.http.get<T>(`${this.apiUrl}${this.entityName}/${_id}`);
+  getOne(id: string): Observable<T> {
+    return this.http.get<T>(`${this.apiUrl}${this.entityName}/${id}`);
   }
 
   create(entity: T): Observable<T> {
@@ -29,6 +29,7 @@ export class BaseService<T extends { _id: string, [key: string]: any }> {
   }
 
   update(entity: T): Observable<T> {
+    console.log(entity);
     return this.http.patch<T>(`${this.apiUrl}${this.entityName}/${entity._id}`, entity);
   }
 

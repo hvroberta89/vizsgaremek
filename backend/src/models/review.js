@@ -18,11 +18,11 @@ const ReviewSchema = mongoose.Schema({
   },
   positive: { 
     type: String,
-    required:true,
+    required: false,
   },
   negative: { 
     type: String,
-    required:true,
+    required: false,
   },
   review_date: {
     type: String,

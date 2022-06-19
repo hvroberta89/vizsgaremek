@@ -16,6 +16,11 @@ const UserSchema = mongoose.Schema({
   user_name: { 
     type: String,
     required:true,
+    validate: {
+      validator: function(v) {
+        return /^[a-zA-Z0-9\_\-]{4,25}$/.test(v);
+      }
+    },
     index: {
       unique: true,
     },
@@ -23,14 +28,25 @@ const UserSchema = mongoose.Schema({
   first_name: { 
     type: String,
     required:true,
+    validate: {
+      validator: function(v) {
+        return /^[a-űA-Ű\-\.]{3,25}$/.test(v);
+      }
+    },
   },
   last_name: { 
     type: String,
     required:true,
+    validate: {
+      validator: function(v) {
+        return /^[a-űA-Ű\-\.]{3,25}$/.test(v);
+      }
+    },
   },
   gender: { 
     type: String,
     required:true,
+    enum: ["Nő", "Férfi"]
   },
   birth_date: { 
     type: String,
@@ -47,6 +63,11 @@ const UserSchema = mongoose.Schema({
   mobil_number: { 
     type: String,
     required:true,
+    validate: {
+      validator: function(v) {
+        return /^[0-9\-\+\/]{10,15}$/.test(v);
+      }
+    },
   },
   password: {
     type: String,

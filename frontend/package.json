@@ -36,6 +36,7 @@
     "chartist": "0.11.4",
     "core-js": "3.21.1",
     "express": "4.18.0",
+    "font-awesome": "^4.7.0",
     "jquery": "3.5.1",
     "json-server": "^0.17.0",
     "moment": "^2.29.3",

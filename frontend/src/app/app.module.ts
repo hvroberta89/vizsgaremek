@@ -19,12 +19,15 @@ import { AdminLayoutComponent } from './layouts/admin-layout/admin-layout.compon
 import { HomeComponent } from './pages/home/home.component';
 import { LoginComponent } from './pages/login/login.component';
 
+
+
 @NgModule({
   declarations: [
     AppComponent,
     AdminLayoutComponent,
     HomeComponent,
     LoginComponent,
+
   ],
   imports: [
     BrowserAnimationsModule,

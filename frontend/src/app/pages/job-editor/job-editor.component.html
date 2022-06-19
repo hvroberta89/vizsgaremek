@@ -1,0 +1,143 @@
+<div class="row">
+  <div class="col-md-11 mx-auto">
+    <div class="card">
+      <div class="card-header">
+        <h5 class="card-title">Munkalehetőség szerkesztő</h5>
+      </div>
+      <div class="card-body">
+        <form (ngSubmit)="update(job)" *ngIf="job$ | async as job" #editForm="ngForm" class="px-3">
+          <div class="row">
+            <div class="col-md-5 px-1">
+              <input name="_id" type="hidden" [(ngModel)]="job._id">
+              <div class="form-group">
+                <label for="title">Cimke</label>
+                <input class="form-control" type="text" name="title" [(ngModel)]="job.title">
+              </div>
+            </div>
+            <div class="col-md-3 px-1">
+              <div class="form-group">
+                <label for="settlement">Település</label>
+                <input class="form-control" type="text" name="settlement" [(ngModel)]="job.settlement">
+              </div>
+            </div>
+            <div class="col-md-4 px-1">
+              <div class="form-group">
+                <label for="category">Kategória</label>
+                <input class="form-control" type="text" name="category" [(ngModel)]="job.category">
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-3 px-1">
+              <div class="form-group">
+                <label for="date">Dátum</label>
+                <div class="input-group">
+                  <input
+                    class="form-control"
+                    placeholder="yyyy-mm-dd"
+                    name="date"
+                    [(ngModel)]="job.date"
+                    ngbDatepicker #d="ngbDatepicker">
+                  <button
+                    class="btn-calendar btn-primary"
+                    (click)="d.toggle()"
+                    type="button">
+                    <i class="fa fa-calendar" aria-hidden="true"></i>
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-3 px-1">
+              <div class="form-group">
+                <label for="time">Idő tartam</label>
+                <input class="form-control" type="text" name="time" [(ngModel)]="job.time">
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-12 px-1">
+              <div class="form-group">
+                <label for="description">Részletes leírás</label>
+                <textarea  class="form-control textarea" type="text" name="description" [(ngModel)]="job.description"></textarea>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-12 my-2 px-1">
+              <div class="form-group">
+                <p>Szükséges szerszámok rendelkezésre állnak?</p>
+                <div class="btn-group" role="group" ngbRadioGroup name="tools" [(ngModel)]="job.tools">
+                  <label ngbButtonLabel class="btn-primary">
+                    <input ngbButton type="radio" class="btn-check" [value]="true">
+                    Igen
+                  </label>
+                  <label ngbButtonLabel class="btn-primary">
+                    <input ngbButton type="radio" class="btn-check" [value]="false">
+                    Nem
+                  </label>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-2 px-1">
+              <div class="form-group">
+                <label for="amount">Bér</label>
+                <input class="form-control" type="number" name="amount" [(ngModel)]="job.amount">
+              </div>
+            </div>
+            <div class="col-md-3 px-1">
+              <div class="form-group">
+                <label for="wage">Jellege</label>
+                <select class="form-control" name="wage" [(ngModel)]="job.wage">
+                  <option value="óra">Órabér</option>
+                  <option value="fix összeg">Fix összeg</option>
+                  <option value="egyéb">Egyéb</option>
+                </select>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-4 px-1">
+              <div class="form-group">
+                <label for="editor_user">Munkaadó</label>
+                <input class="form-control" type="text" name="editor_user" [(ngModel)]="job.editor_user">
+              </div>
+            </div>
+            <div class="col-md-4 px-1">
+              <div class="form-group">
+                <label for="worker_user">Munkavállaló</label>
+                <input class="form-control" type="text" name="worker_user" [(ngModel)]="job.worker_user">
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-2 px-1">
+              <div class="form-group">
+                <div class="form-group">
+                  <p>Aktív hirdetés?</p>
+                  <div class="btn-group" role="group" ngbRadioGroup name="active" [(ngModel)]="job.active">
+                    <label ngbButtonLabel class="btn-primary">
+                      <input ngbButton type="radio" class="btn-check" [value]="true">
+                      Igen
+                    </label>
+                    <label ngbButtonLabel class="btn-primary">
+                      <input ngbButton type="radio" class="btn-check" [value]="false">
+                      Nem
+                    </label>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="update ml-auto mr-auto">
+              <button type="submit" class="btn btn-primary btn-round">Mentés</button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

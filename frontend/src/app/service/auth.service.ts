@@ -34,6 +34,7 @@ export class AuthService {
   ) {
     this.loginUrl = `${this.apiUrl}login`;
 
+
     this.user$.subscribe({
       next: user => {
         if (user) {
@@ -45,8 +46,6 @@ export class AuthService {
         }
       }
     });
-
-
     const loginInfo = sessionStorage.getItem('login');
     if (loginInfo) {
       const loginObject = JSON.parse(loginInfo);

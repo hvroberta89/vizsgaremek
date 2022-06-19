@@ -12,6 +12,11 @@ import { WorkersComponent }     from '../../pages/workers/workers.component';
 import { JobsComponent }        from '../../pages/jobs/jobs.component';
 import { ReviewsComponent }        from '../../pages/reviews/reviews.component';
 
+import { ReviewEditorComponent } from './../../pages/review-editor/review-editor.component';
+import { WorkerEditorComponent } from './../../pages/worker-editor/worker-editor.component';
+import { JobEditorComponent } from './../../pages/job-editor/job-editor.component';
+import { UserEditorComponent } from './../../pages/user-editor/user-editor.component';
+
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 @NgModule({
@@ -27,7 +32,11 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     UsersComponent,
     WorkersComponent,
     JobsComponent,
-    ReviewsComponent
+    ReviewsComponent,
+    ReviewEditorComponent,
+    WorkerEditorComponent,
+    JobEditorComponent,
+    UserEditorComponent
   ]
 })
 
