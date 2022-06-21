@@ -8,7 +8,7 @@ import { get } from 'lodash';
 export class ConfigService {
 
   jobsTableColumns: INgTableColumn[] = [
-    { key: '_id', title: '#' },
+    //{ key: '_id', title: '#' },
     { key: 'title', title: 'Cimke' },
     { key: 'category', title: 'Kategória' },
     { key: 'description', title: 'Részletes leírás',
@@ -26,7 +26,7 @@ export class ConfigService {
     { key: 'worker_user', title: 'Munkavállaló' }
   ];
   workersTableColumns: INgTableColumn[] = [
-    { key: '_id', title: '#' },
+    //{ key: '_id', title: '#' },
     { key: 'editor_user', title: 'Felhasználónév' },
     { key: 'date_from', title: 'Dátum(-tól)' },
     { key: 'date_to', title: 'Dátum(-ig)' },
@@ -36,7 +36,7 @@ export class ConfigService {
     { key: 'reviews', title: 'Vélemények' }
   ];
   reviewsTableColumns: INgTableColumn[] = [
-    { key: '_id', title: '#' },
+    //{ key: '_id', title: '#' },
     { key: 'editor_user', title: 'Felhasználónév' },
     { key: 'rated_user', title: 'Értékelt felhasználó' },
     { key: 'score', title: 'Pontszám' },
@@ -45,7 +45,7 @@ export class ConfigService {
     { key: 'review_date', title: 'Értékelés dátuma' }
   ];
   usersTableColumns: INgTableColumn[] = [
-    { key: '_id', title: '#' },
+    //{ key: '_id', title: '#' },
     { key: 'user_name', title: 'Felhasználónév' },
     { key: 'first_name', title: 'Keresztnév' },
     { key: 'last_name', title: 'Vezetéknév' },
