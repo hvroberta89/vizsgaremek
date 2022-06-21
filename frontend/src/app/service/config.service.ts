@@ -1,5 +1,6 @@
 import { Injectable } from '@angular/core';
 import { INgTableColumn } from '../data-table/ng-data-table/ng-data-table.component';
+import { get } from 'lodash';
 
 @Injectable({
   providedIn: 'root',
@@ -10,7 +11,10 @@ export class ConfigService {
     { key: '_id', title: '#' },
     { key: 'title', title: 'Cimke' },
     { key: 'category', title: 'Kategória' },
-    { key: 'description', title: 'Részletes leírás' },
+    { key: 'description', title: 'Részletes leírás',
+      pipes: [ConfigService.curveLongString],
+      pipeArgs: [[0, 100]]
+     },
     { key: 'settlement', title: 'Település' },
     { key: 'date', title: 'Dátum' },
     { key: 'time', title: 'Idő' },
@@ -47,7 +51,11 @@ export class ConfigService {
     { key: 'last_name', title: 'Vezetéknév' },
     { key: 'gender', title: 'Neme' },
     { key: 'birth_date', title: 'Születési idő' },
-    { key: 'address', title: 'Cím' },
+    { key: 'address',
+      title: 'Cím',
+      pipes: [ConfigService.createStrFromObj],
+      pipeArgs: [['zipCode', 'city', 'street', 'number']]
+    },
     { key: 'email', title: 'Email' },
     { key: 'mobil_number', title: 'Mobilszám' },
     { key: 'password', title: 'Jelszó' },
@@ -55,5 +63,21 @@ export class ConfigService {
   ];
 
   constructor() {}
+
+  static createStrFromObj(obj: any, ...keys: string[]): string | number | boolean | undefined {
+    console.log(obj);
+    return keys.map( key => get(obj, key) ).join(' ');
+  }
+
+  static curveLongString(
+    data: string,
+    start: number,
+    end: number,
+    curve: string = '...'
+  ): string {
+    return data.slice(start, end) + curve;
+  }
+
+
 
 }

@@ -6,7 +6,6 @@ import { MatPaginatorModule } from '@angular/material/paginator';
 import { NgDataTableComponent } from './ng-data-table/ng-data-table.component';
 import { TextSlicerPipe } from './pipes/text-slicer.pipe';
 import { PaginatorPipe } from './pipes/paginator.pipe';
-
 @NgModule({
   declarations: [
     NgDataTableComponent,

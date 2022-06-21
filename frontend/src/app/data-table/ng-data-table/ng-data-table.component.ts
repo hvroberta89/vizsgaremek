@@ -1,12 +1,13 @@
-import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
+import { Component, EventEmitter, Input, OnInit, Output, Pipe, PipeTransform } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { PageEvent } from '@angular/material/paginator';
 
 export interface INgTableColumn {
   title: string;
   key: string;
+  pipes?: any[];
+  pipeArgs?: any[];
 }
-
 @Component({
   selector: 'ng-data-table',
   templateUrl: './ng-data-table.component.html',
@@ -16,7 +17,7 @@ export class NgDataTableComponent<T extends { [x: string]: any }> implements OnI
 
   @Input() tableTitle: string = '';
   @Input() tableColumn: INgTableColumn[] = [];
-  @Input()  list: T[] = [];
+  @Input() list: T[] = [];
 
   @Output() selectOne: EventEmitter<T> = new EventEmitter<T>();
   @Output() deleteOne: EventEmitter<T> = new EventEmitter<T>();

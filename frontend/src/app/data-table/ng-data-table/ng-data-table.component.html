@@ -13,10 +13,15 @@
               </th>
               <th></th>
             <tbody>
-              <tr *ngFor="let item of list | paginator: pageIndex : pageSize; let i = index" >
+              <tr *ngFor="let item of list |paginator: pageIndex : pageSize; let i = index" >
                 <td>{{ i + (pageIndex*pageSize) + 1 }}</td>
                 <td *ngFor="let column of tableColumn">
-                  {{ item[column.key] | textSlicer:100 }}
+                  <span *ngIf="column.pipes">
+                    {{ item[column.key] | toConfig:column.pipes:column.pipeArgs }}
+                  </span>
+                  <span *ngIf="!column.pipes">
+                    {{ item[column.key] }}
+                  </span>
                 </td>
                 <td>
                   <div class="btn-group">

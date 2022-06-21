@@ -18,6 +18,8 @@ import { AppRoutes } from './app.routing';
 import { AdminLayoutComponent } from './layouts/admin-layout/admin-layout.component';
 import { HomeComponent } from './pages/home/home.component';
 import { LoginComponent } from './pages/login/login.component';
+import { ToConfigPipe } from './pipes/to-config.pipe';
+import { CreateStrFromObjPipe } from './pipes/create-str-from-obj.pipe';
 
 
 
@@ -27,6 +29,8 @@ import { LoginComponent } from './pages/login/login.component';
     AdminLayoutComponent,
     HomeComponent,
     LoginComponent,
+    ToConfigPipe,
+    CreateStrFromObjPipe,
 
   ],
   imports: [
