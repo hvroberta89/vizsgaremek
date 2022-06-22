@@ -14,8 +14,6 @@ export class XpipePipe implements PipeTransform {
       return value;
     }
 
-    console.log('toConfig pipe is running');
-
     let output = value;
     for (let i = 0; i < pipes.length; i++) {
       const args = pipeArgs ? pipeArgs[i] || [] : [];

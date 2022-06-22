@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Location } from '@angular/common';
 import { NgForm } from '@angular/forms';
 import { ActivatedRoute, Router } from '@angular/router';
 import { Observable, of, switchMap } from 'rxjs';
@@ -13,7 +14,9 @@ import { JobService } from 'app/service/job.service';
 })
 export class JobEditorComponent implements OnInit {
 
-  job$!: Observable<Job>;
+  job$: Observable<Job> = this.activatedRoute.params.pipe(
+    switchMap(params => this.jobService.getOne(params['id'])),
+  );
   categories: string[] = [
     "kert",
     "takarítás",
@@ -25,6 +28,7 @@ export class JobEditorComponent implements OnInit {
     private jobService: JobService,
     private activatedRoute: ActivatedRoute,
     private router: Router,
+    private location: Location,
   ) { }
 
   ngOnInit(): void {
@@ -36,9 +40,9 @@ export class JobEditorComponent implements OnInit {
     );
   }
 
-  update(job: Job): void {
+  onUpdate(job: Job): void {
     this.jobService.update(job).subscribe({
-      next: updatedJob => this.router.navigate(['/', 'jobs']),
+      next: updatedJob => this.location.back(),
       error: err => console.error(err),
     });
   }

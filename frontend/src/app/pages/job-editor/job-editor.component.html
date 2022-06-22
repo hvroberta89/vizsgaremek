@@ -5,7 +5,7 @@
         <h5 class="card-title">Munkalehetőség szerkesztő</h5>
       </div>
       <div class="card-body">
-        <form (ngSubmit)="update(job)" *ngIf="job$ | async as job" #editForm="ngForm" class="px-3">
+        <form (ngSubmit)="onUpdate(job)" *ngIf="job$ | async as job" #editForm="ngForm" class="px-3">
           <div class="row">
             <div class="col-md-5 px-1">
               <input name="_id" type="hidden" [(ngModel)]="job._id">

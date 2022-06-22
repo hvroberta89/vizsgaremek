@@ -65,7 +65,6 @@ export class ConfigService {
   constructor() {}
 
   static createStrFromObj(obj: any, ...keys: string[]): string | number | boolean | undefined {
-    console.log(obj);
     return keys.map( key => get(obj, key) ).join(' ');
   }
 

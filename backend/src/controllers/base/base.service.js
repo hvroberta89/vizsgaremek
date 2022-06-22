@@ -7,6 +7,7 @@ module.exports = (model) => {
       const error = newEntity.validateSync();
       if (!error) {
         const savedEntity = await newEntity.save();
+        console.log(savedEntity);
         return model.findById(savedEntity._id);
       }
       throw new Error(error);
@@ -15,7 +16,7 @@ module.exports = (model) => {
       const newEntity = new model(body);
       const error = newEntity.validateSync();
       if (!error) {
-        model.findByIdAndUpdate(id, body, {new: true});
+        return model.findByIdAndUpdate(id, body, {new: true});
       }
       throw new Error(error);
     },
