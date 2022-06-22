@@ -2,11 +2,12 @@ module.exports = (model) => {
   return {
     findAll: () => model.find({}),
     findOne: (id) => model.findById(id),
-    create: (body) => {
+    create: async (body) => {
       const newEntity = new model(body);
       const error = newEntity.validateSync();
       if (!error) {
-        return newEntity.save();
+        const savedEntity = await newEntity.save();
+        return model.findById(savedEntity._id);
       }
       throw new Error(error);
     },

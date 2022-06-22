@@ -1,9 +1,9 @@
 import { Pipe, PipeTransform } from '@angular/core';
 
 @Pipe({
-  name: 'toConfig'
+  name: 'xpipe'
 })
-export class ToConfigPipe implements PipeTransform {
+export class XpipePipe implements PipeTransform {
 
   transform(
     value: unknown,
@@ -28,5 +28,6 @@ export class ToConfigPipe implements PipeTransform {
 
     return output;
   }
+
 
 }

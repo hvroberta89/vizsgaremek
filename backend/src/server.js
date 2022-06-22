@@ -12,6 +12,7 @@ const userRouter =require('./controllers/user/user.router');
 const jobRouter =require('./controllers/job/job.router');
 const workerRouter =require('./controllers/worker/worker.router');
 const reviewRouter =require('./controllers/review/review.router');
+const categoryRouter =require('./controllers/category/category.router');
 
 const { host, user, pass} = config.get('database');
 mongoose.connect(`mongodb+srv://${host}`, {
@@ -22,8 +23,8 @@ mongoose.connect(`mongodb+srv://${host}`, {
   console.log('Connection success.');
   
   //Database seeding
-  require('./seed/seeder');
-  console.log('Database is seeded.');
+  //require('./seed/seeder');
+  //console.log('Database is seeded.');
 })
 .catch( err =>{
   throw new Error(err.message);
@@ -46,6 +47,8 @@ app.use('/jobs', authenticateJwt, jobRouter);
 app.use('/workers', authenticateJwt, workerRouter);
 // Review
 app.use('/reviews', authenticateJwt, reviewRouter);
+// Category
+app.use('/categories', authenticateJwt, categoryRouter);
 // Index
 app.use('/', (req, res) => {
   res.send('api server');
