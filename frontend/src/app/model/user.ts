@@ -8,7 +8,7 @@ export class User {
   last_name: string = '';
   photo?: string = '';
   gender: string = 'Nő' || 'Férfi';
-  birth_date?: String;
+  birth_date?: Date = new Date("YYYY-MM-DD");
   address?: Address = new Address();
   email: string = '';
   mobil_number: string = '';

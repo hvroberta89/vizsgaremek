@@ -37,6 +37,8 @@
                     placeholder="yyyy-mm-dd"
                     name="birth_date"
                     [(ngModel)]="user.birth_date"
+                    [bsConfig]="{ adaptivePosition: true,
+                      dateInputFormat:'YYYY-MM-DD'}"
                     ngbDatepicker #d="ngbDatepicker">
                   <button
                     class="btn-calendar btn-primary"
@@ -131,7 +133,7 @@
                 <input class="form-control" type="password" name="password" [(ngModel)]="user.password">
               </div>
             </div>
-            <div class="col-md-1 ml-md-5 px-1">
+            <div class="col-md-2 ml-md-5 px-1">
               <div class="form-group">
                 <label for="role">Jogosultság</label>
                 <input class="form-control" type="number" name="role" [(ngModel)]="user.role">

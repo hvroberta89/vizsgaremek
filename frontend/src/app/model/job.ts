@@ -15,6 +15,6 @@ export class Job {
   amount: number = 0;
   wage: string = '';
   active: boolean = false;
-  editor_user: User = new User();
-  worker_user?: User = new User();
+  editor_user: User | string = new User();
+  worker_user?: User | string = new User();
 }

@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute, Router } from '@angular/router';
+import { ActivatedRoute } from '@angular/router';
 import { Category } from 'app/model/category';
 import { CategoryService } from 'app/service/category.service';
 import { Observable, of, switchMap } from 'rxjs';
@@ -12,14 +12,11 @@ import { Location } from '@angular/common';
 })
 export class CategoryEditorComponent implements OnInit {
 
-  category$: Observable<Category> = this.activatedRoute.params.pipe(
-    switchMap(params => this.categoryService.getOne(params['id'])),
-  );
+  category$: Observable<Category>;
 
   constructor(
     private categoryService: CategoryService,
     private activatedRoute: ActivatedRoute,
-    private router: Router,
     private location: Location,
   ) { }
 
@@ -44,7 +41,6 @@ export class CategoryEditorComponent implements OnInit {
     } else {
       this.categoryService.update(category).subscribe({
         next: () => this.location.back(),
-
       });
     }
   }

@@ -14,11 +14,15 @@ export class ConfigService {
     { key: 'last_name', title: 'Vezetéknév' },
     { key: 'gender', title: 'Neme' },
     { key: 'photo', title: 'Profilkép' },
-    { key: 'birth_date', title: 'Születési idő' },
+    { key: 'birth_date',
+      title: 'Születési idő',
+      pipes: [ConfigService.createStrFromObj],
+      pipeArgs: [["-", 'year', 'month', 'day']]
+    },
     { key: 'address',
       title: 'Cím',
       pipes: [ConfigService.createStrFromObj],
-      pipeArgs: [['zipCode', 'city', 'street', 'number']]
+      pipeArgs: [[" ", 'zipCode', 'city', 'street', 'number']]
     },
     { key: 'email', title: 'Email' },
     { key: 'mobil_number', title: 'Mobilszám' },
@@ -41,7 +45,7 @@ export class ConfigService {
     { key: 'category', title: 'Kategória' },
     { key: 'description', title: 'Részletes leírás',
       pipes: [ConfigService.curveLongString],
-      pipeArgs: [[0, 100]]
+      pipeArgs: [[0, 50]]
      },
     { key: 'settlement', title: 'Település' },
     { key: 'date', title: 'Dátum' },
@@ -50,7 +54,11 @@ export class ConfigService {
     { key: 'amount', title: 'Bér' },
     { key: 'wage', title: 'Bér jellege' },
     { key: 'active', title: 'Aktív' },
-    { key: 'editor_user', title: 'Munkaadó' },
+    { key: 'editor_user',
+      title: 'Munkaadó',
+      pipes: [ConfigService.createStrFromObj],
+      pipeArgs: [["", 'user_name']]
+    },
     { key: 'worker_user', title: 'Munkavállaló' }
   ];
   categoriesTableColumns: INgTableColumn[] = [
@@ -71,8 +79,8 @@ export class ConfigService {
 
   constructor() {}
 
-  static createStrFromObj(obj: any, ...keys: string[]): string | number | boolean | undefined {
-    return keys.map( key => get(obj, key) ).join(' ');
+  static createStrFromObj(obj: any, sep: string, ...keys: string[]): string | number | boolean | undefined {
+    return keys.map( key => get(obj, key) ).join(sep);
   }
 
   static curveLongString(

@@ -49,7 +49,7 @@ const UserSchema = mongoose.Schema({
     enum: ["Nő", "Férfi"]
   },
   birth_date: { 
-    type: String,
+    type: Object,
     required:false,
   },
   photo: {
