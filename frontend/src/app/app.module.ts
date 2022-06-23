@@ -21,7 +21,6 @@ import { LoginComponent } from './pages/login/login.component';
 import { CreateStrFromObjPipe } from './pipes/create-str-from-obj.pipe';
 
 
-
 @NgModule({
   declarations: [
     AppComponent,
@@ -29,7 +28,6 @@ import { CreateStrFromObjPipe } from './pipes/create-str-from-obj.pipe';
     HomeComponent,
     LoginComponent,
     CreateStrFromObjPipe,
-
   ],
   imports: [
     BrowserAnimationsModule,

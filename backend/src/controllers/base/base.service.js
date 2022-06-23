@@ -1,20 +1,19 @@
-module.exports = (model) => {
+module.exports = (model, populateList = []) => {
   return {
-    findAll: () => model.find({}),
-    findOne: (id) => model.findById(id),
+    findAll: () => model.find({}).populate(...populateList),
+    findOne: (id) => model.findById(id).populate(...populateList),
     create: async (body) => {
       const newEntity = new model(body);
-      const error = newEntity.validateSync();
+      const error = await newEntity.validateSync();
       if (!error) {
-        const savedEntity = await newEntity.save();
-        console.log(savedEntity);
-        return model.findById(savedEntity._id);
+          const saved = await newEntity.save();
+          return model.findById(saved._id);
       }
       throw new Error(error);
-    },
+    }, 
     updateOne: async (id, body) => {
       const newEntity = new model(body);
-      const error = newEntity.validateSync();
+      const error = await newEntity.validateSync();
       if (!error) {
         return model.findByIdAndUpdate(id, body, {new: true});
       }

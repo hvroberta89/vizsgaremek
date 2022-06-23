@@ -50,7 +50,10 @@ const UserSchema = mongoose.Schema({
   },
   birth_date: { 
     type: String,
-    required:true,
+    required:false,
+  },
+  photo: {
+    type: String
   },
   address: AddressSchema,
   email: { 
@@ -65,7 +68,7 @@ const UserSchema = mongoose.Schema({
     required:true,
     validate: {
       validator: function(v) {
-        return /^[0-9\-\+\/]{10,15}$/.test(v);
+        return /^[0-9\-\+\/]{9,20}$/.test(v);
       }
     },
   },

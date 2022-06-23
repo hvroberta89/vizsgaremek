@@ -1,8 +1,11 @@
 <div class="row">
   <div class="col-md-12">
     <div class="card">
-      <div class="card-header">
+      <div class="card-header row mx-2">
         <h4 class="card-title"> {{ tableTitle }}</h4>
+        <div class="ml-auto">
+            <button  (click)="onCreate()" class="btn btn-primary btn-round">Új elem hozzáadása</button>
+        </div>
       </div>
       <div class="card-body">
         <div class="table-responsive">

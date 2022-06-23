@@ -10,12 +10,15 @@ import { DashboardComponent }   from '../../pages/dashboard/dashboard.component'
 import { UsersComponent }       from '../../pages/users/users.component';
 import { WorkersComponent }     from '../../pages/workers/workers.component';
 import { JobsComponent }        from '../../pages/jobs/jobs.component';
+import { CategoriesComponent }        from '../../pages/categories/categories.component';
 import { ReviewsComponent }        from '../../pages/reviews/reviews.component';
 
-import { ReviewEditorComponent } from './../../pages/review-editor/review-editor.component';
+import { UserEditorComponent } from './../../pages/user-editor/user-editor.component';
 import { WorkerEditorComponent } from './../../pages/worker-editor/worker-editor.component';
 import { JobEditorComponent } from './../../pages/job-editor/job-editor.component';
-import { UserEditorComponent } from './../../pages/user-editor/user-editor.component';
+import { CategoryEditorComponent } from './../../pages/category-editor/category-editor.component';
+import { ReviewEditorComponent } from './../../pages/review-editor/review-editor.component';
+import { FileUploaderComponent } from '../../shared/file-uploader/file-uploader.component';
 
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
@@ -32,11 +35,14 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     UsersComponent,
     WorkersComponent,
     JobsComponent,
+    CategoriesComponent,
     ReviewsComponent,
-    ReviewEditorComponent,
+    UserEditorComponent,
     WorkerEditorComponent,
     JobEditorComponent,
-    UserEditorComponent
+    CategoryEditorComponent,
+    ReviewEditorComponent,
+    FileUploaderComponent,
   ]
 })
 

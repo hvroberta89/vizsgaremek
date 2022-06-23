@@ -1,0 +1,35 @@
+<div class="row">
+  <div class="col-md-11 mx-auto">
+    <div class="card">
+      <div class="card-header">
+        <h5 class="card-title">Kategória szerkesztő</h5>
+      </div>
+      <div class="card-body">
+        <form (ngSubmit)="onSave(category)" *ngIf="category$ | async as category" #editForm="ngForm" class="px-3">
+          <div class="row">
+            <div class="col-md-3 px-1">
+              <input name="_id" type="hidden" [(ngModel)]="category._id">
+              <div class="form-group">
+                <label for="title">Megnevezés</label>
+                <input class="form-control" type="text" name="title" [(ngModel)]="category.title">
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-12 px-1">
+              <div class="form-group">
+                <label for="description">Leírás</label>
+                <textarea  class="form-control textarea" type="text" name="description" [(ngModel)]="category.description"></textarea>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="update ml-auto mr-auto">
+              <button type="submit" class="btn btn-primary btn-round">Mentés</button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

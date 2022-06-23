@@ -17,6 +17,7 @@ export class JobEditorComponent implements OnInit {
   job$: Observable<Job> = this.activatedRoute.params.pipe(
     switchMap(params => this.jobService.getOne(params['id'])),
   );
+
   categories: string[] = [
     "kert",
     "takarítás",

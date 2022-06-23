@@ -11,7 +11,7 @@ const CategorySchema = mongoose.Schema({
     require: true
   },
 },{
-  collection: 'reviews',
+  collection: 'categories',
   timestamps: true,
 });
 

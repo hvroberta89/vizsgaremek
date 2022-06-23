@@ -7,6 +7,34 @@ import { get } from 'lodash';
 })
 export class ConfigService {
 
+  usersTableColumns: INgTableColumn[] = [
+    //{ key: '_id', title: '#' },
+    { key: 'user_name', title: 'Felhasználónév' },
+    { key: 'first_name', title: 'Keresztnév' },
+    { key: 'last_name', title: 'Vezetéknév' },
+    { key: 'gender', title: 'Neme' },
+    { key: 'photo', title: 'Profilkép' },
+    { key: 'birth_date', title: 'Születési idő' },
+    { key: 'address',
+      title: 'Cím',
+      pipes: [ConfigService.createStrFromObj],
+      pipeArgs: [['zipCode', 'city', 'street', 'number']]
+    },
+    { key: 'email', title: 'Email' },
+    { key: 'mobil_number', title: 'Mobilszám' },
+    { key: 'password', title: 'Jelszó' },
+    { key: 'role', title: 'Jogosultság' }
+  ];
+  workersTableColumns: INgTableColumn[] = [
+    //{ key: '_id', title: '#' },
+    { key: 'editor_user', title: 'Felhasználónév' },
+    { key: 'date_from', title: 'Dátum(-tól)' },
+    { key: 'date_to', title: 'Dátum(-ig)' },
+    { key: 'category', title: 'Kategória' },
+    { key: 'description', title: 'Leírás' },
+    { key: 'settlement', title: 'Település' },
+    { key: 'reviews', title: 'Vélemények' }
+  ];
   jobsTableColumns: INgTableColumn[] = [
     //{ key: '_id', title: '#' },
     { key: 'title', title: 'Cimke' },
@@ -25,15 +53,10 @@ export class ConfigService {
     { key: 'editor_user', title: 'Munkaadó' },
     { key: 'worker_user', title: 'Munkavállaló' }
   ];
-  workersTableColumns: INgTableColumn[] = [
+  categoriesTableColumns: INgTableColumn[] = [
     //{ key: '_id', title: '#' },
-    { key: 'editor_user', title: 'Felhasználónév' },
-    { key: 'date_from', title: 'Dátum(-tól)' },
-    { key: 'date_to', title: 'Dátum(-ig)' },
-    { key: 'category', title: 'Kategória' },
+    { key: 'title', title: 'Megnevezés' },
     { key: 'description', title: 'Leírás' },
-    { key: 'settlement', title: 'Település' },
-    { key: 'reviews', title: 'Vélemények' }
   ];
   reviewsTableColumns: INgTableColumn[] = [
     //{ key: '_id', title: '#' },
@@ -44,23 +67,7 @@ export class ConfigService {
     { key: 'negative', title: 'Negatívum' },
     { key: 'review_date', title: 'Értékelés dátuma' }
   ];
-  usersTableColumns: INgTableColumn[] = [
-    //{ key: '_id', title: '#' },
-    { key: 'user_name', title: 'Felhasználónév' },
-    { key: 'first_name', title: 'Keresztnév' },
-    { key: 'last_name', title: 'Vezetéknév' },
-    { key: 'gender', title: 'Neme' },
-    { key: 'birth_date', title: 'Születési idő' },
-    { key: 'address',
-      title: 'Cím',
-      pipes: [ConfigService.createStrFromObj],
-      pipeArgs: [['zipCode', 'city', 'street', 'number']]
-    },
-    { key: 'email', title: 'Email' },
-    { key: 'mobil_number', title: 'Mobilszám' },
-    { key: 'password', title: 'Jelszó' },
-    { key: 'role', title: 'Jogosultság' }
-  ];
+
 
   constructor() {}
 

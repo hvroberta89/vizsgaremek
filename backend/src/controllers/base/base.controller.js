@@ -1,25 +1,10 @@
 const createError = require('http-errors');
 const express = require('express');
 const baseService = require('../base/base.service');
+const { populate } = require('../../models/user');
 
-const checkModel = (model, body, next) => {
-  const validationError = new model(body).validateSync();
-  if (validationError) {
-      next(
-          new createError.BadRequest(
-              JSON.stringify({
-                  message: 'Schema validation error!',
-                  error: validationError
-              })
-          )
-      );
-      return false;
-  }
-  return true;
-}
-
-module.exports = (model) => {
-  const service= baseService(model);
+module.exports = (model, populateList = []) => {
+  const service= baseService(model, populateList = []);
   return {
     findAll(req, res, next) {
       return service.findAll()
@@ -29,17 +14,13 @@ module.exports = (model) => {
       return service.findOne(req.params.id)
         .then(entity => res.json(entity));
     },
-    create( req, res, next) {
-      if (!checkModel(model, req.body, next)) {
-        return;
-      };
-
+    create(req, res, next) {
       return service.create(req.body)
-        .then(entity => {
-            res.status(201);
-            res.json(entity);
-        })
-        .catch(err => next(new createError.InternalServerError(err.message)));
+        .then(entity => res.json(entity))
+        .catch(err => {
+          res.statusCode = 501;
+          res.json(err);
+      });
     },
     updateOne(req, res, next) {
       return service.updateOne(req.params.id, req.body)

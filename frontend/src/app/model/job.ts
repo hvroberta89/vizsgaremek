@@ -1,10 +1,11 @@
+import { Category } from './category';
 import { User } from './user';
 
 export class Job {
   [key: string]: any;
   _id: string = '';
   title: string = '';
-  category: string = '';
+  category: string | Category = '';
   description: string = '';
   settlement: string = '';
   date: Date = new Date();

@@ -4,6 +4,11 @@ const bodyParser = require('body-parser');
 const morgan = require('morgan');
 const mongoose = require('mongoose');
 const cors = require('cors');
+const fileUpload = require('express-fileupload');
+const swaggerUi = require('swagger-ui-express');
+const YAML = require('yamljs');
+
+const swaggerDocument = YAML.load('./docs/swagger.yaml');
 
 const app = express();
 
@@ -37,6 +42,10 @@ app.use(bodyParser.json());
 
 const authenticateJwt = require('./modules/auth/authenticate'); 
 
+// Upload files
+app.use(fileUpload());
+app.post('/upload', require('./modules/fileUploader/fileUpload'));
+
 //Login
 app.use('/login', loginRouter);
 // Users
@@ -49,6 +58,10 @@ app.use('/workers', authenticateJwt, workerRouter);
 app.use('/reviews', authenticateJwt, reviewRouter);
 // Category
 app.use('/categories', authenticateJwt, categoryRouter);
+
+// Swagger docs
+app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument));
+
 // Index
 app.use('/', (req, res) => {
   res.send('api server');

@@ -1,1 +1,150 @@
-<p>user-editor works!</p>
+<div class="row">
+  <div class="col-md-11 mx-auto">
+    <div class="card">
+      <div class="card-header">
+        <h5 class="card-title">Felhasználó szerkesztő</h5>
+      </div>
+      <div class="card-body">
+        <form (ngSubmit)="onSave(user)" *ngIf="user$ | async as user" #editForm="ngForm" class="px-3">
+          <div class="row">
+            <div class="col-md-3 px-1">
+              <input name="_id" type="hidden" [(ngModel)]="user._id">
+              <div class="form-group">
+                <label for="user_name">Felhasználónév</label>
+                <input class="form-control" type="text" name="user_name" [(ngModel)]="user.user_name">
+              </div>
+            </div>
+            <div class="col-md-4 ml-md-5 px-1">
+              <div class="form-group">
+                <label for="last_name">Vezetéknév</label>
+                <input class="form-control" type="text" name="last_name" [(ngModel)]="user.last_name">
+              </div>
+            </div>
+            <div class="col-md-4 px-1">
+              <div class="form-group">
+                <label for="first_name">Keresztnév</label>
+                <input class="form-control" type="text" name="first_name" [(ngModel)]="user.first_name">
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-3 px-1">
+              <div class="form-group">
+                <label for="birth_date">Születési idő</label>
+                <div class="input-group">
+                  <input
+                    class="form-control"
+                    placeholder="yyyy-mm-dd"
+                    name="birth_date"
+                    [(ngModel)]="user.birth_date"
+                    ngbDatepicker #d="ngbDatepicker">
+                  <button
+                    class="btn-calendar btn-primary"
+                    (click)="d.toggle()"
+                    type="button">
+                    <i class="fa fa-calendar" aria-hidden="true"></i>
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-2 ml-md-5 px-1">
+              <div class="form-group">
+                <label for="gender">Nem</label>
+                <select class="form-control" name="gender" [(ngModel)]="user.gender">
+                  <option value="Nő">Nő</option>
+                  <option value="Férfi">Férfi</option>
+                </select>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-6 px-1">
+              <div class="form-group">
+                <label for="photo">Profilkép</label>
+                <input
+                    class="form-control"
+                    placeholder="Hiányzó profilkép"
+                    name="photo"
+                    [(ngModel)]="uploadFileName">
+              </div>
+            </div>
+            <div class="col-md-2 mt-3 px-1">
+              <div class="form-group">
+                <app-file-uploader
+                  (uploaded)="uploadSuccess($event)">
+                </app-file-uploader>
+              </div>
+            </div>
+          </div>
+          <div class="row mt-3">
+            <div class="col-md-4 px-1">
+              <div class="form-group">
+                <label for="country">Ország</label>
+                <input class="form-control" type="text" name="country" [(ngModel)]="user.address.country">
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-2 px-1">
+              <div class="form-group">
+                <label for="zipCode">Irányítószám</label>
+                <input class="form-control" type="number" name="zipCode" [(ngModel)]="user.address.zipCode">
+              </div>
+            </div>
+            <div class="col-md-4 px-1">
+              <div class="form-group">
+                <label for="city">Város</label>
+                <input class="form-control" type="text" name="city" [(ngModel)]="user.address.city">
+              </div>
+            </div>
+            <div class="col-md-4 px-1">
+              <div class="form-group">
+                <label for="street">Utca</label>
+                <input class="form-control" type="text" name="street" [(ngModel)]="user.address.street">
+              </div>
+            </div>
+            <div class="col-md-2 px-1">
+              <div class="form-group">
+                <label for="number">Házszám</label>
+                <input class="form-control" type="text" name="number" [(ngModel)]="user.address.number">
+              </div>
+            </div>
+          </div>
+          <div class="row mt-3">
+            <div class="col-md-4 px-1">
+              <div class="form-group">
+                <label for="email">Email</label>
+                <input class="form-control" type="text" name="email" [(ngModel)]="user.email">
+              </div>
+            </div>
+            <div class="col-md-3 ml-md-5 px-1">
+              <div class="form-group">
+                <label for="mobil_number">Mobilszám</label>
+                <input class="form-control" type="text" name="mobil_number" [(ngModel)]="user.mobil_number">
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-3 px-1">
+              <div class="form-group">
+                <label for="password">Jelszó</label>
+                <input class="form-control" type="password" name="password" [(ngModel)]="user.password">
+              </div>
+            </div>
+            <div class="col-md-1 ml-md-5 px-1">
+              <div class="form-group">
+                <label for="role">Jogosultság</label>
+                <input class="form-control" type="number" name="role" [(ngModel)]="user.role">
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="update ml-auto mr-auto">
+              <button type="submit" class="btn btn-primary btn-round">Mentés</button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 const Review = require('../../models/review');
 const reviewController = require('./review.controller');
-const baseController = require('../base/base.controller')(Review);
+const baseController = require('../base/base.controller')(Review, ['User']);
 
 
 // GET
