@@ -5,13 +5,14 @@ module.exports = (model, populateList = []) => {
     create: async (body) => {
       const newEntity = new model(body);
       const error = await newEntity.validateSync();
+      console.log(error);
       if (!error) {
           const saved = await newEntity.save();
           return model.findById(saved._id);
       }
       throw new Error(error);
     }, 
-    updateOne: async (id, body) => {
+    updateOne: async (id, body) => { 
       const newEntity = new model(body);
       const error = await newEntity.validateSync();
       if (!error) {

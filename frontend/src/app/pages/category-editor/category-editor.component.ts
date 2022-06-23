@@ -34,6 +34,7 @@ export class CategoryEditorComponent implements OnInit {
 
   onSave(category: Category): void {
     if (!category._id){
+      category._id = undefined;
       this.categoryService.create(category).subscribe({
         next: (updatedUser) => {
           this.location.back();
