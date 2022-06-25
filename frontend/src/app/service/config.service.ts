@@ -26,7 +26,6 @@ export class ConfigService {
     },
     { key: 'email', title: 'Email' },
     { key: 'mobil_number', title: 'Mobilszám' },
-    { key: 'password', title: 'Jelszó' },
     { key: 'role', title: 'Jogosultság' }
   ];
   workersTableColumns: INgTableColumn[] = [

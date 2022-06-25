@@ -1,4 +1,5 @@
 const express = require('express');
+const createError = require('http-errors');
 const router = express.Router();
 const jwt =require('jsonwebtoken');
 const User = require('../../models/user');
@@ -9,28 +10,48 @@ router.post('/', async(req, res, next) => {
   const user = await User.findOne({ email });
 
   if (!user) {
-    return res.sendStatus(401);
+    return next(new createError.Unauthorized('Invalid email or password'));
   };
 
-  user.comparePassword(password, function(err, isMatch) {
-    if (err) {
-      return res.sendStatus(403);
-    }
+  const valid = user.verifyPasswordSync(password)
 
-    const accessToken = jwt.sign({
-      _id: user._id,
-      email: user.email,
-      role: 1
-    }, 'ezegynagyontitkosszoveg', {
-      expiresIn: '1h',
-    });
+  if (!valid) { 
+    return next(new createError.Unauthorized('Invalid email or password')); 
+  }
 
-    res.json({ 
-      success: true, 
-      accessToken,
-      user: { ...user._doc, password: '' }
-     });
+  const accessToken = jwt.sign({
+    _id: user._id,
+    email: user.email,
+    role: user.role,
+  }, `${process.env.ACCESS_TOKEN_SECRET}`, {
+    expiresIn: '1h',
+  })
+
+  return res.json({ 
+    success: true, 
+    accessToken,
+    user: { ...user._doc, password: '' }
   });
+
+  // user.comparePassword(password, function(err, isMatch) {
+  //   if (err) {
+  //     return res.sendStatus(403);
+  //   }
+
+  //   const accessToken = jwt.sign({
+  //     _id: user._id,
+  //     email: user.email,
+  //     role: 1
+  //   }, 'ezegynagyontitkosszoveg', {
+  //     expiresIn: '1h',
+  //   });
+
+  //   res.json({ 
+  //     success: true, 
+  //     accessToken,
+  //     user: { ...user._doc, password: '' }
+  //    });
+  // });
 });
 
 module.exports = router;
