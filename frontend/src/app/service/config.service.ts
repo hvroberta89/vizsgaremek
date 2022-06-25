@@ -9,90 +9,88 @@ export class ConfigService {
 
   usersTableColumns: INgTableColumn[] = [
     //{ key: '_id', title: '#' },
-    { key: 'user_name', title: 'Felhasználónév' },
-    { key: 'first_name', title: 'Keresztnév' },
-    { key: 'last_name', title: 'Vezetéknév' },
-    { key: 'gender', title: 'Neme' },
-    { key: 'photo', title: 'Profilkép' },
-    { key: 'birth_date',
-      title: 'Születési idő',
+    { key: 'user_name',     title: 'Felhasználónév' },
+    { key: 'first_name',    title: 'Keresztnév' },
+    { key: 'last_name',     title: 'Vezetéknév' },
+    { key: 'gender',        title: 'Neme' },
+    { key: 'photo',         title: 'Profilkép' },
+    { key: 'birth_date',    title: 'Születési idő',
       pipes: [ConfigService.createStrFromObj],
       pipeArgs: [["-", 'year', 'month', 'day']]
     },
-    { key: 'address',
-      title: 'Cím',
+    { key: 'address',       title: 'Cím',
       pipes: [ConfigService.createStrFromObj],
       pipeArgs: [[" ", 'zipCode', 'city', 'street', 'number']]
     },
-    { key: 'email', title: 'Email' },
-    { key: 'mobil_number', title: 'Mobilszám' },
-    { key: 'role', title: 'Jogosultság' }
+    { key: 'email',         title: 'Email' },
+    { key: 'mobil_number',  title: 'Mobilszám' },
+    { key: 'role',          title: 'Jogosultság' }
   ];
   workersTableColumns: INgTableColumn[] = [
     //{ key: '_id', title: '#' },
-    { key: 'editor_user', title: 'Felhasználónév',
+    { key: 'editor_user',   title: 'Felhasználónév',
       pipes: [ConfigService.createStrFromObj],
       pipeArgs: [["", 'user_name']]
     },
-    { key: 'date_from', title: 'Dátum(-tól)',
+    { key: 'date_from',     title: 'Dátum(-tól)',
       pipes: [ConfigService.createStrFromObj],
       pipeArgs: [["-", 'year', 'month', 'day']]
     },
-    { key: 'date_to', title: 'Dátum(-ig)',
+    { key: 'date_to',       title: 'Dátum(-ig)',
       pipes: [ConfigService.createStrFromObj],
       pipeArgs: [["-", 'year', 'month', 'day']]
     },
-    { key: 'category', title: 'Kategória' },
-    { key: 'description', title: 'Leírás' },
-    { key: 'settlement', title: 'Település' },
-    { key: 'reviews', title: 'Vélemények' }
+    { key: 'category',      title: 'Kategória' },
+    { key: 'description',   title: 'Leírás' },
+    { key: 'settlement',    title: 'Település' },
+    { key: 'reviews',       title: 'Vélemények' }
   ];
   jobsTableColumns: INgTableColumn[] = [
     //{ key: '_id', title: '#' },
-    { key: 'title', title: 'Cimke' },
-    { key: 'category', title: 'Kategória' },
-    { key: 'description', title: 'Részletes leírás',
+    { key: 'title',         title: 'Cimke' },
+    { key: 'category',      title: 'Kategória' },
+    { key: 'description',   title: 'Részletes leírás',
       pipes: [ConfigService.curveLongString],
       pipeArgs: [[0, 50]]
      },
-    { key: 'settlement', title: 'Település' },
-    { key: 'date', title: 'Dátum',
+    { key: 'settlement',    title: 'Település' },
+    { key: 'date',          title: 'Dátum',
       pipes: [ConfigService.createStrFromObj],
       pipeArgs: [["-", 'year', 'month', 'day']]
     },
-    { key: 'time', title: 'Idő' },
-    { key: 'tools', title: 'Eszközök' },
-    { key: 'amount', title: 'Bér' },
-    { key: 'wage', title: 'Bér jellege' },
-    { key: 'active', title: 'Aktív' },
-    { key: 'editor_user', title: 'Munkaadó',
+    { key: 'time',          title: 'Idő' },
+    { key: 'tools',         title: 'Eszközök' },
+    { key: 'amount',        title: 'Bér' },
+    { key: 'wage',          title: 'Bér jellege' },
+    { key: 'active',        title: 'Aktív' },
+    { key: 'editor_user',   title: 'Munkaadó',
       pipes: [ConfigService.createStrFromObj],
       pipeArgs: [["", 'user_name']]
     },
-    { key: 'worker_user', title: 'Munkavállaló',
+    { key: 'worker_user',   title: 'Munkavállaló',
       pipes: [ConfigService.createStrFromObj],
       pipeArgs: [["", 'user_name']]
     }
   ];
   categoriesTableColumns: INgTableColumn[] = [
     //{ key: '_id', title: '#' },
-    { key: 'title', title: 'Megnevezés' },
-    { key: 'description', title: 'Leírás' },
+    { key: 'title',         title: 'Megnevezés' },
+    { key: 'description',   title: 'Leírás' },
   ];
   reviewsTableColumns: INgTableColumn[] = [
     //{ key: '_id', title: '#' },
-    { key: 'editor_user', title: 'Felhasználónév',
+    { key: 'editor_user',   title: 'Felhasználónév',
       pipes: [ConfigService.createStrFromObj],
       pipeArgs: [["", 'user_name']]
     },
-    { key: 'rated_user', title: 'Értékelt felhasználó',
+    { key: 'rated_user',    title: 'Értékelt felhasználó',
       pipes: [ConfigService.createStrFromObj],
       pipeArgs: [["", 'user_name']]
     },
-    { key: 'score', title: 'Pontszám' },
-    { key: 'positive', title: 'Pozitívum' },
-    { key: 'negative', title: 'Negatívum' },
-    { key: 'review_date', title: 'Értékelés dátuma',
+    { key: 'score',         title: 'Pontszám' },
+    { key: 'positive',      title: 'Pozitívum' },
+    { key: 'negative',      title: 'Negatívum' },
+    { key: 'review_date',   title: 'Értékelés dátuma',
       pipes: [ConfigService.createStrFromObj],
       pipeArgs: [["-", 'year', 'month', 'day']]
     }
@@ -101,7 +99,11 @@ export class ConfigService {
 
   constructor() {}
 
-  static createStrFromObj(obj: any, sep: string, ...keys: string[]): string | number | boolean | undefined {
+  static createStrFromObj(
+    obj: any,
+    sep: string,
+    ...keys: string[]
+  ): string | number | boolean | undefined {
     return keys.map( key => get(obj, key) ).join(sep);
   }
 
