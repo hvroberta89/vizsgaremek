@@ -6,7 +6,7 @@ import { RouterModule } from '@angular/router';
 import { ToastrModule } from "ngx-toastr";
 import { HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
-import { TypeaheadModule } from 'ngx-bootstrap/typeahead';
+
 
 import { SidebarModule } from './sidebar/sidebar.module';
 import { FooterModule } from './shared/footer/footer.module';
@@ -20,7 +20,8 @@ import { AdminLayoutComponent } from './layouts/admin-layout/admin-layout.compon
 import { HomeComponent } from './pages/home/home.component';
 import { LoginComponent } from './pages/login/login.component';
 import { CreateStrFromObjPipe } from './pipes/create-str-from-obj.pipe';
-import { NgbModule, NgbRatingModule  } from '@ng-bootstrap/ng-bootstrap';
+
+
 
 
 @NgModule({
@@ -29,7 +30,7 @@ import { NgbModule, NgbRatingModule  } from '@ng-bootstrap/ng-bootstrap';
     AdminLayoutComponent,
     HomeComponent,
     LoginComponent,
-    CreateStrFromObjPipe,
+    CreateStrFromObjPipe
   ],
   imports: [
     BrowserAnimationsModule,
@@ -43,10 +44,7 @@ import { NgbModule, NgbRatingModule  } from '@ng-bootstrap/ng-bootstrap';
     FixedPluginModule,
     HttpClientModule,
     FormsModule,
-    ReactiveFormsModule,
-    NgbModule,
-    TypeaheadModule.forRoot(),
-    NgbRatingModule
+    ReactiveFormsModule
   ],
   providers: [
     {

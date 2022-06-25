@@ -27,8 +27,6 @@ export class ReviewEditorComponent implements OnInit {
   users$:  Observable<User[]> = this.userService.getAll();
   suggestions$: Observable<User[]> = of([]);
 
-
-
   constructor(
     private reviewService: ReviewService,
     private userService: UserService,

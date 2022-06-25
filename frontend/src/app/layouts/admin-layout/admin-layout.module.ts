@@ -3,6 +3,10 @@ import { NgModule } from '@angular/core';
 import { RouterModule } from '@angular/router';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
+import { TypeaheadModule } from 'ngx-bootstrap/typeahead';
+import { NgbRatingModule  } from '@ng-bootstrap/ng-bootstrap';
+import { RatingInputComponent } from '../../shared/rating-input/rating-input.component';
+
 
 import { AdminLayoutRoutes }    from './admin-layout.routing';
 
@@ -28,7 +32,9 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     RouterModule.forChild(AdminLayoutRoutes),
     FormsModule,
     NgbModule,
-    DataTableModule
+    DataTableModule,
+    TypeaheadModule.forRoot(),
+    NgbRatingModule
   ],
   declarations: [
     DashboardComponent,
@@ -43,6 +49,7 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     CategoryEditorComponent,
     ReviewEditorComponent,
     FileUploaderComponent,
+    RatingInputComponent
   ]
 })
 

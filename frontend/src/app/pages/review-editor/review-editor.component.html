@@ -36,11 +36,9 @@
             <div class="col-md-3 px-1">
               <div class="form-group">
                 <label for="score">Pontszám</label>
-                <ngb-rating [(rate)]="review.score" [max]="5">
-                  <ng-template let-fill="fill" let-index="index">
-                    <span class="star" [class.filled]="fill === 100" [class.bad]="index < 3">&#9733;</span>
-                  </ng-template>
-                </ngb-rating>
+                <div>
+                  <rating-input name="score" [(ngModel)]="review.rating"></rating-input>
+                </div>
               </div>
             </div>
           </div>
