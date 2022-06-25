@@ -10,6 +10,10 @@ router.get('/', (req, res, next) => {
     return baseController.findAll(req, res, next);
 });
 
+router.get('/search', (req, res, next) => {
+    return baseController.search(req, res, next);
+});
+
 router.get('/:id', (req, res, next) => {
     return baseController.findOne(req, res, next);
 });

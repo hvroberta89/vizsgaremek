@@ -1,1 +1,103 @@
-<p>worker-editor works!</p>
+<div class="row">
+  <div class="col-md-11 mx-auto">
+    <div class="card">
+      <div class="card-header">
+        <h5 class="card-title">Munkaerő szerkesztő</h5>
+      </div>
+      <div class="card-body">
+        <form (ngSubmit)="onSave(worker)" *ngIf="worker$ | async as worker" #editForm="ngForm" class="px-3">
+          <div class="row">
+            <div class="col-md-4 px-1">
+              <input name="_id" type="hidden" [(ngModel)]="worker._id">
+              <div class="form-group">
+                <label for="editor_user">Felhasználónév</label>
+                <input class="form-control" type="text" name="editor_user" [(ngModel)]="worker.editor_user">
+              </div>
+            </div>
+            <div class="col-md-4 px-1">
+              <div class="form-group">
+                <label for="category">Kategória</label>
+                <select class="form-control" name="category" [(ngModel)]="worker.category">
+                  <option *ngFor="let category of category$ | async" value=category.id>
+                    {{ category.title }}
+                  </option>
+                </select>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-3 px-1">
+              <div class="form-group">
+                <label for="date_from">Dátum(-tól)</label>
+                <div class="input-group">
+                  <input
+                    class="form-control"
+                    placeholder="yyyy-mm-dd"
+                    name="date_from"
+                    [(ngModel)]="worker.date_from"
+                    ngbDatepicker #d="ngbDatepicker">
+                  <button
+                    class="btn-calendar btn-primary"
+                    (click)="d.toggle()"
+                    type="button">
+                    <i class="fa fa-calendar" aria-hidden="true"></i>
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-3 px-1">
+              <div class="form-group">
+                <label for="date_to">Dátum(-ig)</label>
+                <div class="input-group">
+                  <input
+                    class="form-control"
+                    placeholder="yyyy-mm-dd"
+                    name="date_to"
+                    [(ngModel)]="worker.date_to"
+                    ngbDatepicker #d="ngbDatepicker">
+                  <button
+                    class="btn-calendar btn-primary"
+                    (click)="d.toggle()"
+                    type="button">
+                    <i class="fa fa-calendar" aria-hidden="true"></i>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-12 px-1">
+              <div class="form-group">
+                <label for="description">Részletes leírás</label>
+                <textarea  class="form-control textarea" type="text" name="description" [(ngModel)]="worker.description"></textarea>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-2 px-1">
+              <div class="form-group">
+                <label for="settlement">Település</label>
+                <input class="form-control" type="text" name="settlement" [(ngModel)]="worker.settlement">
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-4 px-1">
+              <div class="form-group">
+                <label for="reviews">Vélemények</label>
+                <input class="form-control" type="text" name="reviews" [(ngModel)]="worker.reviews">
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="update ml-auto mr-auto">
+              <button type="submit" class="btn btn-primary btn-round">
+                Mentés
+              </button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

@@ -39,6 +39,10 @@ module.exports = (model, populateList = []) => {
           res.status(202);
           res.json('Delete successful.');
         });
+    },
+    search(req, res, next) {
+      return service.findAll(req.query)
+        .then( list => res.json(list) );
     }
   }
 };

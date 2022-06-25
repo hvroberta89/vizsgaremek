@@ -28,6 +28,10 @@ export class JobsComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  onCreateOne(): void {
+    this.router.navigate(['/', 'jobs-edit', '0']);
+  }
+
   onSelectOne(job: Job): void {
     console.log(job._id);
     this.router.navigate(['/', 'jobs-edit', job._id]);

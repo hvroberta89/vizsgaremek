@@ -13,7 +13,7 @@ const ReviewSchema = mongoose.Schema({
   score: { 
     type: Number,
     required:true,
-    min: 1,
+    min: 0,
     max: 5,
   },
   positive: { 
@@ -25,8 +25,8 @@ const ReviewSchema = mongoose.Schema({
     required: false,
   },
   review_date: {
-    type: String,
-    required: true,
+    type: Object,
+    required:false,
   }
 },{
   collection: 'reviews',

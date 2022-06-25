@@ -1,1 +1,105 @@
-<p>review-editor works!</p>
+<div class="row">
+  <div class="col-md-11 mx-auto">
+    <div class="card">
+      <div class="card-header">
+        <h5 class="card-title">Vélemény szerkesztő</h5>
+      </div>
+      <div class="card-body">
+        <form (ngSubmit)="onSave(review)" *ngIf="review$ | async as review" #editForm="ngForm" class="px-3">
+          <div class="row">
+            <div class="col-md-3 px-1">
+              <input name="_id" type="hidden" [(ngModel)]="review._id">
+              <div class="form-group">
+                <label for="editor_user">Felhasználónév</label>
+                <!-- <input
+                  name="editor_user"
+                  [(ngModel)]="review.editor_user"
+                  typeaheadOptionField="user_name"
+                  [typeahead]="suggestions$"
+                  [typeaheadAsync]="true"
+                  [optionsListTemplate]="customListTemplate"
+                  class="form-control"
+                  placeholder="choose a category"
+                  (ngModelChange)="changeName($event)"
+                > -->
+                <input class="form-control" type="text" name="editor_user" [(ngModel)]="review.editor_user">
+              </div>
+            </div>
+            <div class="col-md-3 px-1">
+              <div class="form-group">
+                <label for="rated_user">Értékelt felhasználó</label>
+                <input class="form-control" type="text" name="rated_user" [(ngModel)]="review.rated_user">
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-3 px-1">
+              <div class="form-group">
+                <label for="score">Pontszám0</label>
+                <ngb-rating [(rate)]="review.score" [max]="5">
+                  <ng-template let-fill="fill" let-index="index">
+                    <span class="star" [class.filled]="fill === 100" [class.bad]="index < 3">&#9733;</span>
+                  </ng-template>
+                </ngb-rating>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-12 px-1">
+              <div class="form-group">
+                <label for="positive">Pozitívum</label>
+                <textarea  class="form-control textarea" type="text" name="description" [(ngModel)]="review.positive"></textarea>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-12 px-1">
+              <div class="form-group">
+                <label for="negative">Negatívum</label>
+                <textarea  class="form-control textarea" type="text" name="description" [(ngModel)]="review.negative"></textarea>
+              </div>
+            </div>
+          </div>
+          <!-- <div class="row">
+            <div class="col-md-3 px-1">
+              <div class="form-group">
+                <label for="review_date">Értékelés dátuma</label>
+                <div class="input-group">
+                  <input
+                    class="form-control"
+                    placeholder="yyyy-mm-dd"
+                    name="review_date"
+                    [(ngModel)]="review.review_date"
+                    ngbDatepicker #d="ngbDatepicker">
+                  <button
+                    class="btn-calendar btn-primary"
+                    (click)="d.toggle()"
+                    type="button">
+                    <i class="fa fa-calendar" aria-hidden="true"></i>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div> -->
+          <div class="row">
+            <div class="update ml-auto mr-auto">
+              <button type="submit" class="btn btn-primary btn-round">Mentés</button>
+            </div>
+          </div>
+        </form>
+
+        <ng-template #customListTemplate let-matches="matches" let-query="query" let-typeaheadTemplateMethods>
+          <ul class="custom-list-group" [class.dropdown-menu]="isBs3">
+            <li class="custom-list-group-item"
+                *ngFor="let match of matches"
+                [class.active]="typeaheadTemplateMethods.isActive(match)"
+                (click)="typeaheadTemplateMethods.selectMatch(match, $event); selectUser(match)"
+                (mouseenter)="typeaheadTemplateMethods.selectActive(match)">
+              {{ match.item.user_name }}
+            </li>
+          </ul>
+        </ng-template>
+      </div>
+    </div>
+  </div>
+</div>

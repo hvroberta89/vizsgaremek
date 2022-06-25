@@ -42,9 +42,7 @@ export class UserEditorComponent implements OnInit {
       user._id = undefined;
       user.address._id = undefined;
       this.userService.create(user).subscribe({
-        next: (updatedUser) => {
-          this.location.back();
-        },
+        next: () => this.location.back(),
         error: err => console.error(err),
       });
     } else {
@@ -52,7 +50,7 @@ export class UserEditorComponent implements OnInit {
         next: () => this.location.back(),
       });
     }
-  }
+  };
 
 
   uploadSuccess(event: IFileUploadResponse): void {
@@ -60,5 +58,4 @@ export class UserEditorComponent implements OnInit {
     this.uploadFileName = event.name;
     this.uploadedFilePath = event.path;
   };
-
-}
+};

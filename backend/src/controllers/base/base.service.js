@@ -1,11 +1,21 @@
 module.exports = (model, populateList = []) => {
   return {
-    findAll: () => model.find({}).populate(...populateList),
+    findAll: (params = {}) => {
+      if (Object.keys(params).length) {
+        Object.keys(params).map( key => {
+          params[key] = { 
+            $regex: '.*' + params[key] + '.*', 
+            $options: 'i' 
+          };
+        });
+        return model.find(params).populate(...populateList);
+      }
+      return model.find(params).populate(...populateList);
+    },
     findOne: (id) => model.findById(id).populate(...populateList),
     create: async (body) => {
       const newEntity = new model(body);
       const error = await newEntity.validateSync();
-      console.log(error);
       if (!error) {
           const saved = await newEntity.save();
           return model.findById(saved._id);

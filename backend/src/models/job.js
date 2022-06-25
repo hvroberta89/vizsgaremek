@@ -20,8 +20,8 @@ const JobSchema = mongoose.Schema({
     require: true
   },  
   date:{
-    type: Date,
-    require: true
+    type: Object,
+    required:false,
   },  
   time:{
     type: String,

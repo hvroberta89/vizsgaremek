@@ -2,11 +2,11 @@ import { User } from './user';
 
 export class Review {
   [key: string]: any;
-  _id: string = '';
-  editor_user: User = new User();
-  rated_user: User = new User();
-  score: Number = 1;
+  _id?: string = '';
+  editor_user: User | string = '';
+  rated_user: User | string = '';
+  score: Number = 0;
   positive: String = '';
   negative: String = '';
-  review_date: String;
+  review_date:  Date = new Date("YYYY-MM-DD");
 }

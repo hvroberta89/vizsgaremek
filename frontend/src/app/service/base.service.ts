@@ -29,12 +29,15 @@ export class BaseService<T extends { _id?: string, [key: string]: any }> {
   }
 
   update(entity: T): Observable<T> {
-    console.log(entity);
     return this.http.patch<T>(`${this.apiUrl}${this.entityName}/${entity._id}`, entity);
   }
 
   delete(_id: string): Observable<T> {
     return this.http.delete<T>(`${this.apiUrl}${this.entityName}/${_id}`);
+  }
+
+  search(queryString: string): Observable<T[]> {
+    return this.http.get<T[]>(`${this.apiUrl}${this.entityName}/search?${queryString}`);
   }
 
 }

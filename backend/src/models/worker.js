@@ -7,12 +7,12 @@ const WorkerSchema = mongoose.Schema({
     ref: 'User'
   },
   date_from: { 
-    type: String,
-    required:true,
+    type: Object,
+    required:false,
   },
   date_to: { 
-    type: String,
-    required:true,
+    type: Object,
+    required:false,
   },
   category: { 
     type: String,

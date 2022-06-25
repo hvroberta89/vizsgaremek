@@ -32,8 +32,14 @@ export class ConfigService {
   workersTableColumns: INgTableColumn[] = [
     //{ key: '_id', title: '#' },
     { key: 'editor_user', title: 'Felhasználónév' },
-    { key: 'date_from', title: 'Dátum(-tól)' },
-    { key: 'date_to', title: 'Dátum(-ig)' },
+    { key: 'date_from', title: 'Dátum(-tól)',
+      pipes: [ConfigService.createStrFromObj],
+      pipeArgs: [["-", 'year', 'month', 'day']]
+    },
+    { key: 'date_to', title: 'Dátum(-ig)',
+      pipes: [ConfigService.createStrFromObj],
+      pipeArgs: [["-", 'year', 'month', 'day']]
+    },
     { key: 'category', title: 'Kategória' },
     { key: 'description', title: 'Leírás' },
     { key: 'settlement', title: 'Település' },
@@ -48,17 +54,16 @@ export class ConfigService {
       pipeArgs: [[0, 50]]
      },
     { key: 'settlement', title: 'Település' },
-    { key: 'date', title: 'Dátum' },
+    { key: 'date', title: 'Dátum',
+      pipes: [ConfigService.createStrFromObj],
+      pipeArgs: [["-", 'year', 'month', 'day']]
+    },
     { key: 'time', title: 'Idő' },
     { key: 'tools', title: 'Eszközök' },
     { key: 'amount', title: 'Bér' },
     { key: 'wage', title: 'Bér jellege' },
     { key: 'active', title: 'Aktív' },
-    { key: 'editor_user',
-      title: 'Munkaadó',
-      pipes: [ConfigService.createStrFromObj],
-      pipeArgs: [["", 'user_name']]
-    },
+    { key: 'user_name', title: 'Munkaadó' },
     { key: 'worker_user', title: 'Munkavállaló' }
   ];
   categoriesTableColumns: INgTableColumn[] = [
@@ -68,12 +73,18 @@ export class ConfigService {
   ];
   reviewsTableColumns: INgTableColumn[] = [
     //{ key: '_id', title: '#' },
-    { key: 'editor_user', title: 'Felhasználónév' },
+    { key: 'editor_user', title: 'Felhasználónév',
+      pipes: [ConfigService.createStrFromObj],
+      pipeArgs: [["", 'user_name']]
+    },
     { key: 'rated_user', title: 'Értékelt felhasználó' },
     { key: 'score', title: 'Pontszám' },
     { key: 'positive', title: 'Pozitívum' },
     { key: 'negative', title: 'Negatívum' },
-    { key: 'review_date', title: 'Értékelés dátuma' }
+    { key: 'review_date', title: 'Értékelés dátuma',
+      pipes: [ConfigService.createStrFromObj],
+      pipeArgs: [["-", 'year', 'month', 'day']]
+    }
   ];
 
 

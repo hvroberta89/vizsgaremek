@@ -1,11 +1,12 @@
 import { Component, OnInit } from '@angular/core';
 import { Location } from '@angular/common';
-import { NgForm } from '@angular/forms';
-import { ActivatedRoute, Router } from '@angular/router';
+import { ActivatedRoute } from '@angular/router';
 import { Observable, of, switchMap } from 'rxjs';
 
 import { Job } from './../../model/job';
 import { JobService } from 'app/service/job.service';
+import { Category } from 'app/model/category';
+import { CategoryService } from 'app/service/category.service';
 
 @Component({
   selector: 'app-job-editor',
@@ -14,44 +15,36 @@ import { JobService } from 'app/service/job.service';
 })
 export class JobEditorComponent implements OnInit {
 
-  job$: Observable<Job> = this.activatedRoute.params.pipe(
-    switchMap(params => this.jobService.getOne(params['id'])),
-  );
-
-  categories: string[] = [
-    "kert",
-    "takarítás",
-    "gyerekfelügyelet",
-    "egyéb"
-  ];
+  job$: Observable<Job>;
+  category$: Observable<Category[]> = this.categoryService.getAll();
 
   constructor(
     private jobService: JobService,
+    private categoryService: CategoryService,
     private activatedRoute: ActivatedRoute,
-    private router: Router,
     private location: Location,
   ) { }
 
   ngOnInit(): void {
     this.job$ = this.activatedRoute.params.pipe(
       switchMap((params) => {
-        if (params['id'] === 'new') return of(new Job());
+        if (params['id'] === '0') return of(new Job());
         return this.jobService.getOne(params['id'])
       })
     );
   }
 
-  onUpdate(job: Job): void {
-    this.jobService.update(job).subscribe({
-      next: updatedJob => this.location.back(),
-      error: err => console.error(err),
-    });
-  }
-
-  onCreate(job: Job) {
-    this.jobService
-      .create(job)
-      .subscribe((job) => this.router.navigate(['/', 'jobs']));
-  }
-
-}
+  onSave(job: Job): void {
+    if (!job._id){
+      job._id = undefined;
+      this.jobService.create(job).subscribe({
+        next: () => this.location.back(),
+        error: err => console.error(err),
+      });
+    } else {
+      this.jobService.update(job).subscribe({
+        next: () => this.location.back(),
+      });
+    }
+  };
+};
