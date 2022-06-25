@@ -11,7 +11,7 @@
               <input name="_id" type="hidden" [(ngModel)]="review._id">
               <div class="form-group">
                 <label for="editor_user">Felhasználónév</label>
-                <!-- <input
+                <input
                   name="editor_user"
                   [(ngModel)]="review.editor_user"
                   typeaheadOptionField="user_name"
@@ -19,10 +19,10 @@
                   [typeaheadAsync]="true"
                   [optionsListTemplate]="customListTemplate"
                   class="form-control"
-                  placeholder="choose a category"
+                  placeholder="choose a user"
                   (ngModelChange)="changeName($event)"
-                > -->
-                <input class="form-control" type="text" name="editor_user" [(ngModel)]="review.editor_user">
+                >
+                <!-- <input class="form-control" type="text" name="editor_user" [(ngModel)]="review.editor_user"> -->
               </div>
             </div>
             <div class="col-md-3 px-1">

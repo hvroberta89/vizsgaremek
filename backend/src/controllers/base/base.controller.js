@@ -1,25 +1,27 @@
 const createError = require('http-errors');
 const express = require('express');
 const baseService = require('../base/base.service');
-const { populate } = require('../../models/user');
+
 
 module.exports = (model, populateList = []) => {
-  const service= baseService(model, populateList = []);
+  const service= baseService(model, populateList);
   return {
     findAll(req, res, next) {
       return service.findAll()
-        .then( list => res.json(list) );
+        .then( list => res.json(list) )
+        .catch(error => next(new createError.NotFound('Items are not found')));
     },
     findOne(req, res, next) {
       return service.findOne(req.params.id)
-        .then(entity => res.json(entity));
+        .then(entity => res.json(entity))
+        .catch(error => next(new createError.NotFound('This item is not found')));
     },
     create(req, res, next) {
       return service.create(req.body)
         .then(entity => res.json(entity))
         .catch(err => {
           res.statusCode = 501;
-          res.json(err);
+          next(new createError.InternalServerError(err.message))
       });
     },
     updateOne(req, res, next) {
@@ -30,7 +32,7 @@ module.exports = (model, populateList = []) => {
         })
         .catch(err => {
           res.status(501);
-          res.json(err);
+          next(new createError.InternalServerError(error.message));
         });
     },
     deleteOne(req, res, next) {
@@ -38,7 +40,8 @@ module.exports = (model, populateList = []) => {
         .then( () =>{
           res.status(202);
           res.json('Delete successful.');
-        });
+        })
+        .catch(next(new createError.InternalServerError(error.message)));
     },
     search(req, res, next) {
       return service.findAll(req.query)
