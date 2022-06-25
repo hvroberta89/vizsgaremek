@@ -20,7 +20,7 @@ import { AdminLayoutComponent } from './layouts/admin-layout/admin-layout.compon
 import { HomeComponent } from './pages/home/home.component';
 import { LoginComponent } from './pages/login/login.component';
 import { CreateStrFromObjPipe } from './pipes/create-str-from-obj.pipe';
-import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { NgbModule, NgbRatingModule  } from '@ng-bootstrap/ng-bootstrap';
 
 
 @NgModule({
@@ -46,6 +46,7 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     ReactiveFormsModule,
     NgbModule,
     TypeaheadModule.forRoot(),
+    NgbRatingModule
   ],
   providers: [
     {

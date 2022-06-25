@@ -31,7 +31,10 @@ export class ConfigService {
   ];
   workersTableColumns: INgTableColumn[] = [
     //{ key: '_id', title: '#' },
-    { key: 'editor_user', title: 'Felhasználónév' },
+    { key: 'editor_user', title: 'Felhasználónév',
+      pipes: [ConfigService.createStrFromObj],
+      pipeArgs: [["", 'user_name']]
+    },
     { key: 'date_from', title: 'Dátum(-tól)',
       pipes: [ConfigService.createStrFromObj],
       pipeArgs: [["-", 'year', 'month', 'day']]
@@ -63,8 +66,14 @@ export class ConfigService {
     { key: 'amount', title: 'Bér' },
     { key: 'wage', title: 'Bér jellege' },
     { key: 'active', title: 'Aktív' },
-    { key: 'user_name', title: 'Munkaadó' },
-    { key: 'worker_user', title: 'Munkavállaló' }
+    { key: 'editor_user', title: 'Munkaadó',
+      pipes: [ConfigService.createStrFromObj],
+      pipeArgs: [["", 'user_name']]
+    },
+    { key: 'worker_user', title: 'Munkavállaló',
+      pipes: [ConfigService.createStrFromObj],
+      pipeArgs: [["", 'user_name']]
+    }
   ];
   categoriesTableColumns: INgTableColumn[] = [
     //{ key: '_id', title: '#' },
@@ -77,7 +86,10 @@ export class ConfigService {
       pipes: [ConfigService.createStrFromObj],
       pipeArgs: [["", 'user_name']]
     },
-    { key: 'rated_user', title: 'Értékelt felhasználó' },
+    { key: 'rated_user', title: 'Értékelt felhasználó',
+      pipes: [ConfigService.createStrFromObj],
+      pipeArgs: [["", 'user_name']]
+    },
     { key: 'score', title: 'Pontszám' },
     { key: 'positive', title: 'Pozitívum' },
     { key: 'negative', title: 'Negatívum' },

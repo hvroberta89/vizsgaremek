@@ -51,7 +51,6 @@ export class ReviewEditorComponent implements OnInit {
 
     this.suggestions$ = new Observable((observer: Observer<string>) => {
       observer.next(this.search || '');
-      console.log(this.search);
     }).pipe(
       switchMap((query: string) => {
         if (query) {

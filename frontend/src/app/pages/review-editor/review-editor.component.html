@@ -35,7 +35,7 @@
           <div class="row">
             <div class="col-md-3 px-1">
               <div class="form-group">
-                <label for="score">Pontszám0</label>
+                <label for="score">Pontszám</label>
                 <ngb-rating [(rate)]="review.score" [max]="5">
                   <ng-template let-fill="fill" let-index="index">
                     <span class="star" [class.filled]="fill === 100" [class.bad]="index < 3">&#9733;</span>
@@ -60,7 +60,7 @@
               </div>
             </div>
           </div>
-          <!-- <div class="row">
+          <div class="row">
             <div class="col-md-3 px-1">
               <div class="form-group">
                 <label for="review_date">Értékelés dátuma</label>
@@ -80,7 +80,7 @@
                 </div>
               </div>
             </div>
-          </div> -->
+          </div>
           <div class="row">
             <div class="update ml-auto mr-auto">
               <button type="submit" class="btn btn-primary btn-round">Mentés</button>
