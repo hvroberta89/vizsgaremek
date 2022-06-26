@@ -13,7 +13,7 @@
                 <label for="editor_user">Felhasználónév</label>
                 <input
                   name="editor_user"
-                  [(ngModel)]="review.editor_user"
+                  [(ngModel)]="review.editor_user.user_name"
                   typeaheadOptionField="user_name"
                   [typeahead]="suggestions$"
                   [typeaheadAsync]="true"
@@ -22,13 +22,22 @@
                   placeholder="choose a user"
                   (ngModelChange)="changeName($event)"
                 >
-                <!-- <input class="form-control" type="text" name="editor_user" [(ngModel)]="review.editor_user"> -->
               </div>
             </div>
             <div class="col-md-3 px-1">
               <div class="form-group">
                 <label for="rated_user">Értékelt felhasználó</label>
-                <input class="form-control" type="text" name="rated_user" [(ngModel)]="review.rated_user">
+                <input
+                  name="rated_user"
+                  [(ngModel)]="review.rated_user.user_name"
+                  typeaheadOptionField="user_name"
+                  [typeahead]="suggestions$"
+                  [typeaheadAsync]="true"
+                  [optionsListTemplate]="customListTemplate"
+                  class="form-control"
+                  placeholder="choose a user"
+                  (ngModelChange)="changeName($event)"
+                >
               </div>
             </div>
           </div>
@@ -85,7 +94,6 @@
             </div>
           </div>
         </form>
-
         <ng-template #customListTemplate let-matches="matches" let-query="query" let-typeaheadTemplateMethods>
           <ul class="custom-list-group" [class.dropdown-menu]="isBs3">
             <li class="custom-list-group-item"

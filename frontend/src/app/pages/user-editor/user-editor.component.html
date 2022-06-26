@@ -7,6 +7,12 @@
       <div class="card-body">
         <form (ngSubmit)="onSave(user)" *ngIf="user$ | async as user" #editForm="ngForm" class="px-3">
           <div class="row">
+            <div class="col-6 col-md-3 mx-auto px-1 photo">
+              <img
+                [src]="profileImg"
+                alt="Profil picture"
+              >
+            </div>
             <div class="col-md-3 px-1">
               <input name="_id" type="hidden" [(ngModel)]="user._id">
               <div class="form-group">
@@ -14,7 +20,9 @@
                 <input class="form-control" type="text" name="user_name" [(ngModel)]="user.user_name">
               </div>
             </div>
-            <div class="col-md-4 ml-md-5 px-1">
+          </div>
+          <div class="row">
+            <div class="col-md-4 px-1">
               <div class="form-group">
                 <label for="last_name">Vezetéknév</label>
                 <input class="form-control" type="text" name="last_name" [(ngModel)]="user.last_name">

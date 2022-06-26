@@ -1,0 +1,17 @@
+
+.photo img {
+  width:200px;
+  height:200px;
+  object-fit:cover;
+  border-radius: 50%;
+  box-shadow: 1px 1px 2px #888888;
+}
+
+@media screen and (min-width: 768px) {
+  .photo {
+    top: 5%;
+    right: 5%;
+    position: absolute;
+    z-index: 10;
+  }
+}

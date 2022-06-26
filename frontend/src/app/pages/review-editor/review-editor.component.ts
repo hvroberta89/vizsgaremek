@@ -22,7 +22,6 @@ export class ReviewEditorComponent implements OnInit {
   search?: string;
 
   selectedUser: User | null = null;
-  ratedUser: User | null = null;
 
   users$:  Observable<User[]> = this.userService.getAll();
   suggestions$: Observable<User[]> = of([]);
@@ -32,7 +31,6 @@ export class ReviewEditorComponent implements OnInit {
     private userService: UserService,
     private activatedRoute: ActivatedRoute,
     private location: Location,
-    private router: Router,
   ) { }
 
   ngOnInit(): void {
@@ -41,10 +39,6 @@ export class ReviewEditorComponent implements OnInit {
         if (params['id'] === '0') return of(new Review());
         return this.reviewService.getOne(params['id'])
       })
-    );
-
-    this.userService.search('user_name=off').subscribe(
-      res => console.log(res)
     );
 
     this.suggestions$ = new Observable((observer: Observer<string>) => {

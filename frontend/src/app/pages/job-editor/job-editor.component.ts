@@ -1,12 +1,15 @@
 import { Component, OnInit } from '@angular/core';
 import { Location } from '@angular/common';
 import { ActivatedRoute } from '@angular/router';
-import { Observable, of, switchMap } from 'rxjs';
+import { map, Observable, Observer, of, switchMap } from 'rxjs';
 
 import { Job } from './../../model/job';
 import { JobService } from 'app/service/job.service';
 import { Category } from 'app/model/category';
 import { CategoryService } from 'app/service/category.service';
+import { isBs3 } from 'ngx-bootstrap/utils';
+import { User } from 'app/model/user';
+import { UserService } from 'app/service/user.service';
 
 @Component({
   selector: 'app-job-editor',
@@ -18,10 +21,19 @@ export class JobEditorComponent implements OnInit {
   job$: Observable<Job>;
   category$: Observable<Category[]> = this.categoryService.getAll();
 
+  isBs3 = isBs3();
+  search?: string;
+
+  selectedUser: User | null = null;
+
+  users$:  Observable<User[]> = this.userService.getAll();
+  suggestions$: Observable<User[]> = of([]);
+
   constructor(
     private jobService: JobService,
     private categoryService: CategoryService,
     private activatedRoute: ActivatedRoute,
+    private userService: UserService,
     private location: Location,
   ) { }
 
@@ -32,6 +44,27 @@ export class JobEditorComponent implements OnInit {
         return this.jobService.getOne(params['id'])
       })
     );
+
+    this.suggestions$ = new Observable((observer: Observer<string>) => {
+      observer.next(this.search || '');
+    }).pipe(
+      switchMap((query: string) => {
+        if (query) {
+          return this.userService.search(`user_name=${query}`).pipe(
+            map((data: User[]) => Array.isArray(data) ? data : []),
+          );
+        }
+        return of([]);
+      }),
+    );
+  }
+
+  changeName(ev: Event): void {
+    this.search = ev as unknown as string;
+  }
+
+  selectUser(ev: {item: User}): void {
+    this.selectedUser = ev.item;
   }
 
   onSave(job: Job): void {

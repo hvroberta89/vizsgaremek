@@ -1,12 +1,13 @@
 import { response } from 'express';
 import { environment } from './../../../environments/environment';
 import { HttpClient } from '@angular/common/http';
-import { Component, OnInit, EventEmitter, Output } from '@angular/core';
+import { Component, OnInit, EventEmitter, Output, Input } from '@angular/core';
 
 export interface IFileUploadResponse {
   success: boolean;
   name: string;
   path: string;
+  newName: string;
 }
 
 @Component({

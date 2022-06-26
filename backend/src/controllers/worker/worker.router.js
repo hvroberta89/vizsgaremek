@@ -1,7 +1,6 @@
 const express = require('express');
 const router = express.Router();
 const Worker = require('../../models/worker');
-const workerController = require('./worker.controller');
 const baseController = require('../base/base.controller')(Worker,['editor_user']);
 
 

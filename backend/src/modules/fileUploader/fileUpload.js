@@ -1,4 +1,6 @@
 const { join } = require('path');
+const config = require('config');
+const photoPath = config.get('photoPath');
 
 module.exports = (req, res) => {
   let uploadFile;
@@ -7,9 +9,10 @@ module.exports = (req, res) => {
   if (!req.files || Object.keys(req.files).length === 0) {
       return res.status(400).send('No files were uploaded.');
   }
-
+  
   uploadFile = req.files.uploadFile;
-  uploadPath = join('./public/img', uploadFile.name);
+  uploadFile.name = `${new Date().getTime()}_${uploadFile.name}`;
+  uploadPath = join(photoPath.dir, uploadFile.name);
 
   uploadFile.mv(uploadPath, (err) => {
       if (err)

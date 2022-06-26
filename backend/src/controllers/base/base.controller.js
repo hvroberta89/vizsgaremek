@@ -32,7 +32,7 @@ module.exports = (model, populateList = []) => {
         })
         .catch(err => {
           res.status(501);
-          next(new createError.InternalServerError(error.message));
+          next(new createError.InternalServerError(err.message));
         });
     },
     deleteOne(req, res, next) {
@@ -41,7 +41,7 @@ module.exports = (model, populateList = []) => {
           res.status(202);
           res.json('Delete successful.');
         })
-        .catch(next(new createError.InternalServerError(error.message)));
+        .catch(err => next(new createError.InternalServerError(err.message)));
     },
     search(req, res, next) {
       return service.findAll(req.query)

@@ -2,10 +2,13 @@ import { WorkerService } from './../../service/worker.service';
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { Location } from '@angular/common';
-import { Observable, of, switchMap } from 'rxjs';
+import { map, Observable, Observer, of, switchMap } from 'rxjs';
 import { Worker } from './../../model/worker';
 import { CategoryService } from 'app/service/category.service';
 import { Category } from 'app/model/category';
+import { isBs3 } from 'ngx-bootstrap/utils';
+import { User } from 'app/model/user';
+import { UserService } from 'app/service/user.service';
 
 @Component({
   selector: 'app-worker-editor',
@@ -16,10 +19,19 @@ export class WorkerEditorComponent implements OnInit {
 
   worker$: Observable<Worker>;
 
+  isBs3 = isBs3();
+  search?: string;
+
+  selectedUser: User | null = null;
+
+  users$:  Observable<User[]> = this.userService.getAll();
+  suggestions$: Observable<User[]> = of([]);
+
   category$: Observable<Category[]> = this.categoryService.getAll();
 
   constructor(
     private workerService: WorkerService,
+    private userService: UserService,
     private categoryService: CategoryService,
     private activatedRoute: ActivatedRoute,
     private location: Location,
@@ -32,6 +44,27 @@ export class WorkerEditorComponent implements OnInit {
         return this.workerService.getOne(params['id'])
       })
     );
+
+    this.suggestions$ = new Observable((observer: Observer<string>) => {
+      observer.next(this.search || '');
+    }).pipe(
+      switchMap((query: string) => {
+        if (query) {
+          return this.userService.search(`user_name=${query}`).pipe(
+            map((data: User[]) => Array.isArray(data) ? data : []),
+          );
+        }
+        return of([]);
+      }),
+    );
+  }
+
+  changeName(ev: Event): void {
+    this.search = ev as unknown as string;
+  }
+
+  selectUser(ev: {item: User}): void {
+    this.selectedUser = ev.item;
   }
 
   onSave(worker: Worker): void {

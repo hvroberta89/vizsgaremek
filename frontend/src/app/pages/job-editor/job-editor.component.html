@@ -106,13 +106,33 @@
             <div class="col-md-4 px-1">
               <div class="form-group">
                 <label for="editor_user">Munkaadó</label>
-                <input class="form-control" type="text" name="editor_user" [(ngModel)]="job.editor_user">
+                <input
+                  name="editor_user"
+                  [(ngModel)]="job.editor_user.user_name"
+                  typeaheadOptionField="user_name"
+                  [typeahead]="suggestions$"
+                  [typeaheadAsync]="true"
+                  [optionsListTemplate]="customListTemplate"
+                  class="form-control"
+                  placeholder="choose a user"
+                  (ngModelChange)="changeName($event)"
+                >
               </div>
             </div>
             <div class="col-md-4 px-1">
               <div class="form-group">
                 <label for="worker_user">Munkavállaló</label>
-                <input class="form-control" type="text" name="worker_user" [(ngModel)]="job.worker_user">
+                <input
+                  name="worker_user"
+                  [(ngModel)]="job.worker_user.user_name"
+                  typeaheadOptionField="user_name"
+                  [typeahead]="suggestions$"
+                  [typeaheadAsync]="true"
+                  [optionsListTemplate]="customListTemplate"
+                  class="form-control"
+                  placeholder="choose a user"
+                  (ngModelChange)="changeName($event)"
+                >
               </div>
             </div>
           </div>
@@ -142,6 +162,17 @@
             </div>
           </div>
         </form>
+        <ng-template #customListTemplate let-matches="matches" let-query="query" let-typeaheadTemplateMethods>
+          <ul class="custom-list-group" [class.dropdown-menu]="isBs3">
+            <li class="custom-list-group-item"
+                *ngFor="let match of matches"
+                [class.active]="typeaheadTemplateMethods.isActive(match)"
+                (click)="typeaheadTemplateMethods.selectMatch(match, $event); selectUser(match)"
+                (mouseenter)="typeaheadTemplateMethods.selectActive(match)">
+              {{ match.item.user_name }}
+            </li>
+          </ul>
+        </ng-template>
       </div>
     </div>
   </div>

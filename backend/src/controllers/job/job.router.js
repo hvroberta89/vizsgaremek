@@ -1,7 +1,6 @@
 const express = require('express');
 const router = express.Router();
 const Job = require('../../models/job');
-const jobController = require('./job.controller');
 const baseController = require('../base/base.controller')(Job, ['editor_user worker_user']);
 
 
