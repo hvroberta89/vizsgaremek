@@ -28,7 +28,8 @@
               <div class="form-group">
                 <label for="category">Kategória</label>
                 <select class="form-control" name="category" [(ngModel)]="worker.category">
-                  <option *ngFor="let category of category$ | async" value=category.id>
+                  <option value=""> Válassz kategóriát </option>
+                  <option *ngFor="let category of category$ | async" value="category._id">
                     {{ category.title }}
                   </option>
                 </select>
@@ -45,10 +46,10 @@
                     placeholder="yyyy-mm-dd"
                     name="date_from"
                     [(ngModel)]="worker.date_from"
-                    ngbDatepicker #d="ngbDatepicker">
+                    ngbDatepicker #dFrom="ngbDatepicker">
                   <button
                     class="btn-calendar btn-primary"
-                    (click)="d.toggle()"
+                    (click)="dFrom.toggle()"
                     type="button">
                     <i class="fa fa-calendar" aria-hidden="true"></i>
                   </button>
@@ -64,10 +65,10 @@
                     placeholder="yyyy-mm-dd"
                     name="date_to"
                     [(ngModel)]="worker.date_to"
-                    ngbDatepicker #d="ngbDatepicker">
+                    ngbDatepicker #dTo="ngbDatepicker">
                   <button
                     class="btn-calendar btn-primary"
-                    (click)="d.toggle()"
+                    (click)="dTo.toggle()"
                     type="button">
                     <i class="fa fa-calendar" aria-hidden="true"></i>
                   </button>
@@ -84,18 +85,10 @@
             </div>
           </div>
           <div class="row">
-            <div class="col-md-2 px-1">
+            <div class="col-md-4 col-lg-2 px-1">
               <div class="form-group">
                 <label for="settlement">Település</label>
                 <input class="form-control" type="text" name="settlement" [(ngModel)]="worker.settlement">
-              </div>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-md-4 px-1">
-              <div class="form-group">
-                <label for="reviews">Vélemények</label>
-                <input class="form-control" type="text" name="reviews" [(ngModel)]="worker.reviews">
               </div>
             </div>
           </div>

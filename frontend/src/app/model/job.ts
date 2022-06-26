@@ -8,12 +8,12 @@ export class Job {
   category: Category | string = '';
   description: string = '';
   settlement: string = '';
-  date: Date = new Date("YYYY-MM-DD");
+  date?: Date = new Date("YYYY-MM-DD");
   //date: string = '';
-  time: string = '';
+  time?: string = '';
   tools: boolean = false;
-  amount: number = 0;
-  wage: string = '';
+  amount?: number = 0;
+  wage?: string = '';
   active: boolean = false;
   editor_user: User | string = '';
   worker_user?: User | string = '';

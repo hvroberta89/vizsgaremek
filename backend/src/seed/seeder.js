@@ -5,7 +5,7 @@ const modelList = [
   //'user',
   //'job',
   //'review',
-  //worker'
+  //'worker'
 ];
 
 (async () => {

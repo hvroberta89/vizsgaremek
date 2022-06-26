@@ -44,9 +44,11 @@ export class ConfigService {
       pipes: [ConfigService.createStrFromObj],
       pipeArgs: [["", 'title']]
     },
-    { key: 'description',   title: 'Leírás' },
-    { key: 'settlement',    title: 'Település' },
-    { key: 'reviews',       title: 'Vélemények' }
+    { key: 'description',   title: 'Leírás',
+      pipes: [ConfigService.curveLongString],
+      pipeArgs: [[0, 100]]
+    },
+    { key: 'settlement',    title: 'Település' }
   ];
   jobsTableColumns: INgTableColumn[] = [
     //{ key: '_id', title: '#' },
@@ -97,8 +99,14 @@ export class ConfigService {
       pipeArgs: [["", 'user_name']]
     },
     { key: 'score',         title: 'Pontszám' },
-    { key: 'positive',      title: 'Pozitívum' },
-    { key: 'negative',      title: 'Negatívum' },
+    { key: 'positive',      title: 'Pozitívum',
+      pipes: [ConfigService.curveLongString],
+      pipeArgs: [[0, 100]]
+    },
+    { key: 'negative',      title: 'Negatívum',
+      pipes: [ConfigService.curveLongString],
+      pipeArgs: [[0, 100]]
+    },
     { key: 'review_date',   title: 'Értékelés dátuma',
       pipes: [ConfigService.createStrFromObj],
       pipeArgs: [["-", 'year', 'month', 'day']]

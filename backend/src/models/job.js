@@ -20,24 +20,20 @@ const JobSchema = mongoose.Schema({
     require: true
   },  
   date:{
-    type: Object,
-    required:false,
+    type: Object
   },  
   time:{
-    type: String,
-    require: false
+    type: String
   },  
   tools: {
     type: Boolean,
     require: true
   },  
   wage:{
-    type: String,
-    require: false
+    type: String
   },
   amount:{
-    type: Number,
-    require: false
+    type: Number
   },  
   active: {
     type: Boolean,
@@ -50,8 +46,7 @@ const JobSchema = mongoose.Schema({
   },
   worker_user: { 
     type: mongoose.Schema.Types.ObjectId,
-    ref: 'User',
-    required: false
+    ref: 'User'
   }
 }, {
   collection: 'jobs',

@@ -10,5 +10,4 @@ export class Worker {
   date_to:  Date = new Date("YYYY-MM-DD");
   description: string = '';
   settlement: string = '';
-  reviews: User[] = [];
 }

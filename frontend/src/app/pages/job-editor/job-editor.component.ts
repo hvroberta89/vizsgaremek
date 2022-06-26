@@ -19,7 +19,6 @@ import { UserService } from 'app/service/user.service';
 export class JobEditorComponent implements OnInit {
 
   job$: Observable<Job>;
-  category$: Observable<Category[]> = this.categoryService.getAll();
 
   isBs3 = isBs3();
   search?: string;
@@ -28,6 +27,8 @@ export class JobEditorComponent implements OnInit {
 
   users$:  Observable<User[]> = this.userService.getAll();
   suggestions$: Observable<User[]> = of([]);
+
+  category$: Observable<Category[]> = this.categoryService.getAll();
 
   constructor(
     private jobService: JobService,

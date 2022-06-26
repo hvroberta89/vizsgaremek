@@ -6,32 +6,27 @@ const WorkerSchema = mongoose.Schema({
     type: mongoose.Schema.Types.ObjectId,
     ref: 'User'
   },
+  category: { 
+    type: mongoose.Schema.Types.ObjectId,
+    ref: 'Category',
+    required: true
+  },
   date_from: { 
     type: Object,
-    required:false,
+    required:true
   },
   date_to: { 
     type: Object,
-    required:false,
-  },
-  category: { 
-    type: String,
-    required:true,
+    required:true
   },
   description: {
     type: String,
-    required:true,
+    required:true
   },
   settlement: { 
     type: String,
-    required:true,
-  },
-  reviews: [
-    {
-      type: mongoose.Schema.Types.ObjectId,
-      ref: 'Review'
-    }
-  ]
+    required:true
+  }
 },{
   collection: 'workers',
   timestamps: true,

@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const Worker = require('../../models/worker');
-const baseController = require('../base/base.controller')(Worker,['editor_user']);
+const baseController = require('../base/base.controller')(Worker,['editor_user category']);
 
 
 // GET

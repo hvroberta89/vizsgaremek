@@ -4,11 +4,26 @@ const idValidator = require('mongoose-id-validator');
 const SALT_WORK_FACTOR = 10;
 
 const AddressSchema = mongoose.Schema({
-  country: String,
-  zipCode: Number,
-  city: String,
-  street: String,
-  number: String,
+  country: {
+    type: String,
+    require: true,
+  },
+  zipCode:{
+    type: String,
+    require: true,
+  },
+  city: {
+    type: String,
+    require: true,
+  },
+  street: {
+    type: String,
+    require: true,
+  },
+  number:{
+    type: String,
+    require: true,
+  },
 });
 
 const UserSchema = mongoose.Schema({
@@ -49,7 +64,7 @@ const UserSchema = mongoose.Schema({
   },
   birth_date: { 
     type: Object,
-    required:false,
+    required: true,
   },
   photo: {
     type: String

@@ -4,11 +4,13 @@ const idValidator = require('mongoose-id-validator');
 const ReviewSchema = mongoose.Schema({
   editor_user: {
     type: mongoose.Schema.Types.ObjectId,
-    ref: 'User'
+    ref: 'User',
+    required: true
   },
   rated_user:{
     type: mongoose.Schema.Types.ObjectId,
-    ref: 'User'
+    ref: 'User',
+    required: true
   },
   score: { 
     type: Number,
@@ -17,16 +19,14 @@ const ReviewSchema = mongoose.Schema({
     max: 5,
   },
   positive: { 
-    type: String,
-    required: false,
+    type: String
   },
   negative: { 
-    type: String,
-    required: false,
+    type: String
   },
   review_date: {
     type: Object,
-    required:false,
+    required:true,
   }
 },{
   collection: 'reviews',
