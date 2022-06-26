@@ -15,7 +15,7 @@ const Review = require('./models/review');
 
 describe('REST API integration tests', () => {
   beforeEach(done => {
-    const { host, user, pass } = config.get('database');
+    const { host, user, pass } = config.get('testDB');
     mongoose.connect(`mongodb+srv://${host}`, {
       user,
       pass,

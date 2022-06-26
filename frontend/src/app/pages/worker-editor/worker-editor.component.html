@@ -17,7 +17,7 @@
                   typeaheadOptionField="user_name"
                   [typeahead]="suggestions$"
                   [typeaheadAsync]="true"
-                  [optionsListTemplate]="customListTemplate"
+                  [optionsListTemplate]="editorListTemplate"
                   class="form-control"
                   placeholder="choose a user"
                   (ngModelChange)="changeName($event)"
@@ -27,9 +27,9 @@
             <div class="col-md-4 px-1">
               <div class="form-group">
                 <label for="category">Kategória</label>
-                <select class="form-control" name="category" [(ngModel)]="worker.category">
+                <select class="form-control" name="category" [(ngModel)]="selectedCategory">
                   <option value=""> Válassz kategóriát </option>
-                  <option *ngFor="let category of category$ | async" value="category._id">
+                  <option *ngFor="let category of category$ | async" [value]="category._id">
                     {{ category.title }}
                   </option>
                 </select>
@@ -100,12 +100,12 @@
             </div>
           </div>
         </form>
-        <ng-template #customListTemplate let-matches="matches" let-query="query" let-typeaheadTemplateMethods>
+        <ng-template #editorListTemplate let-matches="matches" let-query="query" let-typeaheadTemplateMethods>
           <ul class="custom-list-group" [class.dropdown-menu]="isBs3">
             <li class="custom-list-group-item"
                 *ngFor="let match of matches"
                 [class.active]="typeaheadTemplateMethods.isActive(match)"
-                (click)="typeaheadTemplateMethods.selectMatch(match, $event); selectUser(match)"
+                (click)="typeaheadTemplateMethods.selectMatch(match, $event); selectEditorUser(match)"
                 (mouseenter)="typeaheadTemplateMethods.selectActive(match)">
               {{ match.item.user_name }}
             </li>

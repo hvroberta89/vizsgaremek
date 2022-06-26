@@ -21,7 +21,8 @@ export class ReviewEditorComponent implements OnInit {
   isBs3 = isBs3();
   search?: string;
 
-  selectedUser: User | null = null;
+  selectedEditorUser: User | null = null;
+  selectedWorkerUser: User | null = null;
 
   users$:  Observable<User[]> = this.userService.getAll();
   suggestions$: Observable<User[]> = of([]);
@@ -59,11 +60,22 @@ export class ReviewEditorComponent implements OnInit {
     this.search = ev as unknown as string;
   }
 
-  selectUser(ev: {item: User}): void {
-    this.selectedUser = ev.item;
+  selectEditorUser(ev: {item: User}): void {
+    this.selectedEditorUser = ev.item;
+  }
+  selectWorkerUser(ev: {item: User}): void {
+    this.selectedWorkerUser  = ev.item;
   }
 
   onSave(review: Review): void {
+    if (this.selectedEditorUser) {
+      review.editor_user = this.selectedEditorUser?._id;
+    }
+
+    if (this.selectedWorkerUser) {
+      review.worker_user = this.selectedWorkerUser?._id;
+    }
+
     if (!review._id){
       review._id = undefined;
       this.reviewService.create(review).subscribe({

@@ -22,11 +22,12 @@ export class WorkerEditorComponent implements OnInit {
   isBs3 = isBs3();
   search?: string;
 
-  selectedUser: User | null = null;
+  selectedEditorUser: User | null = null;
 
   users$:  Observable<User[]> = this.userService.getAll();
   suggestions$: Observable<User[]> = of([]);
 
+  selectedCategory: Category | null = null;
   category$: Observable<Category[]> = this.categoryService.getAll();
 
   constructor(
@@ -63,11 +64,23 @@ export class WorkerEditorComponent implements OnInit {
     this.search = ev as unknown as string;
   }
 
-  selectUser(ev: {item: User}): void {
-    this.selectedUser = ev.item;
+  changeCategory(): void {
+    console.log(this.selectedCategory);
+  }
+
+  selectEditorUser(ev: {item: User}): void {
+    this.selectedEditorUser = ev.item;
   }
 
   onSave(worker: Worker): void {
+    if (this.selectedEditorUser) {
+      worker.editor_user = this.selectedEditorUser?._id;
+    }
+
+    if (this.selectedCategory){
+      worker.category = this.selectedCategory;
+    }
+
     if (!worker._id){
       worker._id = undefined;
       this.workerService.create(worker).subscribe({

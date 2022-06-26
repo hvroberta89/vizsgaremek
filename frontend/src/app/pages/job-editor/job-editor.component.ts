@@ -23,11 +23,13 @@ export class JobEditorComponent implements OnInit {
   isBs3 = isBs3();
   search?: string;
 
-  selectedUser: User | null = null;
+  selectedEditorUser: User | null = null;
+  selectedWorkerUser: User | null = null;
 
   users$:  Observable<User[]> = this.userService.getAll();
   suggestions$: Observable<User[]> = of([]);
 
+  selectedCategory: Category | null = null;
   category$: Observable<Category[]> = this.categoryService.getAll();
 
   constructor(
@@ -64,11 +66,26 @@ export class JobEditorComponent implements OnInit {
     this.search = ev as unknown as string;
   }
 
-  selectUser(ev: {item: User}): void {
-    this.selectedUser = ev.item;
+  selectEditorUser(ev: {item: User}): void {
+    this.selectedEditorUser = ev.item;
+  }
+  selectWorkerUser(ev: {item: User}): void {
+    this.selectedWorkerUser  = ev.item;
   }
 
   onSave(job: Job): void {
+    if (this.selectedCategory){
+      job.category = this.selectedCategory;
+    }
+
+    if (this.selectedEditorUser) {
+      job.editor_user = this.selectedEditorUser?._id;
+    }
+
+    if (this.selectedWorkerUser) {
+      job.worker_user = this.selectedWorkerUser?._id;
+    }
+
     if (!job._id){
       job._id = undefined;
       this.jobService.create(job).subscribe({
