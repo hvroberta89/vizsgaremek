@@ -29,7 +29,7 @@
 
 VAGY
 
-- A terminálon be kell lépni a /backend mappába és futtatni az `npm run build` parancsot.
+- A terminálon be kell lépni a /backend mappába és futtatni az `npm run deploy` parancsot.
 
 ## **3. Az alkalmazás konfigurálása**
 
