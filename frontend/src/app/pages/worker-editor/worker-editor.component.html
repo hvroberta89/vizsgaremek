@@ -21,13 +21,13 @@
                   class="form-control"
                   placeholder="choose a user"
                   (ngModelChange)="changeName($event)"
-                >
+                  required>
               </div>
             </div>
             <div class="col-md-4 px-1">
               <div class="form-group">
                 <label for="category">Kategória</label>
-                <select class="form-control" name="category" [(ngModel)]="selectedCategory">
+                <select class="form-control" name="category" [(ngModel)]="selectedCategory" required>
                   <option value=""> Válassz kategóriát </option>
                   <option *ngFor="let category of category$ | async" [value]="category._id">
                     {{ category.title }}
@@ -46,7 +46,8 @@
                     placeholder="yyyy-mm-dd"
                     name="date_from"
                     [(ngModel)]="worker.date_from"
-                    ngbDatepicker #dFrom="ngbDatepicker">
+                    ngbDatepicker #dFrom="ngbDatepicker"
+                    required>
                   <button
                     class="btn-calendar btn-primary"
                     (click)="dFrom.toggle()"
@@ -65,7 +66,8 @@
                     placeholder="yyyy-mm-dd"
                     name="date_to"
                     [(ngModel)]="worker.date_to"
-                    ngbDatepicker #dTo="ngbDatepicker">
+                    ngbDatepicker #dTo="ngbDatepicker"
+                    required>
                   <button
                     class="btn-calendar btn-primary"
                     (click)="dTo.toggle()"
@@ -80,7 +82,7 @@
             <div class="col-md-12 px-1">
               <div class="form-group">
                 <label for="description">Részletes leírás</label>
-                <textarea  class="form-control textarea" type="text" name="description" [(ngModel)]="worker.description"></textarea>
+                <textarea  class="form-control textarea" type="text" name="description" [(ngModel)]="worker.description" required></textarea>
               </div>
             </div>
           </div>
@@ -88,13 +90,13 @@
             <div class="col-md-4 col-lg-2 px-1">
               <div class="form-group">
                 <label for="settlement">Település</label>
-                <input class="form-control" type="text" name="settlement" [(ngModel)]="worker.settlement">
+                <input class="form-control" type="text" name="settlement" [(ngModel)]="worker.settlement" required>
               </div>
             </div>
           </div>
           <div class="row">
             <div class="update ml-auto mr-auto">
-              <button type="submit" class="btn btn-primary btn-round">
+              <button type="submit" [disabled]="editForm.invalid" class="btn btn-primary btn-round">
                 Mentés
               </button>
             </div>

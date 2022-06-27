@@ -10,14 +10,13 @@
             <div class="col-6 col-md-3 mx-auto px-1 photo">
               <img
                 [src]="profileImg"
-                alt="Profil picture"
-              >
+                alt="Profil picture">
             </div>
             <div class="col-md-3 px-1">
               <input name="_id" type="hidden" [(ngModel)]="user._id">
               <div class="form-group">
                 <label for="user_name">Felhasználónév</label>
-                <input class="form-control" type="text" name="user_name" [(ngModel)]="user.user_name">
+                <input class="form-control" type="text" name="user_name" [(ngModel)]="user.user_name" required>
               </div>
             </div>
           </div>
@@ -25,13 +24,13 @@
             <div class="col-md-4 px-1">
               <div class="form-group">
                 <label for="last_name">Vezetéknév</label>
-                <input class="form-control" type="text" name="last_name" [(ngModel)]="user.last_name">
+                <input class="form-control" type="text" name="last_name" [(ngModel)]="user.last_name" required>
               </div>
             </div>
             <div class="col-md-4 px-1">
               <div class="form-group">
                 <label for="first_name">Keresztnév</label>
-                <input class="form-control" type="text" name="first_name" [(ngModel)]="user.first_name">
+                <input class="form-control" type="text" name="first_name" [(ngModel)]="user.first_name" required>
               </div>
             </div>
           </div>
@@ -47,7 +46,8 @@
                     [(ngModel)]="user.birth_date"
                     [bsConfig]="{ adaptivePosition: true,
                       dateInputFormat:'YYYY-MM-DD'}"
-                    ngbDatepicker #d="ngbDatepicker">
+                    ngbDatepicker #d="ngbDatepicker"
+                    required>
                   <button
                     class="btn-calendar btn-primary"
                     (click)="d.toggle()"
@@ -60,7 +60,7 @@
             <div class="col-md-2 ml-md-5 px-1">
               <div class="form-group">
                 <label for="gender">Nem</label>
-                <select class="form-control" name="gender" [(ngModel)]="user.gender">
+                <select class="form-control" name="gender" [(ngModel)]="user.gender" required>
                   <option value="Nő">Nő</option>
                   <option value="Férfi">Férfi</option>
                 </select>
@@ -90,7 +90,7 @@
             <div class="col-md-4 px-1">
               <div class="form-group">
                 <label for="country">Ország</label>
-                <input class="form-control" type="text" name="country" [(ngModel)]="user.address.country">
+                <input class="form-control" type="text" name="country" [(ngModel)]="user.address.country" required>
               </div>
             </div>
           </div>
@@ -98,25 +98,25 @@
             <div class="col-md-2 px-1">
               <div class="form-group">
                 <label for="zipCode">Irányítószám</label>
-                <input class="form-control" type="number" name="zipCode" [(ngModel)]="user.address.zipCode">
+                <input class="form-control" type="number" name="zipCode" [(ngModel)]="user.address.zipCode" required>
               </div>
             </div>
             <div class="col-md-4 px-1">
               <div class="form-group">
                 <label for="city">Város</label>
-                <input class="form-control" type="text" name="city" [(ngModel)]="user.address.city">
+                <input class="form-control" type="text" name="city" [(ngModel)]="user.address.city" required>
               </div>
             </div>
             <div class="col-md-4 px-1">
               <div class="form-group">
                 <label for="street">Utca</label>
-                <input class="form-control" type="text" name="street" [(ngModel)]="user.address.street">
+                <input class="form-control" type="text" name="street" [(ngModel)]="user.address.street" required>
               </div>
             </div>
             <div class="col-md-2 px-1">
               <div class="form-group">
                 <label for="number">Házszám</label>
-                <input class="form-control" type="text" name="number" [(ngModel)]="user.address.number">
+                <input class="form-control" type="text" name="number" [(ngModel)]="user.address.number" required>
               </div>
             </div>
           </div>
@@ -124,13 +124,13 @@
             <div class="col-md-4 px-1">
               <div class="form-group">
                 <label for="email">Email</label>
-                <input class="form-control" type="text" name="email" [(ngModel)]="user.email">
+                <input class="form-control" type="text" name="email" [(ngModel)]="user.email" required>
               </div>
             </div>
             <div class="col-md-3 ml-md-5 px-1">
               <div class="form-group">
                 <label for="mobil_number">Mobilszám</label>
-                <input class="form-control" type="text" name="mobil_number" [(ngModel)]="user.mobil_number">
+                <input class="form-control" type="text" name="mobil_number" [(ngModel)]="user.mobil_number" required>
               </div>
             </div>
           </div>
@@ -138,19 +138,19 @@
             <div class="col-md-3 px-1">
               <div class="form-group">
                 <label for="password">Jelszó</label>
-                <input class="form-control" type="password" name="password" [(ngModel)]="user.password">
+                <input class="form-control" type="password" name="password" [(ngModel)]="user.password" required>
               </div>
             </div>
             <div class="col-md-2 ml-md-5 px-1">
               <div class="form-group">
                 <label for="role">Jogosultság</label>
-                <input class="form-control" type="number" name="role" [(ngModel)]="user.role">
+                <input class="form-control" type="number" name="role" [(ngModel)]="user.role" required>
               </div>
             </div>
           </div>
           <div class="row">
             <div class="update ml-auto mr-auto">
-              <button type="submit" class="btn btn-primary btn-round">Mentés</button>
+              <button type="submit" [disabled]="editForm.invalid" class="btn btn-primary btn-round">Mentés</button>
             </div>
           </div>
         </form>

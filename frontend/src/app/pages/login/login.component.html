@@ -6,20 +6,42 @@
           <h5 class="card-title">Bejelentkezés</h5>
         </div>
         <div class="card-body">
-          <form (ngSubmit)="onLogin()">
+          <form #login="ngForm" (ngSubmit)="onLogin()">
             <div class="form-group">
               <label for="email">Email</label>
-              <input type="email" class="form-control" placeholder="Email" name="email" [(ngModel)]="loginData.email">
+              <input
+                type="email"
+                class="form-control"
+                placeholder="Email"
+                name="email"
+                [(ngModel)]="loginData.email"
+                (focus)="onFocus()"
+                required
+                >
             </div>
             <div class="form-group">
-              <label>Jelszó</label>
-              <input type="password" class="form-control" name="password" placeholder="Jelszó" [(ngModel)]="loginData.password">
+              <label for="password">Jelszó</label>
+              <input
+                type="password"
+                class="form-control"
+                name="password"
+                placeholder="Jelszó"
+                [(ngModel)]="loginData.password"
+                (focus)="onFocus()"
+                required>
             </div>
-            <button type="submit" class="btn btn-primary btn-round">
+            <button type="submit" class="btn btn-primary btn-round text-center" [disabled]="login.invalid">
               Bejelentkezés
             </button>
           </form>
         </div>
+      </div>
+      <div *ngIf="(loginError$ | async)" class="alert alert-danger alert-dismissible fade show">
+        <button type="button" aria-hidden="true" class="close" data-dismiss="alert" aria-label="Close">
+          <i class="nc-icon nc-simple-remove"></i>
+        </button>
+        <span>
+          <b> HIBA - </b> Hibás email vagy jelszó'"</span>
       </div>
     </div>
   </div>

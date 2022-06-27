@@ -11,7 +11,7 @@
               <input name="_id" type="hidden" [(ngModel)]="category._id">
               <div class="form-group">
                 <label for="title">Megnevezés</label>
-                <input class="form-control" type="text" name="title" [(ngModel)]="category.title">
+                <input class="form-control" type="text" name="title" [(ngModel)]="category.title" required>
               </div>
             </div>
           </div>
@@ -19,13 +19,13 @@
             <div class="col-md-12 px-1">
               <div class="form-group">
                 <label for="description">Leírás</label>
-                <textarea  class="form-control textarea" type="text" name="description" [(ngModel)]="category.description"></textarea>
+                <textarea  class="form-control textarea" type="text" name="description" [(ngModel)]="category.description" required></textarea>
               </div>
             </div>
           </div>
           <div class="row">
             <div class="update ml-auto mr-auto">
-              <button type="submit" class="btn btn-primary btn-round">Mentés</button>
+              <button [disabled]="editForm.invalid" type="submit" class="btn btn-primary btn-round">Mentés</button>
             </div>
           </div>
         </form>

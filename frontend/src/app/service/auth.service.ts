@@ -28,6 +28,8 @@ export class AuthService {
   user$ : BehaviorSubject<User | null> = new BehaviorSubject<User | null>(null);
   access_token$: BehaviorSubject<string> = new BehaviorSubject<string>('');
 
+  loginError$: BehaviorSubject<boolean> = new BehaviorSubject<boolean>(false)
+
   constructor(
     private http: HttpClient,
     private router: Router,
@@ -55,6 +57,10 @@ export class AuthService {
 
   }
 
+  get currentUser(): User | null {
+    return this.user$.value
+  }
+
   login(loginData: ILoginData): void {
     this.http.post<IAuthModel>(this.loginUrl, loginData).subscribe({
       next: (response: IAuthModel) => {
@@ -62,7 +68,7 @@ export class AuthService {
         this.access_token$.next(response.accessToken);
         sessionStorage.setItem('login', JSON.stringify(response));
       },
-      error: (err) => console.error(err),
+      error: () => this.loginError$.next(true)
     });
   }
 

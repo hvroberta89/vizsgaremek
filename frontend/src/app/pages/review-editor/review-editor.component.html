@@ -21,6 +21,7 @@
                   class="form-control"
                   placeholder="choose a user"
                   (ngModelChange)="changeName($event)"
+                  required
                 >
               </div>
             </div>
@@ -37,6 +38,7 @@
                   class="form-control"
                   placeholder="choose a user"
                   (ngModelChange)="changeName($event)"
+                  required
                 >
               </div>
             </div>
@@ -46,7 +48,7 @@
               <div class="form-group">
                 <label for="score">Pontszám</label>
                 <div>
-                  <rating-input name="score" [(ngModel)]="review.rating"></rating-input>
+                  <rating-input name="score" [(ngModel)]="review.rating" required></rating-input>
                 </div>
               </div>
             </div>
@@ -77,7 +79,7 @@
                     placeholder="yyyy-mm-dd"
                     name="review_date"
                     [(ngModel)]="review.review_date"
-                    ngbDatepicker #d="ngbDatepicker">
+                    ngbDatepicker #d="ngbDatepicker" required>
                   <button
                     class="btn-calendar btn-primary"
                     (click)="d.toggle()"
@@ -90,7 +92,7 @@
           </div>
           <div class="row">
             <div class="update ml-auto mr-auto">
-              <button type="submit" class="btn btn-primary btn-round">Mentés</button>
+              <button type="submit" [disabled]="editForm.invalid" class="btn btn-primary btn-round">Mentés</button>
             </div>
           </div>
         </form>

@@ -11,19 +11,19 @@
               <input name="_id" type="hidden" [(ngModel)]="job._id">
               <div class="form-group">
                 <label for="title">Cimke</label>
-                <input class="form-control" type="text" name="title" [(ngModel)]="job.title">
+                <input class="form-control" type="text" name="title" [(ngModel)]="job.title" required>
               </div>
             </div>
             <div class="col-md-3 px-1">
               <div class="form-group">
                 <label for="settlement">Település</label>
-                <input class="form-control" type="text" name="settlement" [(ngModel)]="job.settlement">
+                <input class="form-control" type="text" name="settlement" [(ngModel)]="job.settlement" required>
               </div>
             </div>
             <div class="col-md-4 px-1">
               <div class="form-group">
                 <label for="category">Kategória</label>
-                <select class="form-control" name="category" [(ngModel)]="selectedCategory">
+                <select class="form-control" name="category" [(ngModel)]="selectedCategory" required>
                   <option value="">Válassz egy kategóriát</option>
                   <option *ngFor="let category of category$ | async" [value]="category._id">
                     {{ category.title }}
@@ -63,7 +63,7 @@
             <div class="col-md-12 px-1">
               <div class="form-group">
                 <label for="description">Részletes leírás</label>
-                <textarea  class="form-control textarea" type="text" name="description" [(ngModel)]="job.description"></textarea>
+                <textarea  class="form-control textarea" type="text" name="description" [(ngModel)]="job.description" required></textarea>
               </div>
             </div>
           </div>
@@ -71,7 +71,7 @@
             <div class="col-md-12 my-2 px-1">
               <div class="form-group">
                 <p>Szükséges szerszámok rendelkezésre állnak?</p>
-                <div class="btn-group" role="group" ngbRadioGroup name="tools" [(ngModel)]="job.tools">
+                <div class="btn-group" role="group" ngbRadioGroup name="tools" [(ngModel)]="job.tools" required>
                   <label ngbButtonLabel class="btn-primary">
                     <input ngbButton type="radio" class="btn-check" [value]="true">
                     Igen
@@ -116,6 +116,7 @@
                   class="form-control"
                   placeholder="choose a user"
                   (ngModelChange)="changeName($event)"
+                  required
                 >
               </div>
             </div>
@@ -158,10 +159,12 @@
 
           <div class="row">
             <div class="update ml-auto mr-auto">
-              <button type="submit" class="btn btn-primary btn-round">Mentés</button>
+              <button type="submit" [disabled]="editForm.invalid" class="btn btn-primary btn-round">Mentés</button>
             </div>
           </div>
         </form>
+
+
         <ng-template #editorListTemplate let-matches="matches" let-query="query" let-typeaheadTemplateMethods>
           <ul class="list-group" [class.dropdown-menu]="isBs3">
             <li class="list-group-item"

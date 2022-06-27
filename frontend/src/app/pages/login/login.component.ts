@@ -1,7 +1,6 @@
-import { ILoginData } from './../../service/auth.service';
 import { Component, OnInit } from '@angular/core';
-import { Router } from '@angular/router';
-import { User } from '../../model/user';
+
+import { ILoginData } from './../../service/auth.service';
 import { AuthService } from '../../service/auth.service';
 import { UserService } from '../../service/user.service';
 
@@ -12,10 +11,10 @@ import { UserService } from '../../service/user.service';
 })
 export class LoginComponent implements OnInit {
   loginData: ILoginData = {};
-  //user: User = new User();
+  loginError$= this.auth.loginError$
+  user$ = this.auth.user$;
 
   constructor(
-    private userService: UserService,
     private auth: AuthService,
   ) { }
 
@@ -24,20 +23,9 @@ export class LoginComponent implements OnInit {
 
   onLogin(): void {
     this.auth.login(this.loginData);
-
-    // this.auth.login(this.user).subscribe(
-    //   user => {
-    //     if (user) {
-    //       this.router.navigate(['/']);
-    //     }
-    //   }
-    // );
   }
 
-  // setPassword(): void {
-  //   this.userService.update({_id: 'fasfdasfasdffff541515', password: 'test'})
-  //     .subscribe( resp => console.log(resp) );
-  // }
-
-
+  onFocus():void{
+    this.auth.loginError$.next(false)
+  }
 }
