@@ -18,14 +18,12 @@
 
 **1. Agilis felhasználói történet:**
 
-> _A főoldalon egy rövid ismertetőt követően, 3db-3db kártyán a legfrissebb munka, illetve munkaerő lehetőségek olvashatóak._
+> _A főoldalon egy rövid ismertetőt követően lehetőség nyílik a bejelentkezésre._
 
 **Elfogadási kritérium:**
 
 -  Üdvözlés
 -  Rövid ismertető,
--  3db kártya a legfrissebb munkalehetőséggel
--  3db kártya a legújabb munkaerőkkel
 -  Bejelentkezési lehetőség
 
 ---
