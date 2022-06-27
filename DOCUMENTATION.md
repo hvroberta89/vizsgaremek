@@ -7,7 +7,7 @@
 
 - Forkolni kell az adott GitHub repository tartalmát:
 
-    https://github.com/lasurrealista/universe-of-superheroes
+    https://github.com/hvroberta89/vizsgaremek
 
 - A célgépre le kell klónozni az adott GitHub repository tartalmát.
 
@@ -29,7 +29,7 @@
 
 VAGY
 
-- A terminálon be kell lépni a /backend mappába és futtatni az `npm run build` parancsot.
+- A terminálon be kell lépni a /backend mappába és futtatni az `npm run deploy` parancsot.
 
 ## **3. Az alkalmazás konfigurálása**
 
