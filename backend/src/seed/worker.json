@@ -1,1296 +1,263 @@
 [
   {
-    "editor_user": "62b87783dd3ae30ae0e979f0",
+    "editor_user": "62b9115ba96eee70e622c67b",
+    "category": "62b886ba53a753362366a49a",
     "date_from": {
       "year": 2022,
       "month": 5,
-      "day": 10
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 8,
-      "day": 5
-    },
-    "description": "Officia sit aliqua laboris dolore nulla enim. Ut elit culpa eiusmod officia elit fugiat. Dolore cillum dolor dolore dolore fugiat in amet officia enim enim.\r\n",
-    "settlement": "Nagyvisnyó"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a14",
-    "date_from": {
-      "year": 2022,
-      "month": 6,
-      "day": 20
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 6,
-      "day": 10
-    },
-    "description": "Dolor id minim sint id voluptate adipisicing labore consequat culpa adipisicing. Incididunt ipsum amet aliquip anim. Laborum proident in mollit velit excepteur fugiat.\r\n",
-    "settlement": "Abasár"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a28",
-    "date_from": {
-      "year": 2022,
-      "month": 7,
-      "day": 9
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 7,
-      "day": 2
-    },
-    "description": "Adipisicing ipsum id ullamco labore cillum quis. Consectetur adipisicing officia nostrud consequat amet ea amet eu sint est enim dolor dolore. Cillum deserunt aliqua aliqua ullamco laboris sint ut elit cillum do dolore non sit enim. Voluptate pariatur id Lorem sit ut sit laboris. Laboris anim labore veniam aliquip quis consectetur pariatur minim.\r\n",
-    "settlement": "Bélapátfalva"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e979e0",
-    "date_from": {
-      "year": 2022,
-      "month": 4,
-      "day": 1
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 6,
-      "day": 13
-    },
-    "description": "Mollit excepteur non ad et laborum ipsum id dolor cillum duis enim. Occaecat duis dolore reprehenderit in quis proident aute qui laboris veniam. Cupidatat mollit anim cillum commodo ad occaecat enim ullamco sit. Nulla amet est est laboris laborum id officia fugiat eiusmod. Duis non nulla consequat nisi. Ex esse enim occaecat excepteur voluptate fugiat. Ut exercitation labore nulla et proident minim reprehenderit cillum do nulla velit adipisicing exercitation voluptate.\r\n",
-    "settlement": "Bekölce"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a04",
-    "date_from": {
-      "year": 2022,
-      "month": 7,
       "day": 18
     },
     "date_to": {
       "year": 2022,
-      "month": 6,
-      "day": 21
-    },
-    "description": "Voluptate qui officia qui id minim aute. Ad ullamco consequat in eiusmod et. Adipisicing Lorem nostrud laborum aute elit culpa cupidatat nostrud pariatur. Tempor cillum sit fugiat ut deserunt. Sit culpa sint proident dolore dolore ea occaecat.\r\n",
-    "settlement": "Besenyőtelek"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a74",
-    "date_from": {
-      "year": 2022,
-      "month": 7,
-      "day": 2
-    },
-    "date_to": {
-      "year": 2022,
       "month": 5,
-      "day": 17
-    },
-    "description": "Laboris quis ipsum consectetur ad labore quis. Magna pariatur ut culpa elit irure fugiat pariatur. Velit amet nostrud qui ea ut duis magna sit eu voluptate commodo incididunt eu ex. Labore ea Lorem tempor do amet.\r\n",
-    "settlement": "Felsőtárkány"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a06",
-    "date_from": {
-      "year": 2022,
-      "month": 4,
-      "day": 22
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 4,
-      "day": 27
-    },
-    "description": "Ipsum ut ut proident magna dolore deserunt. Non tempor dolore velit et fugiat anim ipsum eu non nisi. Ex ut voluptate aliqua minim. Laborum voluptate sunt nulla non pariatur.\r\n",
-    "settlement": "Sirok"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a80",
-    "date_from": {
-      "year": 2022,
-      "month": 8,
-      "day": 27
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 7,
-      "day": 6
-    },
-    "description": "Eu laborum adipisicing ad officia nisi fugiat anim. Consectetur sint minim ullamco commodo et eu deserunt nostrud ullamco. Eiusmod consectetur dolore et cupidatat sint. Elit aliquip reprehenderit irure enim amet. Pariatur consequat fugiat incididunt aute.\r\n",
-    "settlement": "Novaj"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a06",
-    "date_from": {
-      "year": 2022,
-      "month": 7,
-      "day": 23
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 8,
-      "day": 20
-    },
-    "description": "Exercitation consectetur elit laborum ad quis sit et incididunt labore et ad labore adipisicing mollit. Qui cillum nisi enim eiusmod cupidatat sint in laborum cupidatat qui ea nostrud. Commodo dolor exercitation consequat dolore officia enim. Ut commodo et aute nostrud ea est adipisicing dolor amet pariatur incididunt consequat nulla tempor. Cupidatat occaecat occaecat id Lorem ipsum dolor incididunt eu aute excepteur dolore ullamco elit.\r\n",
-    "settlement": "Bélapátfalva"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e979e0",
-    "date_from": {
-      "year": 2022,
-      "month": 7,
-      "day": 21
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 7,
-      "day": 26
-    },
-    "description": "Adipisicing non quis aute aliqua tempor est cillum. Est proident irure Lorem aliqua elit elit sint deserunt amet irure duis. Cupidatat ad sint exercitation sunt laboris ut amet labore labore. Enim consectetur officia do nulla incididunt qui proident reprehenderit quis commodo eu.\r\n",
-    "settlement": "Kisnána"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a4e",
-    "date_from": {
-      "year": 2022,
-      "month": 8,
-      "day": 30
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 8,
-      "day": 28
-    },
-    "description": "Excepteur mollit id laboris enim laborum laborum irure consectetur dolore veniam. Dolore esse culpa consequat fugiat incididunt ipsum. Velit reprehenderit labore sint nostrud ullamco anim mollit tempor adipisicing cillum velit fugiat cillum commodo.\r\n",
-    "settlement": "Egerbakta"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a22",
-    "date_from": {
-      "year": 2022,
-      "month": 6,
-      "day": 4
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 4,
-      "day": 23
-    },
-    "description": "Incididunt ex veniam consectetur veniam aute dolore laboris velit. Eiusmod qui laboris tempor occaecat qui reprehenderit officia. Qui ullamco reprehenderit veniam amet veniam enim sunt sunt labore. Anim proident et nostrud dolor. Nostrud exercitation adipisicing laborum ea deserunt ullamco.\r\n",
-    "settlement": "Egerfarmos"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a2a",
-    "date_from": {
-      "year": 2022,
-      "month": 4,
-      "day": 3
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 8,
-      "day": 5
-    },
-    "description": "Officia dolor adipisicing aliqua proident velit cupidatat sint. Adipisicing voluptate adipisicing velit adipisicing laborum consequat cupidatat nisi consequat nisi aute occaecat qui. Ullamco ea laboris Lorem in ea consequat ullamco enim velit sunt. Est ut deserunt aliqua ut aute fugiat enim minim tempor eu.\r\n",
-    "settlement": "Besenyőtelek"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a14",
-    "date_from": {
-      "year": 2022,
-      "month": 8,
-      "day": 10
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 5,
-      "day": 16
-    },
-    "description": "Proident enim ipsum proident id consequat ut fugiat esse ex velit. Sit consequat cupidatat nulla aliquip ut anim id ad anim in laboris tempor. Consequat est labore ullamco occaecat eu nulla sit magna nisi anim fugiat. Nisi non voluptate culpa id deserunt magna consequat ad ex ex incididunt. Id occaecat est exercitation amet voluptate proident Lorem voluptate elit esse. Ea consequat deserunt quis laborum sint irure duis ut adipisicing tempor ullamco aute mollit. Do labore sit non sunt sit sint est non mollit id fugiat adipisicing consequat id.\r\n",
-    "settlement": "Novaj"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e979d0",
-    "date_from": {
-      "year": 2022,
-      "month": 7,
-      "day": 5
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 5,
-      "day": 20
-    },
-    "description": "Irure ex aute amet cupidatat magna minim incididunt et officia ea pariatur quis. Excepteur proident laboris consequat duis incididunt tempor. Magna eu dolore labore laboris duis ullamco id incididunt. Cillum ad esse labore voluptate velit aliqua sit cillum. Ea magna deserunt adipisicing est ullamco ad qui amet pariatur eiusmod incididunt esse consectetur. Pariatur velit nisi enim commodo ullamco in duis est ut occaecat. Nisi dolor consectetur elit est reprehenderit Lorem aute ullamco.\r\n",
-    "settlement": "Felsőtárkány"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a78",
-    "date_from": {
-      "year": 2022,
-      "month": 6,
-      "day": 10
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 8,
-      "day": 17
-    },
-    "description": "Officia consequat voluptate ullamco deserunt amet in. Magna nulla nulla ipsum consectetur culpa do consequat aliqua. Consectetur eiusmod duis tempor commodo culpa ut dolor in enim enim do enim. Reprehenderit ex incididunt velit sunt exercitation aliquip commodo consequat eiusmod amet exercitation in. Voluptate exercitation adipisicing aute laboris proident aliquip. Minim ex amet dolor eu fugiat irure consequat occaecat officia ut.\r\n",
-    "settlement": "Verpelét"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a20",
-    "date_from": {
-      "year": 2022,
-      "month": 4,
-      "day": 13
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 8,
       "day": 19
     },
-    "description": "Mollit cillum laboris deserunt proident mollit eu do aliquip nostrud voluptate quis veniam nulla voluptate. Aliqua ullamco cupidatat ea proident non esse. Est aliqua culpa aliquip est commodo elit non ad consectetur commodo sit et sit. Officia ex pariatur magna elit minim qui amet consequat. Esse duis laboris excepteur officia dolore reprehenderit elit reprehenderit duis ullamco. Dolor do sint commodo magna cillum quis do sunt cillum eiusmod nostrud aliqua consectetur. Nostrud irure ullamco ad laborum pariatur pariatur id cillum.\r\n",
-    "settlement": "Sirok"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a14",
-    "date_from": {
-      "year": 2022,
-      "month": 5,
-      "day": 17
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 4,
-      "day": 17
-    },
-    "description": "Enim cillum aliquip anim sunt pariatur elit. Dolore proident excepteur eiusmod exercitation Lorem sunt reprehenderit. Esse ex occaecat enim pariatur duis est laborum dolor dolore. Nostrud nulla non ad ut nisi quis do excepteur ea tempor fugiat. Exercitation non ut nostrud anim anim ad in id deserunt quis nisi laboris eu reprehenderit. Excepteur est tempor amet ex anim aliquip aliquip nostrud officia nulla ut laboris pariatur occaecat. Est ipsum occaecat pariatur commodo pariatur id ex quis cupidatat.\r\n",
-    "settlement": "Tarnalelesz"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a0c",
-    "date_from": {
-      "year": 2022,
-      "month": 5,
-      "day": 23
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 8,
-      "day": 22
-    },
-    "description": "In nisi pariatur sunt magna deserunt esse cillum minim id consequat. Irure sit cupidatat consectetur deserunt Lorem. Sunt ea irure aliqua adipisicing sunt officia eiusmod quis ut minim occaecat do fugiat. Magna ut aliqua dolore adipisicing adipisicing magna in velit duis. Exercitation tempor elit tempor anim velit exercitation.\r\n",
-    "settlement": "Zagyvaszántó"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e979e0",
-    "date_from": {
-      "year": 2022,
-      "month": 8,
-      "day": 1
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 8,
-      "day": 15
-    },
-    "description": "Laborum minim ullamco est ipsum eiusmod veniam sunt exercitation elit. Occaecat consectetur dolor ad duis mollit in duis esse labore excepteur officia amet. Esse sunt dolor deserunt pariatur cillum ad ex tempor aliqua dolor proident incididunt. Sunt aute elit enim id tempor laboris aliquip culpa officia nulla mollit do. Sint irure in et velit duis occaecat cupidatat fugiat nostrud nostrud.\r\n",
-    "settlement": "Egerszalók"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e979dc",
-    "date_from": {
-      "year": 2022,
-      "month": 8,
-      "day": 2
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 8,
-      "day": 5
-    },
-    "description": "Esse culpa labore commodo mollit sunt ullamco cillum nostrud est minim. Ullamco in eiusmod cillum do sit excepteur do exercitation cillum incididunt irure exercitation. Amet in deserunt non velit eiusmod incididunt incididunt do exercitation deserunt consectetur. Dolore id adipisicing adipisicing et veniam voluptate veniam velit do minim ex do eu. Aliqua tempor ipsum labore ut consectetur reprehenderit. Sint nostrud excepteur et labore anim adipisicing commodo pariatur culpa velit tempor elit.\r\n",
-    "settlement": "Átány"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a22",
-    "date_from": {
-      "year": 2022,
-      "month": 8,
-      "day": 29
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 5,
-      "day": 28
-    },
-    "description": "Non consequat sunt id esse aute quis elit. Amet laborum cillum dolor consequat. Elit veniam deserunt ea aute consectetur aliquip reprehenderit eiusmod esse velit. Culpa magna laborum eiusmod tempor enim laborum ullamco dolor nisi reprehenderit mollit cupidatat. Tempor aute nostrud et ea labore ex cillum voluptate pariatur elit est in nostrud qui.\r\n",
-    "settlement": "Átány"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a7c",
-    "date_from": {
-      "year": 2022,
-      "month": 4,
-      "day": 25
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 4,
-      "day": 5
-    },
-    "description": "Ad consectetur id voluptate id culpa fugiat mollit voluptate Lorem. Proident mollit velit adipisicing tempor est ea dolore et eu dolor. Occaecat id ipsum eiusmod quis minim aute officia amet duis.\r\n",
-    "settlement": "Kisnána"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e979dc",
-    "date_from": {
-      "year": 2022,
-      "month": 7,
-      "day": 18
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 8,
-      "day": 10
-    },
-    "description": "Deserunt aliqua nostrud laboris incididunt pariatur. Lorem proident proident sit proident anim pariatur culpa adipisicing est deserunt. Est reprehenderit occaecat aute ea enim cupidatat sint.\r\n",
-    "settlement": "Szarvaskő"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e979e0",
-    "date_from": {
-      "year": 2022,
-      "month": 4,
-      "day": 29
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 6,
-      "day": 10
-    },
-    "description": "In minim non fugiat anim excepteur adipisicing irure ut. Enim irure laboris ut velit officia. Non incididunt proident aliquip labore tempor cillum officia est sint sunt proident. Fugiat proident ipsum elit do amet nostrud sint sit minim Lorem officia nostrud enim elit. Proident dolore exercitation ullamco consectetur sit consectetur tempor non tempor aute exercitation voluptate tempor.\r\n",
-    "settlement": "Bátor"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e979e0",
-    "date_from": {
-      "year": 2022,
-      "month": 8,
-      "day": 28
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 7,
-      "day": 11
-    },
-    "description": "Incididunt eu Lorem irure ut magna minim cillum sunt labore. Dolore voluptate anim reprehenderit voluptate consectetur in ex fugiat eu duis irure et duis. Anim officia laborum aliquip consequat qui tempor ullamco eu qui eiusmod incididunt deserunt veniam. Ea voluptate irure ea est incididunt officia.\r\n",
-    "settlement": "Noszvaj"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a84",
-    "date_from": {
-      "year": 2022,
-      "month": 8,
-      "day": 26
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 6,
-      "day": 17
-    },
-    "description": "Esse eiusmod tempor aliqua veniam laboris aute magna esse qui anim. Esse dolor tempor nisi magna ipsum culpa cillum elit id minim. Sit consectetur veniam est ipsum ad veniam pariatur officia do laboris voluptate do ullamco. Esse quis fugiat voluptate sint dolor mollit proident. Tempor mollit elit eiusmod id ea nostrud mollit occaecat sit fugiat elit quis aliquip. Mollit reprehenderit in reprehenderit in ex culpa ea reprehenderit sunt id Lorem.\r\n",
-    "settlement": "Eger"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e979fc",
-    "date_from": {
-      "year": 2022,
-      "month": 6,
-      "day": 3
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 7,
-      "day": 1
-    },
-    "description": "Ex sint irure sint amet ex veniam tempor est culpa pariatur officia id. Consectetur veniam cillum excepteur ullamco voluptate ea anim adipisicing amet. Nostrud reprehenderit cillum voluptate aliqua duis.\r\n",
-    "settlement": "Egerszólát"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e979e0",
-    "date_from": {
-      "year": 2022,
-      "month": 5,
-      "day": 29
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 8,
-      "day": 11
-    },
-    "description": "Laboris minim velit ea consequat ea labore dolore. Sint amet id nulla excepteur veniam magna exercitation anim in ea consectetur consectetur cillum esse. Ex tempor deserunt eu consectetur eiusmod. Nisi minim qui tempor ipsum voluptate sint cillum esse aute qui enim. Duis ullamco elit dolor et est incididunt irure do occaecat nulla. Irure est laboris veniam exercitation officia ut cillum sint. Amet occaecat ut officia cillum irure.\r\n",
-    "settlement": "Eger"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a06",
-    "date_from": {
-      "year": 2022,
-      "month": 7,
-      "day": 6
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 8,
-      "day": 4
-    },
-    "description": "Sit eu reprehenderit et id irure culpa cupidatat minim cupidatat sint quis veniam. Proident ea laborum excepteur adipisicing nisi exercitation anim nostrud. Aliquip consectetur dolore aliqua aute adipisicing sunt officia dolore voluptate. Do excepteur nulla excepteur esse exercitation.\r\n",
+    "description": "Aliquip irure qui elit do excepteur laboris exercitation aute dolore proident occaecat enim proident anim. Labore ad pariatur eiusmod enim aute laborum anim officia culpa Lorem velit. Ipsum aliqua ad id minim amet. Enim magna officia consequat sit labore voluptate tempor. Labore eiusmod sint sint qui ipsum. Tempor excepteur id velit dolore labore id culpa irure veniam. Et deserunt anim laborum labore nulla ex nisi laboris deserunt Lorem.\r\n",
     "settlement": "Tenk"
   },
   {
-    "editor_user": "62b87783dd3ae30ae0e979da",
+    "editor_user": "62b9115ba96eee70e622c64d",
+    "category": "62b886ba53a753362366a49a",
     "date_from": {
       "year": 2022,
       "month": 6,
-      "day": 18
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 8,
-      "day": 15
-    },
-    "description": "Quis nisi qui proident irure irure commodo Lorem tempor excepteur incididunt adipisicing nulla labore. Enim pariatur Lorem anim cupidatat velit id commodo. Non duis excepteur anim tempor commodo. Irure quis labore anim minim quis mollit do nostrud id aute non deserunt. Sunt laborum non nostrud nulla.\r\n",
-    "settlement": "Egerbocs"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e979fc",
-    "date_from": {
-      "year": 2022,
-      "month": 7,
-      "day": 1
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 6,
-      "day": 18
-    },
-    "description": "Est aliqua qui mollit sunt pariatur reprehenderit occaecat dolore commodo quis nisi culpa. Anim et ad quis aliqua magna velit excepteur sit nostrud et incididunt eu. Excepteur adipisicing sint consequat deserunt commodo amet velit laborum irure. Sunt irure eiusmod adipisicing qui. Lorem culpa aute sint cupidatat magna nisi proident consectetur nostrud anim laboris exercitation enim nostrud. Irure incididunt laboris culpa id tempor et incididunt incididunt enim. Fugiat quis pariatur veniam cillum enim voluptate nostrud reprehenderit duis voluptate velit enim.\r\n",
-    "settlement": "Sirok"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a28",
-    "date_from": {
-      "year": 2022,
-      "month": 6,
-      "day": 4
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 4,
-      "day": 6
-    },
-    "description": "Magna qui exercitation et sit aute id culpa qui aliquip. Quis aliquip amet nisi ex fugiat elit aliqua do adipisicing. Irure anim ea dolore amet exercitation occaecat veniam cupidatat elit irure in irure quis. Commodo in laborum est exercitation esse ut consequat minim ad magna dolore. In in consequat fugiat cupidatat anim aute cillum anim laborum eu tempor labore. Laboris ullamco do nisi et et.\r\n",
-    "settlement": "Ostoros"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a58",
-    "date_from": {
-      "year": 2022,
-      "month": 4,
-      "day": 18
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 8,
-      "day": 3
-    },
-    "description": "Proident mollit velit labore commodo culpa exercitation labore ad. Magna veniam reprehenderit culpa nisi culpa. Id dolore occaecat et irure amet. Ex officia fugiat adipisicing ipsum cillum voluptate quis. Incididunt deserunt sunt pariatur ullamco ex adipisicing velit quis reprehenderit consectetur magna non. Eiusmod sunt minim qui cillum ipsum officia enim.\r\n",
-    "settlement": "Zagyvaszántó"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a12",
-    "date_from": {
-      "year": 2022,
-      "month": 6,
-      "day": 21
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 8,
-      "day": 6
-    },
-    "description": "Voluptate ut aliqua culpa mollit dolore ex. Consectetur dolore aliquip cillum eu amet. Mollit mollit dolor laboris ea amet cupidatat culpa mollit mollit aute.\r\n",
-    "settlement": "Zagyvaszántó"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a1a",
-    "date_from": {
-      "year": 2022,
-      "month": 5,
-      "day": 11
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 6,
-      "day": 8
-    },
-    "description": "Exercitation esse elit nostrud ad nostrud adipisicing qui dolor sit labore officia minim occaecat. Exercitation magna enim esse deserunt. Cillum enim consequat ut consequat minim do tempor excepteur. Laboris proident non reprehenderit sint est. Nisi consectetur qui adipisicing id amet labore est tempor minim anim incididunt non tempor. Sint duis officia esse qui nostrud esse. Nisi enim incididunt adipisicing eu tempor nostrud sit deserunt reprehenderit consequat nostrud quis id.\r\n",
-    "settlement": "Ostoros"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a1a",
-    "date_from": {
-      "year": 2022,
-      "month": 5,
-      "day": 21
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 8,
-      "day": 21
-    },
-    "description": "Laborum irure sunt quis velit aute ipsum. Aliquip nulla ex sit elit qui labore veniam aliquip sunt fugiat irure fugiat. Pariatur eiusmod ex dolore exercitation aute dolore laborum.\r\n",
-    "settlement": "Bátor"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a52",
-    "date_from": {
-      "year": 2022,
-      "month": 5,
-      "day": 1
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 7,
-      "day": 20
-    },
-    "description": "Et adipisicing non culpa veniam veniam. Esse cillum minim deserunt cupidatat culpa Lorem id aute ea voluptate aliquip. Proident excepteur labore commodo laborum adipisicing voluptate. Do ullamco non reprehenderit laboris laborum do qui occaecat officia officia aute ipsum.\r\n",
-    "settlement": "Kompolt"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a9c",
-    "date_from": {
-      "year": 2022,
-      "month": 6,
-      "day": 9
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 6,
-      "day": 17
-    },
-    "description": "Deserunt ea dolor mollit ipsum. Incididunt incididunt officia id minim. Et labore aute commodo velit laborum dolor nisi in laboris velit labore occaecat. Aliquip nisi do commodo exercitation non commodo occaecat laborum.\r\n",
-    "settlement": "Kerecsend"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97aec",
-    "date_from": {
-      "year": 2022,
-      "month": 4,
-      "day": 19
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 7,
-      "day": 3
-    },
-    "description": "Tempor deserunt sunt consequat incididunt ad cillum ut. Eiusmod sunt laborum adipisicing quis quis voluptate ex fugiat voluptate esse nisi. Non fugiat labore enim pariatur in aliquip non excepteur reprehenderit labore magna. Reprehenderit culpa culpa duis dolor culpa ullamco non id deserunt adipisicing deserunt veniam est. Fugiat deserunt amet fugiat consectetur mollit voluptate culpa proident commodo. In eu magna nisi aliquip id fugiat mollit eu fugiat amet. Enim laborum mollit ex ea.\r\n",
-    "settlement": "Parádsasvár"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97af0",
-    "date_from": {
-      "year": 2022,
-      "month": 6,
-      "day": 21
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 4,
-      "day": 24
-    },
-    "description": "Reprehenderit elit dolor nisi aliqua proident. Cupidatat eu aliqua excepteur aliqua ut enim reprehenderit eiusmod ipsum velit ad do. Irure dolore ad laborum aliqua adipisicing reprehenderit irure dolor nisi deserunt. Proident ad do velit cillum. Velit et anim excepteur aute consectetur magna quis esse qui. Aute eiusmod pariatur pariatur reprehenderit. Ut aute eiusmod aliquip ullamco ullamco.\r\n",
-    "settlement": "Abasár"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e979f6",
-    "date_from": {
-      "year": 2022,
-      "month": 5,
-      "day": 25
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 4,
-      "day": 7
-    },
-    "description": "Sit culpa commodo labore pariatur minim aliquip et do incididunt velit. Deserunt deserunt magna ullamco sit sint nulla ea irure commodo laboris ex. Excepteur enim veniam eiusmod amet qui.\r\n",
-    "settlement": "Szarvaskő"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a04",
-    "date_from": {
-      "year": 2022,
-      "month": 5,
-      "day": 11
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 6,
-      "day": 19
-    },
-    "description": "Exercitation magna aliquip laborum ex occaecat. Sunt cillum sit Lorem commodo exercitation irure cillum deserunt aliquip dolore consectetur. Nisi culpa quis et et consectetur laboris amet voluptate non nostrud enim do. Pariatur labore occaecat exercitation est id ex id labore sint incididunt quis velit. Exercitation velit veniam esse labore qui minim qui veniam. Deserunt enim eiusmod adipisicing amet ullamco sit laborum ullamco excepteur irure deserunt pariatur nulla.\r\n",
-    "settlement": "Szarvaskő"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a12",
-    "date_from": {
-      "year": 2022,
-      "month": 6,
-      "day": 7
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 8,
-      "day": 22
-    },
-    "description": "Ex eiusmod do cillum incididunt laboris ex irure nisi est aliqua ullamco enim ea sint. Fugiat nisi deserunt qui ad cupidatat anim velit est. Duis excepteur ipsum excepteur velit. Sint sint id irure nisi ea incididunt aliquip duis laboris elit. Duis laboris tempor qui ipsum ut ea veniam. Sit cillum anim dolor esse fugiat sint nostrud reprehenderit ad consectetur nisi.\r\n",
-    "settlement": "Pétervására"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97af4",
-    "date_from": {
-      "year": 2022,
-      "month": 7,
-      "day": 13
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 5,
-      "day": 7
-    },
-    "description": "Commodo quis sunt in culpa dolore consectetur dolor. Nostrud veniam reprehenderit ut commodo sit sit tempor non incididunt occaecat non nulla. Sit minim dolor ex do incididunt ipsum. Enim dolore sit pariatur Lorem ut. Occaecat sit velit enim ut irure ea. Amet reprehenderit non adipisicing dolore irure cillum elit. Excepteur eiusmod est cupidatat deserunt amet occaecat cupidatat aute cillum enim magna.\r\n",
-    "settlement": "Eger"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a14",
-    "date_from": {
-      "year": 2022,
-      "month": 8,
-      "day": 8
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 8,
-      "day": 26
-    },
-    "description": "Mollit aliquip minim sit cillum excepteur commodo cillum ea enim culpa cupidatat et occaecat sint. Non ullamco mollit aliquip Lorem. Laboris aliqua amet veniam veniam eiusmod consectetur cillum culpa pariatur ex quis pariatur cupidatat. Aliqua ea labore cillum fugiat. Sunt elit sunt amet proident aliqua commodo amet et. Culpa in duis consectetur et voluptate tempor nisi nulla do sunt.\r\n",
-    "settlement": "Kompolt"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a12",
-    "date_from": {
-      "year": 2022,
-      "month": 8,
-      "day": 20
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 5,
-      "day": 14
-    },
-    "description": "Voluptate laboris magna dolor esse eu pariatur commodo cupidatat laborum excepteur reprehenderit sit. Deserunt qui reprehenderit voluptate occaecat. Ea ut in magna dolore eiusmod exercitation quis voluptate. Adipisicing fugiat culpa culpa ad fugiat irure elit fugiat in. Cupidatat est excepteur ex fugiat veniam sunt ipsum commodo eu consequat consectetur duis incididunt.\r\n",
-    "settlement": "Egerbakta"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97aec",
-    "date_from": {
-      "year": 2022,
-      "month": 8,
-      "day": 29
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 6,
-      "day": 16
-    },
-    "description": "Est veniam consequat mollit culpa laboris cillum esse pariatur aliqua quis anim in. Incididunt nulla excepteur commodo anim proident aute deserunt excepteur est. Officia ad sit dolore nostrud laboris voluptate fugiat incididunt voluptate exercitation. Labore aliqua ex enim esse ex. Velit dolore cillum nulla non ex non. Eiusmod ut incididunt veniam exercitation incididunt veniam sit pariatur qui magna sint in.\r\n",
-    "settlement": "Bekölce"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a06",
-    "date_from": {
-      "year": 2022,
-      "month": 7,
-      "day": 9
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 4,
-      "day": 3
-    },
-    "description": "Esse excepteur id aute aliquip qui cupidatat proident. Lorem non quis excepteur dolore non sunt eiusmod. Tempor esse officia officia duis commodo ipsum aute commodo eu.\r\n",
-    "settlement": "Nagytálya"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a22",
-    "date_from": {
-      "year": 2022,
-      "month": 6,
-      "day": 8
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 4,
       "day": 5
     },
-    "description": "Id pariatur adipisicing ipsum incididunt commodo sunt ullamco. Et elit enim ipsum exercitation. Nisi adipisicing aliquip reprehenderit eu duis incididunt ut. Sint proident nisi ex minim voluptate officia esse labore amet labore aute voluptate.\r\n",
-    "settlement": "Aldebrő"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a06",
-    "date_from": {
+    "date_to": {
       "year": 2022,
       "month": 5,
-      "day": 15
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 4,
-      "day": 19
-    },
-    "description": "Culpa deserunt non sunt magna est enim exercitation cillum amet anim consequat occaecat ad enim. Nisi non commodo aliquip ullamco laborum. Ut eu eiusmod velit non dolore anim sunt magna excepteur nisi officia minim id. In amet esse minim duis sint anim. Mollit occaecat elit labore proident pariatur sunt Lorem eu aute tempor sit deserunt. Sit occaecat proident aute ea nostrud labore ex labore officia enim. Sunt nulla laboris magna exercitation ut.\r\n",
-    "settlement": "Recsk"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a50",
-    "date_from": {
-      "year": 2022,
-      "month": 7,
-      "day": 10
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 8,
-      "day": 23
-    },
-    "description": "Nostrud mollit duis do consequat occaecat sunt pariatur veniam eu in irure in. Anim enim proident exercitation sit culpa sunt commodo irure est fugiat ad. Laborum veniam ipsum sunt culpa elit sint nisi enim velit est qui.\r\n",
-    "settlement": "Mikófalva"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97aa2",
-    "date_from": {
-      "year": 2022,
-      "month": 6,
-      "day": 3
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 8,
-      "day": 22
-    },
-    "description": "Aliquip sit labore nisi commodo sit sit aliqua reprehenderit sit et nostrud voluptate enim fugiat. Ea commodo occaecat ullamco ut nulla eiusmod. Ea reprehenderit irure fugiat sint. Deserunt nostrud officia eu est est magna adipisicing velit adipisicing ut proident proident do. Ex in eiusmod irure nulla veniam ad tempor reprehenderit.\r\n",
-    "settlement": "Ostoros"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a04",
-    "date_from": {
-      "year": 2022,
-      "month": 7,
-      "day": 23
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 8,
-      "day": 18
-    },
-    "description": "Aliqua irure proident nulla Lorem cupidatat excepteur Lorem. Nostrud sit culpa do aliqua. Aliqua quis adipisicing culpa excepteur sit ea cupidatat laboris aliquip sit officia esse. Elit fugiat laborum quis quis est commodo fugiat culpa. Id amet deserunt irure ex. Adipisicing officia veniam consequat magna duis eiusmod magna aliquip esse. Sunt ea proident officia excepteur dolore commodo eiusmod proident cillum nulla in in sint voluptate.\r\n",
-    "settlement": "Kál"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97ac0",
-    "date_from": {
-      "year": 2022,
-      "month": 8,
-      "day": 26
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 6,
       "day": 7
     },
-    "description": "Magna eiusmod duis dolore ea voluptate amet nostrud mollit irure. Officia adipisicing elit aliquip ipsum. Id in irure ex dolor eu. Magna ex non cupidatat quis. Culpa veniam enim cupidatat sint velit.\r\n",
-    "settlement": "Bükkszenterzsébet"
+    "description": "Aliqua proident veniam duis officia. Veniam sunt duis eiusmod dolor consequat mollit. Sit minim ullamco mollit elit ipsum. Minim amet duis anim commodo et ipsum ut culpa occaecat eiusmod cupidatat. Ex cillum eiusmod cillum pariatur proident. Do nulla dolor fugiat dolore ad irure. Incididunt in nisi occaecat aliquip ipsum non elit pariatur laborum fugiat.\r\n",
+    "settlement": "Besenyőtelek"
   },
   {
-    "editor_user": "62b87783dd3ae30ae0e97af4",
+    "editor_user": "62b9115ba96eee70e622c63f",
+    "category": "62b8868a53a753362366a496",
     "date_from": {
       "year": 2022,
-      "month": 5,
-      "day": 23
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 7,
-      "day": 12
-    },
-    "description": "Proident occaecat esse sit esse anim qui anim quis velit amet elit laboris eu ea. Elit commodo ea aliquip cillum qui exercitation. Labore nisi sint id in ullamco. Consequat excepteur et occaecat ullamco.\r\n",
-    "settlement": "Visonta"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a7c",
-    "date_from": {
-      "year": 2022,
-      "month": 5,
-      "day": 29
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 8,
+      "month": 6,
       "day": 20
     },
-    "description": "Veniam nisi quis esse do mollit aliquip consectetur et. Laborum elit fugiat non commodo. Nisi exercitation incididunt fugiat deserunt fugiat voluptate.\r\n",
-    "settlement": "Balaton"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a2a",
-    "date_from": {
-      "year": 2022,
-      "month": 8,
-      "day": 9
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 5,
-      "day": 21
-    },
-    "description": "Magna proident qui consequat est excepteur reprehenderit amet eiusmod reprehenderit enim velit elit deserunt. Anim culpa ipsum irure nostrud labore nisi et. Elit voluptate nisi tempor est exercitation excepteur nostrud elit. In ipsum ex sit nisi incididunt aliquip laborum reprehenderit dolor sunt ullamco Lorem. Consequat sunt do nisi amet sint deserunt minim ex sit eu. Commodo laborum ea dolore aliqua.\r\n",
-    "settlement": "Szarvaskő"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a0c",
-    "date_from": {
-      "year": 2022,
-      "month": 5,
-      "day": 4
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 4,
-      "day": 16
-    },
-    "description": "Cupidatat sit exercitation fugiat dolor occaecat reprehenderit deserunt sunt qui ad sunt. Sit eiusmod aute culpa deserunt cillum elit eiusmod. Minim culpa aliquip proident fugiat. Eu proident magna eiusmod elit consequat. Nulla dolor laborum id dolore aute duis amet velit qui velit. Duis cupidatat ea duis tempor ullamco.\r\n",
-    "settlement": "Parádsasvár"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a22",
-    "date_from": {
-      "year": 2022,
-      "month": 5,
-      "day": 19
-    },
     "date_to": {
       "year": 2022,
       "month": 7,
-      "day": 23
+      "day": 28
     },
-    "description": "Duis adipisicing irure exercitation magna tempor exercitation veniam dolor dolor ad deserunt pariatur non. Enim irure consequat officia magna nostrud dolor. Reprehenderit nisi officia amet irure ullamco exercitation sit non exercitation est. Dolor esse mollit cupidatat nisi labore occaecat consectetur aliqua nisi ea qui exercitation mollit.\r\n",
+    "description": "Reprehenderit laborum culpa aute culpa cillum incididunt minim nulla fugiat in consectetur reprehenderit. Laboris anim ea tempor sint esse anim proident proident. Dolore voluptate cillum eu eu. Sint occaecat qui nulla et in culpa laboris do cillum aliquip amet aute sunt occaecat. Amet ad labore deserunt nostrud dolor exercitation dolor ipsum non ex irure est minim. Laboris excepteur commodo qui ullamco ad laborum cupidatat commodo anim eiusmod consectetur. Commodo duis cillum laboris cupidatat adipisicing ad laboris non cupidatat veniam non Lorem reprehenderit.\r\n",
     "settlement": "Átány"
   },
   {
-    "editor_user": "62b87783dd3ae30ae0e97a28",
-    "date_from": {
-      "year": 2022,
-      "month": 5,
-      "day": 21
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 6,
-      "day": 15
-    },
-    "description": "Irure excepteur amet veniam ullamco eiusmod dolor officia. Dolor eiusmod eiusmod voluptate in. Cupidatat eu laboris Lorem laboris sint pariatur ipsum incididunt ipsum. Laborum ea occaecat nostrud dolore ad dolor aute. Commodo ex velit ipsum et tempor officia ex. Minim proident ad incididunt excepteur consectetur amet labore. Duis do anim eu mollit consequat excepteur est laborum sunt consequat esse ut.\r\n",
-    "settlement": "Füzesabony"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a58",
-    "date_from": {
-      "year": 2022,
-      "month": 5,
-      "day": 15
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 4,
-      "day": 10
-    },
-    "description": "Sint fugiat officia Lorem ullamco ut duis est aliquip esse. Id est et culpa minim. Consequat labore aute incididunt eu officia excepteur ut id proident consectetur ut qui. Minim eiusmod ad ea nisi tempor. Elit et mollit est anim aute do tempor dolore ut esse. Enim proident excepteur velit incididunt consectetur proident adipisicing occaecat mollit quis aliqua.\r\n",
-    "settlement": "Egerfarmos"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e979d0",
+    "editor_user": "62b9115ba96eee70e622c67b",
+    "category": "62b886c853a753362366a49e",
     "date_from": {
       "year": 2022,
       "month": 4,
-      "day": 20
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 5,
-      "day": 2
-    },
-    "description": "Id consectetur proident occaecat excepteur duis incididunt consequat velit ut adipisicing quis qui. Dolore voluptate esse exercitation aute aliquip sit commodo irure adipisicing amet adipisicing cillum aliqua. Irure minim est deserunt cupidatat sit ea. Dolor fugiat minim qui laboris eu dolor culpa quis aliquip. Deserunt voluptate consequat eu sint sint elit.\r\n",
-    "settlement": "Parád"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a06",
-    "date_from": {
-      "year": 2022,
-      "month": 4,
-      "day": 23
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 7,
-      "day": 16
-    },
-    "description": "Cupidatat nostrud pariatur ex deserunt aute id et non sit ipsum est nisi incididunt. Aliquip ea dolor Lorem veniam ullamco laborum incididunt ut elit ex ea cupidatat cupidatat. Mollit mollit laboris eiusmod magna aliqua cupidatat amet cillum. Ipsum do dolor ex incididunt exercitation culpa adipisicing enim quis fugiat commodo.\r\n",
-    "settlement": "Egerbakta"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a52",
-    "date_from": {
-      "year": 2022,
-      "month": 7,
-      "day": 6
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 6,
-      "day": 7
-    },
-    "description": "Ea pariatur quis consectetur enim cillum in ut duis aliqua ex est incididunt. Aliquip excepteur do laborum aliqua proident veniam eu. Do consequat sunt et ex id pariatur aliqua esse.\r\n",
-    "settlement": "Noszvaj"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97ace",
-    "date_from": {
-      "year": 2022,
-      "month": 6,
       "day": 17
     },
     "date_to": {
       "year": 2022,
-      "month": 4,
-      "day": 7
-    },
-    "description": "Nostrud sit irure ut in mollit. Labore laborum mollit non Lorem fugiat veniam in aute exercitation cillum minim. Do velit consectetur ullamco nulla adipisicing tempor. Amet magna veniam mollit reprehenderit. Culpa exercitation ut dolor aute duis velit cupidatat consequat duis eiusmod Lorem et culpa.\r\n",
-    "settlement": "Bekölce"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97ace",
-    "date_from": {
-      "year": 2022,
       "month": 8,
-      "day": 12
+      "day": 17
     },
-    "date_to": {
-      "year": 2022,
-      "month": 8,
-      "day": 2
-    },
-    "description": "Mollit dolore cillum labore duis cupidatat ex officia id deserunt magna. Eiusmod adipisicing id excepteur voluptate reprehenderit do dolor aliqua commodo eiusmod cillum id. Labore do ipsum aute elit dolore id. Aliquip ipsum magna aliquip et officia labore consequat laborum tempor ut ullamco anim aliqua pariatur. Cupidatat fugiat occaecat amet proident do id duis minim Lorem ad sint consequat.\r\n",
-    "settlement": "Eger"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a22",
-    "date_from": {
-      "year": 2022,
-      "month": 7,
-      "day": 15
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 4,
-      "day": 24
-    },
-    "description": "Incididunt sint exercitation incididunt incididunt qui. Eu culpa anim anim est esse duis magna qui velit id incididunt. Nisi do aute minim anim aliqua adipisicing. Veniam nostrud irure deserunt nisi non ex est occaecat et elit id excepteur in. Exercitation labore sunt proident laborum ullamco excepteur ad officia ex sint mollit. Anim minim occaecat dolore enim proident ad elit est ex nulla. Incididunt sint ipsum laborum ad sunt duis ex officia aliquip amet excepteur sunt id.\r\n",
-    "settlement": "Eger"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a06",
-    "date_from": {
-      "year": 2022,
-      "month": 7,
-      "day": 14
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 6,
-      "day": 19
-    },
-    "description": "Ad tempor aute laboris aliqua dolore mollit aute mollit veniam nostrud aliqua aute nulla. Dolor qui officia quis adipisicing. Ex irure amet laborum sunt. Qui ad sunt sit veniam aliqua pariatur magna dolore ad. Et id ut excepteur ea enim. Voluptate laborum ut nulla sit laboris officia nostrud fugiat exercitation. Nostrud quis minim exercitation pariatur.\r\n",
-    "settlement": "Aldebrő"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e979fc",
-    "date_from": {
-      "year": 2022,
-      "month": 6,
-      "day": 7
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 5,
-      "day": 8
-    },
-    "description": "Reprehenderit nostrud nulla minim dolor laborum. Nisi do ipsum voluptate duis. Esse qui magna est pariatur officia do enim proident. Ullamco enim voluptate nulla adipisicing Lorem. Non proident aliquip eiusmod mollit culpa amet in fugiat eiusmod commodo qui in aliquip labore.\r\n",
+    "description": "Irure mollit do esse sunt nostrud officia proident duis anim deserunt. Ad eiusmod irure reprehenderit eiusmod fugiat ullamco fugiat est ad et. Laboris cupidatat dolore nulla ad enim sunt aliqua. Cupidatat excepteur magna et nisi sint proident do exercitation ex in adipisicing pariatur voluptate do.\r\n",
     "settlement": "Novaj"
   },
   {
-    "editor_user": "62b87783dd3ae30ae0e97a56",
+    "editor_user": "62b9115ba96eee70e622c655",
+    "category": "62b886c853a753362366a49e",
     "date_from": {
-      "year": 2022,
-      "month": 5,
-      "day": 13
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 6,
-      "day": 8
-    },
-    "description": "Aliqua ullamco tempor nostrud do commodo pariatur veniam eu tempor sit. Eu anim mollit dolore laboris amet veniam proident labore irure. Nulla laborum irure irure quis pariatur sint aute incididunt laborum anim excepteur.\r\n",
-    "settlement": "Bekölce"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a52",
-    "date_from": {
-      "year": 2022,
-      "month": 5,
-      "day": 3
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 6,
-      "day": 30
-    },
-    "description": "Adipisicing consequat elit id proident ex ipsum tempor velit excepteur ullamco pariatur mollit. Velit esse dolor Lorem enim velit cupidatat voluptate sunt ullamco velit. Excepteur consequat enim duis duis. Sit fugiat sint id ut do ipsum id ex irure velit fugiat. Labore Lorem pariatur ex eu. Officia cillum elit quis id in consectetur in qui. Cupidatat aliqua do officia eiusmod dolore qui reprehenderit ullamco excepteur.\r\n",
-    "settlement": "Adács"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a4e",
-    "date_from": {
-      "year": 2022,
-      "month": 6,
-      "day": 21
-    },
-    "date_to": {
       "year": 2022,
       "month": 7,
-      "day": 25
-    },
-    "description": "Quis in ex Lorem nulla sint et Lorem est ut elit eiusmod cupidatat incididunt tempor. In amet aliqua nisi mollit. Nostrud sit excepteur enim commodo. Cillum dolore ullamco mollit adipisicing consequat mollit reprehenderit anim. Exercitation cillum magna veniam nisi irure in laborum amet nulla adipisicing commodo eiusmod est non. Qui laborum ad nostrud dolor incididunt sunt. Dolore nisi duis commodo sit mollit adipisicing dolore sunt nulla ea.\r\n",
-    "settlement": "Zagyvaszántó"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a56",
-    "date_from": {
-      "year": 2022,
-      "month": 8,
       "day": 11
     },
     "date_to": {
       "year": 2022,
       "month": 8,
-      "day": 21
+      "day": 19
     },
-    "description": "Ex veniam nisi minim reprehenderit nulla fugiat qui amet reprehenderit aliquip qui officia. Deserunt nulla ex minim eu mollit reprehenderit elit ullamco sit magna ipsum. Aliqua enim nisi ex qui duis consectetur qui reprehenderit consectetur proident aute excepteur fugiat occaecat. Pariatur est est dolor non dolor.\r\n",
-    "settlement": "Demjén"
+    "description": "Ipsum occaecat consequat in in sunt deserunt ipsum excepteur eiusmod fugiat ipsum veniam incididunt. Proident laboris est et adipisicing aliqua exercitation non fugiat. Ullamco duis cupidatat consectetur esse velit dolor nostrud voluptate culpa ea nostrud fugiat. Aute pariatur amet elit eu tempor voluptate adipisicing dolor enim anim pariatur nostrud. Est reprehenderit qui aute exercitation non. Ullamco aliquip duis enim cupidatat eiusmod eiusmod sint id velit reprehenderit.\r\n",
+    "settlement": "Kisnána"
   },
   {
-    "editor_user": "62b87783dd3ae30ae0e97a60",
+    "editor_user": "62b9115ba96eee70e622c683",
+    "category": "62b886ba53a753362366a49a",
     "date_from": {
       "year": 2022,
       "month": 7,
-      "day": 3
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 6,
-      "day": 24
-    },
-    "description": "Ut enim labore commodo cupidatat magna amet anim mollit fugiat. Aliquip fugiat sit consequat veniam ea aliqua voluptate. Cillum minim mollit ea commodo ipsum ex Lorem nisi non occaecat irure eu. Laborum et culpa est ut ad. Nisi ut eiusmod nostrud tempor est quis sint laboris culpa velit exercitation minim duis esse. Elit esse amet cillum excepteur reprehenderit sit qui minim eiusmod laborum.\r\n",
-    "settlement": "Ostoros"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e979dc",
-    "date_from": {
-      "year": 2022,
-      "month": 7,
-      "day": 2
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 5,
-      "day": 13
-    },
-    "description": "Tempor aute est ullamco non eiusmod ex ea exercitation. Est pariatur minim consectetur voluptate ea. Excepteur ea officia qui amet commodo. Do duis sint irure sint eiusmod id dolore ut pariatur.\r\n",
-    "settlement": "Nagyvisnyó"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a74",
-    "date_from": {
-      "year": 2022,
-      "month": 4,
-      "day": 20
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 7,
-      "day": 20
-    },
-    "description": "Do veniam pariatur cupidatat eu cillum reprehenderit pariatur quis irure veniam. Ullamco irure dolor mollit proident tempor voluptate. Mollit duis elit laborum occaecat eu nulla est. Ullamco laboris consectetur sunt excepteur. Voluptate consequat minim sint ipsum fugiat velit amet amet ut incididunt proident reprehenderit ullamco aute. Ipsum magna pariatur veniam ipsum minim mollit.\r\n",
-    "settlement": "Poroszló"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97ac6",
-    "date_from": {
-      "year": 2022,
-      "month": 6,
-      "day": 18
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 6,
-      "day": 23
-    },
-    "description": "Amet dolore cupidatat incididunt reprehenderit dolor. Mollit excepteur officia laborum veniam et ex sint nulla sunt aliqua irure minim velit. Duis incididunt commodo non exercitation proident pariatur dolore duis laboris culpa proident veniam do veniam. Reprehenderit minim aliqua nulla consectetur non occaecat ut pariatur. Cillum elit deserunt proident ad Lorem consequat cupidatat veniam velit dolore. Aute laboris tempor anim magna consequat ex exercitation et laboris pariatur. Consequat esse nostrud fugiat reprehenderit.\r\n",
-    "settlement": "Visonta"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a14",
-    "date_from": {
-      "year": 2022,
-      "month": 6,
-      "day": 26
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 4,
-      "day": 8
-    },
-    "description": "Adipisicing eu ex nulla reprehenderit ad occaecat ea labore velit id sunt aute sint ullamco. Quis pariatur proident pariatur proident qui aliquip qui nisi anim non consequat eiusmod in in. Laborum exercitation occaecat laboris sint laboris. Lorem voluptate fugiat deserunt est laborum labore ea minim laborum mollit fugiat ex. Veniam Lorem velit adipisicing voluptate officia laborum nostrud voluptate anim. Laborum sint dolore proident commodo.\r\n",
-    "settlement": "Tarnalelesz"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a7c",
-    "date_from": {
-      "year": 2022,
-      "month": 6,
-      "day": 4
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 7,
-      "day": 24
-    },
-    "description": "Incididunt deserunt nulla voluptate dolore in fugiat qui consequat deserunt officia in fugiat reprehenderit veniam. Qui eiusmod minim sint est minim dolor ullamco. Lorem laboris consequat pariatur aute sunt incididunt amet tempor excepteur commodo. Quis consequat eu irure sunt officia magna et magna excepteur ullamco mollit consequat quis.\r\n",
-    "settlement": "Abasár"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e979ec",
-    "date_from": {
-      "year": 2022,
-      "month": 5,
-      "day": 17
+      "day": 29
     },
     "date_to": {
       "year": 2022,
       "month": 8,
-      "day": 25
+      "day": 6
     },
-    "description": "Proident proident laborum proident tempor enim officia ut officia cupidatat ad do. Mollit nisi ullamco dolore velit. Lorem minim id culpa ea et voluptate laborum in duis. Adipisicing pariatur consectetur deserunt amet. Quis pariatur aliqua qui ad in tempor ipsum in cupidatat sunt. Aliqua cupidatat veniam adipisicing magna nostrud.\r\n",
-    "settlement": "Kerecsend"
+    "description": "Est quis do tempor Lorem consectetur sunt fugiat consectetur ut et consequat. Labore irure consectetur in ut incididunt reprehenderit irure elit eu magna culpa non ea elit. Qui quis deserunt anim sint eiusmod ea cillum ex commodo anim consequat culpa.\r\n",
+    "settlement": "Tarnaszentmária"
   },
   {
-    "editor_user": "62b87783dd3ae30ae0e97aec",
+    "editor_user": "62b9115ba96eee70e622c637",
+    "category": "62b8868a53a753362366a496",
+    "date_from": {
+      "year": 2022,
+      "month": 7,
+      "day": 8
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 5,
+      "day": 15
+    },
+    "description": "Sunt quis amet ad Lorem proident nisi nostrud magna nostrud eiusmod exercitation non do. Dolor cillum elit do duis in nulla veniam officia enim laborum. Dolore esse incididunt pariatur deserunt ex.\r\n",
+    "settlement": "Adács"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c67b",
+    "category": "62b885ec53a753362366a486",
     "date_from": {
       "year": 2022,
       "month": 4,
+      "day": 18
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 7,
+      "day": 2
+    },
+    "description": "Est nostrud culpa cillum ipsum. Dolore nulla sint cillum ipsum quis officia consectetur quis incididunt ad duis voluptate. Elit veniam minim occaecat ad tempor incididunt exercitation laborum sint eiusmod adipisicing in.\r\n",
+    "settlement": "Pétervására"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c651",
+    "category": "62b8860353a753362366a48a",
+    "date_from": {
+      "year": 2022,
+      "month": 7,
+      "day": 25
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 7,
+      "day": 4
+    },
+    "description": "Non eu adipisicing et ad amet ad est quis fugiat sit sit. Qui ad nisi voluptate excepteur Lorem magna aliqua adipisicing qui sit ex do. Dolor sit tempor fugiat laborum. Ullamco aliquip est aute cillum. Cupidatat id irure ex duis enim commodo ex amet anim cillum nostrud laborum. Incididunt deserunt aliquip culpa et ut est irure. Est anim anim irure labore exercitation consectetur ad proident sint nulla aliquip aute pariatur.\r\n",
+    "settlement": "Egerbakta"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c645",
+    "category": "62b8867453a753362366a492",
+    "date_from": {
+      "year": 2022,
+      "month": 8,
+      "day": 20
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 7,
+      "day": 10
+    },
+    "description": "Consectetur proident tempor sunt irure nulla aliqua. Consequat et nostrud ea ea est eu tempor commodo aliquip culpa sit occaecat dolore ex. Elit consectetur culpa ut velit ad quis cillum voluptate minim excepteur quis. Commodo qui pariatur velit in laborum esse officia non nulla dolor. Cillum aliquip elit cillum commodo duis enim quis excepteur.\r\n",
+    "settlement": "Besenyőtelek"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c645",
+    "category": "62b8868a53a753362366a496",
+    "date_from": {
+      "year": 2022,
+      "month": 5,
       "day": 27
     },
     "date_to": {
       "year": 2022,
-      "month": 8,
-      "day": 16
+      "month": 5,
+      "day": 9
     },
-    "description": "Eu ullamco qui aliqua nulla fugiat minim minim cillum pariatur aliqua consequat ea enim irure. In pariatur labore cillum officia laboris id mollit dolor sint consequat culpa reprehenderit. In in aute ullamco mollit minim ex quis excepteur est culpa aliquip. Non dolore magna enim reprehenderit mollit officia minim amet excepteur.\r\n",
-    "settlement": "Szarvaskő"
+    "description": "Labore do ullamco eiusmod amet sit cupidatat tempor laborum ex officia anim id veniam ex. Veniam incididunt voluptate cillum in proident est aute. Non ipsum magna aliqua velit sunt labore magna ipsum enim ipsum dolor.\r\n",
+    "settlement": "Poroszló"
   },
   {
-    "editor_user": "62b87783dd3ae30ae0e97ac0",
+    "editor_user": "62b9115ba96eee70e622c661",
+    "category": "62b885c053a753362366a482",
     "date_from": {
-      "year": 2022,
-      "month": 8,
-      "day": 16
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 7,
-      "day": 29
-    },
-    "description": "Velit nulla nulla consectetur anim reprehenderit est cupidatat labore pariatur ipsum dolore officia laboris. Dolor quis eu deserunt veniam ut do consequat dolore mollit mollit adipisicing. Eiusmod velit exercitation deserunt pariatur. Consequat occaecat mollit nulla voluptate est id dolore culpa. Voluptate aute ea anim enim ex nostrud magna aliquip dolore esse deserunt nostrud. Sunt culpa ullamco reprehenderit cupidatat ut officia.\r\n",
-    "settlement": "Recsk"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e979fc",
-    "date_from": {
-      "year": 2022,
-      "month": 8,
-      "day": 5
-    },
-    "date_to": {
       "year": 2022,
       "month": 4,
-      "day": 6
-    },
-    "description": "Nisi ullamco elit magna aliquip tempor laboris laborum aute id do cillum elit anim duis. Lorem cupidatat officia irure eu irure. Labore consectetur laboris nulla sint aute eiusmod. Esse qui duis occaecat occaecat ex duis duis cupidatat proident.\r\n",
-    "settlement": "Atkár"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97af0",
-    "date_from": {
-      "year": 2022,
-      "month": 5,
-      "day": 19
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 7,
-      "day": 16
-    },
-    "description": "Ut excepteur excepteur id do esse ea Lorem in adipisicing sunt. Deserunt est ex quis anim voluptate ullamco culpa commodo deserunt veniam eu ut nostrud tempor. Aute deserunt pariatur nisi magna ex dolore consectetur occaecat voluptate laboris tempor quis. Magna ad dolor eu anim exercitation non velit veniam in. Duis in labore dolore velit ea officia occaecat cupidatat Lorem. Veniam amet non non dolor qui ut cillum et elit irure.\r\n",
-    "settlement": "Nagytálya"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a28",
-    "date_from": {
-      "year": 2022,
-      "month": 7,
-      "day": 19
+      "day": 21
     },
     "date_to": {
       "year": 2022,
       "month": 6,
-      "day": 11
+      "day": 5
     },
-    "description": "Lorem tempor laborum magna culpa nulla qui in. Veniam cillum ex pariatur reprehenderit reprehenderit nostrud consectetur commodo pariatur est. Ex cillum amet sint ut ipsum. Minim fugiat nisi in aute excepteur culpa anim commodo fugiat sit. Cillum excepteur est sint ut duis aliqua sint. Sit aute do deserunt deserunt id non consequat aliquip. Velit id mollit adipisicing commodo ea fugiat anim.\r\n",
-    "settlement": "Balaton"
+    "description": "Commodo enim dolore incididunt est voluptate. Aute consectetur aliquip voluptate eiusmod nulla nostrud est excepteur. Cupidatat adipisicing ea nostrud commodo sit do nisi aliquip ad eiusmod nulla sunt. Ea cillum ad ex velit cupidatat proident Lorem. Et velit esse dolore velit exercitation. Do sit nulla cupidatat exercitation ad ea.\r\n",
+    "settlement": "Átány"
   },
   {
-    "editor_user": "62b87783dd3ae30ae0e979da",
+    "editor_user": "62b9115ba96eee70e622c67d",
+    "category": "62b885c053a753362366a482",
+    "date_from": {
+      "year": 2022,
+      "month": 8,
+      "day": 28
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 5,
+      "day": 13
+    },
+    "description": "Nisi nisi nisi deserunt elit cillum ipsum eiusmod in proident est velit. Pariatur cillum deserunt cillum laboris qui. Quis proident amet exercitation aliqua officia anim incididunt cillum proident. Commodo pariatur dolore proident sint labore velit est. Esse sint adipisicing ut eiusmod consectetur sint anim pariatur esse. Duis qui ea labore excepteur aliqua incididunt nulla excepteur nulla sint dolore nisi officia eu. Enim ea est adipisicing anim esse laborum officia est voluptate pariatur aute.\r\n",
+    "settlement": "Bekölce"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c673",
+    "category": "62b8867453a753362366a492",
+    "date_from": {
+      "year": 2022,
+      "month": 4,
+      "day": 17
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 7,
+      "day": 26
+    },
+    "description": "Cillum occaecat consectetur non officia. Nisi deserunt aliquip in dolor ex qui labore consequat. Amet proident eiusmod pariatur esse labore tempor minim aute nisi. Est nisi sit eu dolore commodo pariatur minim reprehenderit sint ea laboris sint ipsum do.\r\n",
+    "settlement": "Demjén"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c64b",
+    "category": "62b885ec53a753362366a486",
+    "date_from": {
+      "year": 2022,
+      "month": 7,
+      "day": 21
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 8,
+      "day": 24
+    },
+    "description": "Occaecat incididunt occaecat irure ipsum laboris et commodo esse consequat Lorem mollit. Nostrud velit anim quis fugiat. Eu esse exercitation in laboris laborum incididunt ut sunt fugiat enim ad minim id qui. Eu non ut quis ea enim exercitation enim non ad aute culpa proident.\r\n",
+    "settlement": "Nagyvisnyó"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c64b",
+    "category": "62b886ba53a753362366a49a",
+    "date_from": {
+      "year": 2022,
+      "month": 4,
+      "day": 25
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 7,
+      "day": 16
+    },
+    "description": "Adipisicing aute voluptate excepteur incididunt id enim. Adipisicing sit dolore amet eu esse minim dolor laborum ut magna consectetur qui exercitation. Proident cupidatat fugiat aliqua dolor et. Fugiat ad et ut nisi aliqua laborum reprehenderit. Cillum cillum quis magna nulla mollit reprehenderit irure aliquip nisi. Amet fugiat anim exercitation cillum irure eiusmod voluptate veniam velit.\r\n",
+    "settlement": "Andornaktálya"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c63f",
+    "category": "62b886c853a753362366a49e",
     "date_from": {
       "year": 2022,
       "month": 5,
@@ -1299,58 +266,654 @@
     "date_to": {
       "year": 2022,
       "month": 4,
-      "day": 19
+      "day": 11
     },
-    "description": "Ad consequat ad ut dolor. Cillum incididunt commodo tempor mollit proident nostrud cupidatat. Excepteur dolor quis cupidatat magna eiusmod laborum excepteur non veniam culpa ex. Magna velit minim quis sunt in quis magna voluptate ad.\r\n",
-    "settlement": "Egerbocs"
+    "description": "Elit non id dolor adipisicing veniam ex id tempor officia est. Irure culpa pariatur elit aliquip cupidatat incididunt do cupidatat. Consequat proident excepteur sunt nisi pariatur pariatur amet ea excepteur. Duis irure dolor sint commodo laborum cupidatat nostrud ullamco ex labore eu exercitation nulla. Voluptate minim dolor sint officia occaecat consequat sunt non ad esse quis elit ipsum. Dolor nisi dolor nisi qui laborum laboris ut deserunt.\r\n",
+    "settlement": "Tenk"
   },
   {
-    "editor_user": "62b87783dd3ae30ae0e97ace",
+    "editor_user": "62b9115ba96eee70e622c651",
+    "category": "62b8860353a753362366a48a",
+    "date_from": {
+      "year": 2022,
+      "month": 5,
+      "day": 9
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 5,
+      "day": 22
+    },
+    "description": "Cillum nulla est tempor minim adipisicing consectetur id tempor est incididunt in magna. Ut aliqua cupidatat nostrud non amet amet consectetur proident consequat id incididunt incididunt dolore. Amet nulla in sint culpa magna aliquip duis incididunt. Aliqua ad anim incididunt reprehenderit duis laboris deserunt ad voluptate aute culpa anim mollit sunt. Excepteur quis eu pariatur enim minim non dolor.\r\n",
+    "settlement": "Egerszólát"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c673",
+    "category": "62b8867453a753362366a492",
+    "date_from": {
+      "year": 2022,
+      "month": 4,
+      "day": 8
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 8,
+      "day": 27
+    },
+    "description": "Do amet id incididunt minim sit ea magna. Lorem enim reprehenderit consectetur labore cupidatat labore ut cillum occaecat nostrud consequat ipsum et non. Aliqua ea do id ullamco incididunt esse amet nostrud do dolor. Reprehenderit nostrud sint dolore exercitation nulla Lorem do veniam qui aliquip.\r\n",
+    "settlement": "Zagyvaszántó"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c667",
+    "category": "62b8868a53a753362366a496",
+    "date_from": {
+      "year": 2022,
+      "month": 7,
+      "day": 25
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 7,
+      "day": 18
+    },
+    "description": "Amet Lorem qui non veniam irure sit sunt duis commodo. Consequat do laboris consectetur voluptate. Duis voluptate et deserunt et tempor veniam do. Voluptate velit fugiat laboris id dolor elit Lorem. Reprehenderit non aliqua officia occaecat. Ut exercitation ex elit consequat amet commodo non exercitation est enim enim fugiat. Labore deserunt magna consequat duis mollit mollit sunt magna.\r\n",
+    "settlement": "Demjén"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c677",
+    "category": "62b885c053a753362366a482",
+    "date_from": {
+      "year": 2022,
+      "month": 4,
+      "day": 26
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 8,
+      "day": 3
+    },
+    "description": "Velit dolore aliquip ullamco et Lorem exercitation duis incididunt pariatur exercitation deserunt officia. Elit pariatur culpa culpa nisi eu sint eiusmod. Amet ex velit ut et sunt nisi mollit duis. Cillum ullamco elit consequat nostrud. Culpa sint nostrud aliqua labore commodo. Veniam aliquip culpa id aliquip incididunt cupidatat magna.\r\n",
+    "settlement": "Maklár"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c66d",
+    "category": "62b8868a53a753362366a496",
+    "date_from": {
+      "year": 2022,
+      "month": 8,
+      "day": 8
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 4,
+      "day": 22
+    },
+    "description": "Aute consectetur qui labore nisi est consequat amet duis amet incididunt amet nostrud sunt anim. Occaecat labore magna anim elit fugiat veniam incididunt sint. Ex tempor do exercitation sint officia est ex ullamco. Incididunt officia voluptate commodo ullamco Lorem labore aute labore. Commodo do voluptate aliqua anim consectetur tempor sunt labore. Aliqua mollit cupidatat sit culpa cillum qui ullamco exercitation cillum pariatur reprehenderit sunt magna eu. Dolor fugiat adipisicing amet labore eu.\r\n",
+    "settlement": "Atkár"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c64d",
+    "category": "62b885c053a753362366a482",
     "date_from": {
       "year": 2022,
       "month": 6,
+      "day": 16
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 7,
+      "day": 5
+    },
+    "description": "Duis sunt nisi velit amet eiusmod culpa laborum in ex excepteur tempor Lorem eiusmod in. Nostrud aute pariatur qui aute minim sint. Reprehenderit magna sit qui Lorem pariatur proident officia ullamco. Dolor deserunt eiusmod culpa est. Eu ea occaecat labore laborum consequat nulla cupidatat magna cillum incididunt nisi. Ullamco consectetur anim consequat nostrud nulla ea dolor officia irure incididunt ut tempor sit eu. Deserunt ad incididunt adipisicing ipsum cupidatat nostrud nostrud sunt enim elit anim tempor tempor.\r\n",
+    "settlement": "Kál"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c65d",
+    "category": "62b8867453a753362366a492",
+    "date_from": {
+      "year": 2022,
+      "month": 4,
+      "day": 13
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 4,
+      "day": 9
+    },
+    "description": "Elit id ex sunt dolor cupidatat. Est ex fugiat consequat amet laborum proident. Deserunt consectetur commodo cupidatat id. Ut fugiat ea excepteur magna minim labore consectetur incididunt adipisicing laboris est. Occaecat labore reprehenderit velit ad tempor. Qui pariatur elit esse magna pariatur ad commodo pariatur consequat. Exercitation culpa laboris id dolore id eiusmod veniam.\r\n",
+    "settlement": "Besenyőtelek"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c683",
+    "category": "62b8868a53a753362366a496",
+    "date_from": {
+      "year": 2022,
+      "month": 8,
+      "day": 19
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 7,
+      "day": 5
+    },
+    "description": "Reprehenderit do aliqua aliquip duis nulla nulla mollit mollit occaecat. Voluptate et adipisicing amet quis nostrud in commodo irure commodo laborum est veniam. Lorem qui dolor qui sit voluptate aute proident laboris amet anim magna. Consequat voluptate irure eiusmod qui et eu aliqua consectetur.\r\n",
+    "settlement": "Mikófalva"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c63f",
+    "category": "62b886c853a753362366a49e",
+    "date_from": {
+      "year": 2022,
+      "month": 7,
+      "day": 19
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 8,
+      "day": 29
+    },
+    "description": "Minim id velit pariatur fugiat nostrud nisi consectetur consequat consequat et. Id mollit cillum Lorem aliquip amet pariatur culpa esse sit ut. Labore sunt mollit esse occaecat ex esse aliqua velit commodo reprehenderit consequat enim. Ullamco sint Lorem qui Lorem sit dolor ullamco. Consectetur do aliquip deserunt mollit id velit adipisicing ullamco officia Lorem veniam. Nostrud commodo eu dolor laboris sit nostrud.\r\n",
+    "settlement": "Pétervására"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c66b",
+    "category": "62b8864e53a753362366a48e",
+    "date_from": {
+      "year": 2022,
+      "month": 4,
+      "day": 1
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 4,
+      "day": 22
+    },
+    "description": "Anim elit quis ad deserunt. Laboris eu duis pariatur Lorem sunt eiusmod veniam incididunt magna. Nulla ut proident fugiat voluptate et elit proident officia veniam ad dolore velit commodo. Qui aliqua id ipsum sunt.\r\n",
+    "settlement": "Egerszólát"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c673",
+    "category": "62b8867453a753362366a492",
+    "date_from": {
+      "year": 2022,
+      "month": 5,
+      "day": 2
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 8,
+      "day": 16
+    },
+    "description": "Ipsum est eu reprehenderit ea sit mollit dolor veniam fugiat adipisicing velit irure. Duis aliquip do proident ullamco laborum duis nulla ullamco laboris nulla fugiat. Cupidatat amet adipisicing enim reprehenderit. Non esse est eiusmod irure minim ex.\r\n",
+    "settlement": "Atkár"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c63d",
+    "category": "62b8868a53a753362366a496",
+    "date_from": {
+      "year": 2022,
+      "month": 6,
+      "day": 10
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 8,
+      "day": 14
+    },
+    "description": "Consectetur occaecat anim ullamco incididunt. Irure eu cupidatat quis veniam ipsum enim reprehenderit minim magna aliquip. Dolore qui adipisicing reprehenderit sunt do mollit nulla exercitation in velit aliquip. Deserunt officia proident in excepteur nisi ut ex sit commodo est.\r\n",
+    "settlement": "Szarvaskő"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c641",
+    "category": "62b8860353a753362366a48a",
+    "date_from": {
+      "year": 2022,
+      "month": 8,
+      "day": 13
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 7,
+      "day": 6
+    },
+    "description": "Do eu Lorem ex amet excepteur officia amet do nostrud sit. Ex non nisi Lorem officia aliquip ut veniam fugiat voluptate ea sit est. Aliqua pariatur adipisicing eu nostrud eiusmod fugiat ipsum eu duis. Do laboris laboris enim ex amet eu duis consectetur ut.\r\n",
+    "settlement": "Egerbakta"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c65d",
+    "category": "62b8860353a753362366a48a",
+    "date_from": {
+      "year": 2022,
+      "month": 8,
+      "day": 9
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 5,
+      "day": 7
+    },
+    "description": "Cupidatat quis est minim qui ut tempor officia. Aliqua irure deserunt exercitation ipsum tempor deserunt fugiat. Consectetur ipsum laboris pariatur excepteur proident. Ipsum irure dolore minim Lorem eiusmod nostrud quis pariatur Lorem. Consequat reprehenderit nulla Lorem incididunt occaecat Lorem ea voluptate ad officia voluptate ad. Aute quis nulla exercitation quis quis laborum adipisicing consectetur excepteur qui incididunt.\r\n",
+    "settlement": "Pétervására"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c641",
+    "category": "62b8858a53a753362366a47e",
+    "date_from": {
+      "year": 2022,
+      "month": 8,
+      "day": 22
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 7,
+      "day": 23
+    },
+    "description": "Aliquip ad fugiat duis consectetur laboris mollit cupidatat consectetur sit nisi aliquip cillum Lorem. Nisi aliqua culpa ea fugiat laboris eu sint fugiat sit cillum eu. Do quis est ipsum commodo ullamco adipisicing et voluptate quis ut ipsum id eiusmod.\r\n",
+    "settlement": "Sirok"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c645",
+    "category": "62b8858a53a753362366a47e",
+    "date_from": {
+      "year": 2022,
+      "month": 6,
+      "day": 30
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 6,
+      "day": 19
+    },
+    "description": "Minim reprehenderit irure mollit velit. Occaecat elit adipisicing ex amet. Amet occaecat consectetur excepteur nulla nostrud in eiusmod. Deserunt duis velit laboris ad eu pariatur.\r\n",
+    "settlement": "Mikófalva"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c645",
+    "category": "62b8858a53a753362366a47e",
+    "date_from": {
+      "year": 2022,
+      "month": 5,
+      "day": 23
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 7,
+      "day": 20
+    },
+    "description": "Consequat et elit do dolor. Esse id occaecat eiusmod eu cupidatat veniam officia ut. Officia reprehenderit amet adipisicing aute adipisicing proident laboris. Ipsum laborum veniam labore excepteur id. Deserunt culpa duis duis ullamco eu tempor.\r\n",
+    "settlement": "Kisnána"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c64b",
+    "category": "62b885c053a753362366a482",
+    "date_from": {
+      "year": 2022,
+      "month": 7,
+      "day": 15
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 8,
+      "day": 14
+    },
+    "description": "Duis aute nostrud ad minim culpa ipsum nostrud pariatur cupidatat. Pariatur incididunt minim est ipsum Lorem dolor dolor. Consequat adipisicing aliquip sit adipisicing ex labore reprehenderit quis. Reprehenderit exercitation id cillum dolor ea commodo cupidatat officia labore minim velit pariatur. Labore ipsum nostrud enim dolor reprehenderit consectetur consectetur pariatur. Pariatur aliquip magna officia duis officia aliqua dolor nisi esse nisi culpa sit quis.\r\n",
+    "settlement": "Nagyvisnyó"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c641",
+    "category": "62b8858a53a753362366a47e",
+    "date_from": {
+      "year": 2022,
+      "month": 8,
+      "day": 17
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 7,
+      "day": 20
+    },
+    "description": "Reprehenderit dolore sit ex exercitation sunt pariatur ipsum dolor. Anim enim consectetur sint ullamco aliqua amet cillum amet quis cupidatat adipisicing. Dolor nostrud pariatur minim tempor.\r\n",
+    "settlement": "Parádsasvár"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c64b",
+    "category": "62b885c053a753362366a482",
+    "date_from": {
+      "year": 2022,
+      "month": 4,
+      "day": 17
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 7,
+      "day": 24
+    },
+    "description": "Id ipsum eu quis consequat ut. Do reprehenderit est commodo deserunt laborum minim pariatur eiusmod enim aute cupidatat eiusmod. Magna irure eiusmod adipisicing minim culpa aliqua sint duis. Elit aute est culpa incididunt voluptate cupidatat sunt. Dolor mollit anim enim elit exercitation occaecat consectetur aliqua laborum sunt. Id sit reprehenderit ex in velit occaecat aliquip ullamco ea minim duis ullamco veniam anim. Aliquip occaecat velit officia officia duis ullamco anim consectetur commodo incididunt ex aliqua excepteur.\r\n",
+    "settlement": "Átány"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c637",
+    "category": "62b8868a53a753362366a496",
+    "date_from": {
+      "year": 2022,
+      "month": 6,
+      "day": 30
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 5,
+      "day": 11
+    },
+    "description": "Dolor voluptate consectetur labore anim tempor nostrud consequat sint est tempor qui proident id aliquip. Qui nulla ullamco ea nulla nisi ad aute duis ea. Nostrud laborum ipsum commodo sit sunt. Nulla amet magna est ex officia enim commodo ea ad eu nisi. Qui ipsum dolor pariatur ex exercitation ad ea pariatur consequat.\r\n",
+    "settlement": "Bükkszenterzsébet"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c661",
+    "category": "62b886ba53a753362366a49a",
+    "date_from": {
+      "year": 2022,
+      "month": 4,
+      "day": 18
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 6,
+      "day": 11
+    },
+    "description": "Consequat laboris dolore eu non incididunt aute ut consectetur dolore nisi. Incididunt dolor fugiat labore dolor magna. Eiusmod consectetur commodo ut velit consequat irure mollit sit non duis elit elit.\r\n",
+    "settlement": "Noszvaj"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c67d",
+    "category": "62b8867453a753362366a492",
+    "date_from": {
+      "year": 2022,
+      "month": 6,
+      "day": 4
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 4,
+      "day": 16
+    },
+    "description": "Quis minim Lorem esse aliquip ad consectetur ea eu ullamco labore aliqua laborum elit ea. Culpa deserunt aute irure et adipisicing dolore enim cupidatat labore nisi ea non aliquip. Esse reprehenderit amet nulla commodo officia enim consequat nostrud ex. Commodo nostrud laborum anim laboris velit anim nulla eu nulla ut consequat ut. Nulla velit et proident commodo tempor.\r\n",
+    "settlement": "Szilvásvárad"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c67d",
+    "category": "62b8864e53a753362366a48e",
+    "date_from": {
+      "year": 2022,
+      "month": 6,
+      "day": 10
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 6,
+      "day": 19
+    },
+    "description": "Lorem eu velit aliquip Lorem sunt reprehenderit sunt anim minim dolor pariatur nisi eiusmod. Do exercitation minim ullamco reprehenderit Lorem amet. Cillum sit laboris anim nisi aliquip exercitation magna sunt. Enim aliquip dolore cillum nulla ex veniam ullamco velit dolor fugiat. Est non irure veniam irure duis ad quis. Elit exercitation esse consequat excepteur aute enim magna minim enim magna amet veniam labore anim. Ad occaecat laboris excepteur sint.\r\n",
+    "settlement": "Verpelét"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c661",
+    "category": "62b885ec53a753362366a486",
+    "date_from": {
+      "year": 2022,
+      "month": 6,
+      "day": 26
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 4,
+      "day": 12
+    },
+    "description": "Irure aute ipsum eu elit. Consequat exercitation aute elit et. Lorem elit eu officia nulla aliqua ea esse dolor eu et.\r\n",
+    "settlement": "Kompolt"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c637",
+    "category": "62b885ec53a753362366a486",
+    "date_from": {
+      "year": 2022,
+      "month": 4,
+      "day": 30
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 6,
+      "day": 4
+    },
+    "description": "Dolor sunt proident anim excepteur cillum sunt excepteur incididunt adipisicing. Exercitation Lorem cupidatat officia velit velit et minim non eiusmod sit. Tempor eu non amet irure incididunt veniam sit eu eu ullamco anim. Mollit sint quis pariatur laboris est eu. Dolore do labore sint eiusmod ut pariatur eiusmod Lorem culpa ea occaecat pariatur enim. Duis ullamco ex fugiat sit aliqua enim laboris.\r\n",
+    "settlement": "Besenyőtelek"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c64b",
+    "category": "62b8867453a753362366a492",
+    "date_from": {
+      "year": 2022,
+      "month": 5,
       "day": 3
     },
     "date_to": {
       "year": 2022,
       "month": 6,
-      "day": 29
+      "day": 13
     },
-    "description": "Elit ad duis et ut est eiusmod dolor laboris ullamco do elit mollit ad. Proident magna deserunt proident fugiat id est. Velit qui ullamco esse consectetur deserunt ex.\r\n",
-    "settlement": "Adács"
+    "description": "Adipisicing id aliqua ad aliquip. Et mollit eu deserunt elit laboris sit duis. Elit et ea aliquip eu laboris. Proident ipsum sit voluptate eu irure adipisicing elit magna sint tempor. Fugiat minim sit aliqua quis dolore duis tempor mollit nostrud amet amet in mollit aliquip.\r\n",
+    "settlement": "Nagyvisnyó"
   },
   {
-    "editor_user": "62b87783dd3ae30ae0e97ac6",
+    "editor_user": "62b9115ba96eee70e622c655",
+    "category": "62b8864e53a753362366a48e",
     "date_from": {
       "year": 2022,
+      "month": 6,
+      "day": 11
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 8,
+      "day": 5
+    },
+    "description": "Sint reprehenderit labore mollit tempor ut dolor. Ipsum tempor adipisicing aliqua dolore laborum est labore in. Tempor esse ad mollit cillum in proident id minim ut et. Consequat aliquip deserunt ad id irure officia sunt velit quis consectetur dolor dolore esse excepteur. Amet minim consequat eiusmod laborum. Quis aliqua aliquip dolor consequat ex ad. Ex ullamco aliqua sint esse.\r\n",
+    "settlement": "Ostoros"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c64d",
+    "category": "62b885ec53a753362366a486",
+    "date_from": {
+      "year": 2022,
+      "month": 6,
+      "day": 9
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 4,
+      "day": 8
+    },
+    "description": "Mollit eiusmod proident dolor aliquip non excepteur do veniam labore. Sunt mollit cillum ad nulla non fugiat commodo pariatur duis non. Fugiat elit laborum cupidatat Lorem aliquip Lorem sunt sit id. Eu nostrud laborum nisi nostrud eu quis excepteur sit aliquip aliquip.\r\n",
+    "settlement": "Parád"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c683",
+    "category": "62b8864e53a753362366a48e",
+    "date_from": {
+      "year": 2022,
+      "month": 6,
+      "day": 19
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 5,
+      "day": 26
+    },
+    "description": "Officia aliqua sint magna do ex. Qui reprehenderit id sint anim cillum excepteur aliquip magna elit consectetur ea duis. Adipisicing reprehenderit minim in qui ipsum ullamco elit est ullamco sunt. Incididunt voluptate officia et labore irure ea do esse ipsum nisi sint. Nisi occaecat non mollit quis officia. Ea enim officia incididunt eu Lorem labore dolore adipisicing et.\r\n",
+    "settlement": "Andornaktálya"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c683",
+    "category": "62b8868a53a753362366a496",
+    "date_from": {
+      "year": 2022,
+      "month": 6,
+      "day": 6
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 8,
+      "day": 21
+    },
+    "description": "Culpa excepteur dolor laboris minim est reprehenderit. Magna eiusmod laborum ad dolor do incididunt enim pariatur duis duis. Irure aliquip ad laboris culpa deserunt. Occaecat labore ex ipsum exercitation duis dolor tempor esse sunt exercitation tempor elit anim. Nostrud quis ea exercitation qui aute tempor veniam mollit aliqua cupidatat consequat voluptate adipisicing commodo. Incididunt consequat velit est incididunt.\r\n",
+    "settlement": "Egerszólát"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c64b",
+    "category": "62b885c053a753362366a482",
+    "date_from": {
+      "year": 2022,
+      "month": 4,
+      "day": 12
+    },
+    "date_to": {
+      "year": 2022,
       "month": 7,
-      "day": 13
+      "day": 4
+    },
+    "description": "Lorem cupidatat fugiat consequat ea nostrud laborum fugiat ex. Amet proident aute adipisicing veniam dolor et non non velit exercitation do laborum. Mollit dolor aute enim est. Sunt minim aliquip aute veniam pariatur nisi. Ex qui aliqua dolore qui nulla qui minim ad laboris voluptate fugiat nostrud nostrud anim. Aute nostrud anim non incididunt mollit ea anim non laboris eiusmod aute laboris pariatur.\r\n",
+    "settlement": "Verpelét"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c63f",
+    "category": "62b886c853a753362366a49e",
+    "date_from": {
+      "year": 2022,
+      "month": 5,
+      "day": 1
     },
     "date_to": {
       "year": 2022,
       "month": 4,
       "day": 23
     },
-    "description": "Ad ex est labore in exercitation ullamco tempor do excepteur nulla consectetur Lorem nostrud. In qui do voluptate et sint laboris nulla enim consequat esse. Nulla nostrud ea esse consequat cupidatat occaecat eu minim reprehenderit sunt nostrud ullamco consectetur id. Adipisicing amet ipsum et culpa do nostrud. Cupidatat laborum veniam cillum laborum ullamco irure qui cupidatat elit quis. Reprehenderit esse consectetur nulla et elit ex adipisicing anim.\r\n",
-    "settlement": "Szarvaskő"
+    "description": "Nulla anim adipisicing labore cupidatat excepteur do cupidatat eiusmod esse consequat aliquip cupidatat. Reprehenderit id et laborum deserunt amet et ut exercitation aliquip dolore id. Dolore id nostrud mollit velit.\r\n",
+    "settlement": "Noszvaj"
   },
   {
-    "editor_user": "62b87783dd3ae30ae0e97a1a",
+    "editor_user": "62b9115ba96eee70e622c683",
+    "category": "62b8860353a753362366a48a",
+    "date_from": {
+      "year": 2022,
+      "month": 5,
+      "day": 7
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 6,
+      "day": 13
+    },
+    "description": "Minim ex nulla mollit anim esse eu ad sunt minim esse officia aliqua cupidatat. Consectetur cupidatat deserunt laborum nulla eiusmod tempor esse amet adipisicing velit nulla deserunt ex anim. Sint pariatur non ea sint pariatur aliquip mollit velit mollit est dolor.\r\n",
+    "settlement": "Tarnaszentmária"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c683",
+    "category": "62b885c053a753362366a482",
     "date_from": {
       "year": 2022,
       "month": 6,
-      "day": 3
+      "day": 5
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 8,
+      "day": 22
+    },
+    "description": "Reprehenderit do labore duis ullamco anim do cillum in ea. Consequat incididunt sint occaecat nostrud cillum mollit. Ea elit sint exercitation exercitation labore incididunt velit nisi velit non veniam cillum mollit ipsum. Aute amet amet do quis. Voluptate nulla ea quis elit consectetur voluptate esse quis.\r\n",
+    "settlement": "Egerbakta"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c677",
+    "category": "62b886ba53a753362366a49a",
+    "date_from": {
+      "year": 2022,
+      "month": 6,
+      "day": 24
     },
     "date_to": {
       "year": 2022,
       "month": 7,
-      "day": 23
+      "day": 30
     },
-    "description": "Ad esse proident exercitation do incididunt fugiat qui aute veniam ullamco deserunt laboris occaecat. Sint ipsum reprehenderit et eiusmod et elit officia. Sint qui fugiat voluptate labore sint laboris. Cillum Lorem ut ad eu reprehenderit nostrud cillum laborum deserunt adipisicing. Ipsum ex sint dolor sunt. Id Lorem eiusmod deserunt sint amet minim. Consequat irure pariatur Lorem sint officia reprehenderit enim esse aute non.\r\n",
+    "description": "Sunt deserunt ea eiusmod non nisi enim est. Non ullamco laboris esse dolor anim in occaecat laborum cillum anim qui elit sunt. Mollit laborum consectetur minim enim consequat elit ullamco veniam elit quis cillum incididunt. Consectetur laborum consequat incididunt adipisicing dolore. Excepteur sit aute ipsum ad incididunt deserunt occaecat duis aliqua minim ullamco.\r\n",
+    "settlement": "Verpelét"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c641",
+    "category": "62b8868a53a753362366a496",
+    "date_from": {
+      "year": 2022,
+      "month": 6,
+      "day": 30
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 8,
+      "day": 13
+    },
+    "description": "Mollit exercitation sit ex ipsum ad exercitation ullamco quis aute reprehenderit quis voluptate veniam. Consequat minim ut nostrud officia sint minim eiusmod proident. Quis velit occaecat nostrud sint sint incididunt duis cupidatat consequat consectetur non enim et.\r\n",
+    "settlement": "Kerecsend"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c66b",
+    "category": "62b8858a53a753362366a47e",
+    "date_from": {
+      "year": 2022,
+      "month": 7,
+      "day": 24
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 6,
+      "day": 19
+    },
+    "description": "Ipsum exercitation nisi labore voluptate Lorem do laboris velit eiusmod esse Lorem pariatur veniam. Dolor cupidatat nisi Lorem qui fugiat officia laboris et velit reprehenderit officia. Aliqua ut commodo excepteur tempor excepteur sint laboris tempor commodo id id ad esse tempor. Fugiat ad consequat enim reprehenderit ipsum voluptate incididunt amet pariatur deserunt. Aute Lorem sint aute consequat aliquip non Lorem sunt exercitation est. Cillum consequat reprehenderit ad do ad elit minim laboris consequat reprehenderit Lorem enim veniam in.\r\n",
     "settlement": "Pétervására"
   },
   {
-    "editor_user": "62b87783dd3ae30ae0e97a60",
+    "editor_user": "62b9115ba96eee70e622c655",
+    "category": "62b886ba53a753362366a49a",
+    "date_from": {
+      "year": 2022,
+      "month": 8,
+      "day": 14
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 6,
+      "day": 3
+    },
+    "description": "Proident eiusmod laboris culpa pariatur laborum nulla nulla nulla nulla quis cupidatat amet fugiat elit. Ad reprehenderit commodo id incididunt minim in reprehenderit qui irure tempor. Esse mollit magna quis in nisi velit ea.\r\n",
+    "settlement": "Visonta"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c63f",
+    "category": "62b8860353a753362366a48a",
+    "date_from": {
+      "year": 2022,
+      "month": 4,
+      "day": 16
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 4,
+      "day": 20
+    },
+    "description": "Tempor officia laborum occaecat ullamco. Ut aliqua nulla dolor commodo est eu officia est dolor reprehenderit enim. Sit ullamco quis Lorem ea non aliqua reprehenderit. Sunt irure nisi qui magna nisi ea. Elit occaecat magna eu magna in dolore id anim eu nulla ut magna. Incididunt aute fugiat nostrud duis fugiat sunt. Voluptate pariatur Lorem et non incididunt sunt dolor qui mollit laborum laboris.\r\n",
+    "settlement": "Átány"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c677",
+    "category": "62b8868a53a753362366a496",
     "date_from": {
       "year": 2022,
       "month": 7,
@@ -1359,43 +922,62 @@
     "date_to": {
       "year": 2022,
       "month": 6,
-      "day": 20
+      "day": 12
     },
-    "description": "Incididunt ipsum mollit incididunt aliquip duis laborum occaecat laboris elit magna ut. Nostrud aliqua exercitation esse ea. Quis enim et eu ullamco. Cillum dolore qui sint deserunt enim esse nulla tempor minim duis in excepteur consequat dolor. Esse amet duis sunt cupidatat. Do aliquip magna in consectetur anim laboris Lorem.\r\n",
-    "settlement": "Novaj"
+    "description": "Cillum aliquip qui minim excepteur aliquip quis est ipsum amet culpa nulla in exercitation. Nisi eiusmod exercitation in occaecat aute occaecat reprehenderit irure. Est officia laborum tempor ut. Anim nisi reprehenderit dolor minim officia laboris sunt.\r\n",
+    "settlement": "Egerfarmos"
   },
   {
-    "editor_user": "62b87783dd3ae30ae0e97a78",
+    "editor_user": "62b9115ba96eee70e622c63f",
+    "category": "62b886c853a753362366a49e",
     "date_from": {
       "year": 2022,
       "month": 7,
-      "day": 28
+      "day": 14
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 7,
+      "day": 13
+    },
+    "description": "Commodo amet eiusmod officia fugiat veniam non qui commodo mollit duis tempor laborum. Dolore sunt veniam cupidatat laboris adipisicing reprehenderit incididunt deserunt. Aliquip enim nostrud quis culpa irure cupidatat consequat sint.\r\n",
+    "settlement": "Andornaktálya"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c637",
+    "category": "62b8864e53a753362366a48e",
+    "date_from": {
+      "year": 2022,
+      "month": 6,
+      "day": 20
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 6,
+      "day": 20
+    },
+    "description": "Minim elit elit enim ullamco esse Lorem. Id enim quis commodo enim. Esse veniam ipsum do cupidatat reprehenderit elit ea amet velit. Amet laborum id duis in veniam nisi anim id laborum fugiat pariatur eiusmod tempor. Aliqua officia magna cillum non cupidatat laboris. Id exercitation nisi nisi voluptate aute est sint voluptate sunt duis occaecat elit.\r\n",
+    "settlement": "Adács"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c66d",
+    "category": "62b885ec53a753362366a486",
+    "date_from": {
+      "year": 2022,
+      "month": 8,
+      "day": 3
     },
     "date_to": {
       "year": 2022,
       "month": 8,
-      "day": 14
-    },
-    "description": "Sunt laborum mollit ullamco fugiat exercitation nostrud sit amet. Reprehenderit ad adipisicing consectetur veniam in est pariatur adipisicing esse. Veniam sunt ullamco pariatur deserunt quis irure quis est esse incididunt. Commodo est enim enim est. Eu exercitation non laboris fugiat dolor veniam anim officia. Sunt sunt veniam ex ea anim sit quis id excepteur qui consequat aute. Dolore esse enim nulla dolore excepteur non consectetur labore.\r\n",
-    "settlement": "Nagyvisnyó"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e979f0",
-    "date_from": {
-      "year": 2022,
-      "month": 4,
       "day": 10
     },
-    "date_to": {
-      "year": 2022,
-      "month": 7,
-      "day": 9
-    },
-    "description": "Aliquip voluptate labore irure officia eu enim. Dolor proident incididunt amet ipsum tempor irure veniam. Consectetur officia adipisicing deserunt laboris sunt incididunt reprehenderit ut laboris sunt. Quis nisi adipisicing laborum fugiat magna consequat. Eiusmod commodo excepteur deserunt pariatur eiusmod ullamco magna culpa. Est quis esse quis eiusmod nulla non incididunt. Ullamco occaecat reprehenderit commodo dolore occaecat ullamco enim exercitation quis deserunt officia veniam.\r\n",
-    "settlement": "Poroszló"
+    "description": "Ad dolore voluptate deserunt aliqua ad nulla aliqua esse in aliqua excepteur eiusmod eiusmod. Minim qui eu minim magna sit aliqua qui aliquip commodo ea elit. Qui ut pariatur elit exercitation. Cillum qui irure ex cupidatat fugiat eu id commodo. Ipsum adipisicing proident aliqua ex irure laboris exercitation.\r\n",
+    "settlement": "Kál"
   },
   {
-    "editor_user": "62b87783dd3ae30ae0e97a74",
+    "editor_user": "62b9115ba96eee70e622c65d",
+    "category": "62b8860353a753362366a48a",
     "date_from": {
       "year": 2022,
       "month": 7,
@@ -1404,99 +986,617 @@
     "date_to": {
       "year": 2022,
       "month": 4,
-      "day": 24
+      "day": 5
     },
-    "description": "Deserunt consequat duis exercitation aliqua sit eiusmod voluptate. In irure nisi sunt dolor reprehenderit ea duis proident occaecat officia. Dolor et dolor ut in in magna. Irure incididunt culpa anim velit cillum proident fugiat culpa cupidatat. Deserunt mollit duis cupidatat Lorem exercitation laborum. Nisi nisi adipisicing ut eu ullamco proident minim ullamco tempor cupidatat cillum. Excepteur excepteur anim cupidatat sint eu magna nisi deserunt nisi magna amet esse adipisicing commodo.\r\n",
+    "description": "Anim do anim deserunt duis sint laboris ullamco commodo anim. Aliquip incididunt sunt laborum adipisicing nulla ea eu pariatur cillum aute. Reprehenderit quis incididunt exercitation irure eu consectetur dolore et reprehenderit duis culpa in reprehenderit.\r\n",
+    "settlement": "Parád"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c637",
+    "category": "62b886c853a753362366a49e",
+    "date_from": {
+      "year": 2022,
+      "month": 5,
+      "day": 18
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 5,
+      "day": 25
+    },
+    "description": "Sint aliquip cupidatat eu reprehenderit est eiusmod incididunt ullamco tempor ullamco nostrud ad. Mollit quis velit cillum officia in nostrud sunt aliqua eu minim commodo laboris et. Qui non cupidatat dolore nisi id proident tempor veniam enim proident velit amet minim. Aliquip consectetur occaecat laboris non minim amet. Mollit duis ea mollit ipsum Lorem ex ad ullamco. Laborum et excepteur eiusmod aute voluptate aliquip sit ex. Veniam dolore laboris exercitation sunt dolore duis dolore excepteur velit ut.\r\n",
     "settlement": "Felsőtárkány"
   },
   {
-    "editor_user": "62b87783dd3ae30ae0e97a50",
+    "editor_user": "62b9115ba96eee70e622c645",
+    "category": "62b885ec53a753362366a486",
     "date_from": {
       "year": 2022,
-      "month": 7,
+      "month": 6,
+      "day": 6
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 4,
+      "day": 5
+    },
+    "description": "Qui do id est deserunt elit in. Ea consectetur sit laborum aliqua Lorem aliquip commodo amet minim id. Et consectetur pariatur labore ut sunt officia consequat.\r\n",
+    "settlement": "Nagytálya"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c63d",
+    "category": "62b886c853a753362366a49e",
+    "date_from": {
+      "year": 2022,
+      "month": 6,
       "day": 26
     },
     "date_to": {
       "year": 2022,
-      "month": 5,
-      "day": 28
+      "month": 4,
+      "day": 13
     },
-    "description": "Esse deserunt fugiat tempor nostrud officia ullamco. Ex occaecat Lorem elit velit laborum esse nulla irure cupidatat adipisicing id. Tempor Lorem cillum consectetur fugiat id excepteur id. Fugiat et reprehenderit anim velit pariatur enim do consequat nisi amet ipsum. Pariatur ut fugiat in amet non in proident adipisicing tempor.\r\n",
-    "settlement": "Bélapátfalva"
+    "description": "Sunt cillum laboris exercitation deserunt adipisicing. Laboris in minim aliquip nisi reprehenderit id duis ad reprehenderit irure irure non cupidatat. Adipisicing ex ullamco duis sit dolore tempor dolore sint dolor ut irure. Tempor aliquip aute ut elit culpa nostrud duis deserunt irure cupidatat. Irure occaecat duis aute consequat velit. Cillum irure cupidatat nisi sit labore esse deserunt est labore adipisicing incididunt Lorem non ea. Ea velit magna et non consequat aute do consequat laboris.\r\n",
+    "settlement": "Kerecsend"
   },
   {
-    "editor_user": "62b87783dd3ae30ae0e979ec",
+    "editor_user": "62b9115ba96eee70e622c683",
+    "category": "62b8868a53a753362366a496",
+    "date_from": {
+      "year": 2022,
+      "month": 7,
+      "day": 27
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 6,
+      "day": 24
+    },
+    "description": "Aliqua sint Lorem aute irure dolore dolor ipsum. Exercitation ullamco irure aute adipisicing ea in elit proident duis irure nulla nostrud commodo sint. Nisi et esse aliquip mollit non labore elit consectetur consequat tempor. Nostrud quis nisi consectetur irure reprehenderit officia tempor ea id ad ut deserunt. Amet sunt ullamco duis ullamco esse ea exercitation incididunt.\r\n",
+    "settlement": "Egercsehi"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c655",
+    "category": "62b885c053a753362366a482",
     "date_from": {
       "year": 2022,
       "month": 5,
-      "day": 28
+      "day": 5
     },
     "date_to": {
       "year": 2022,
       "month": 5,
-      "day": 19
+      "day": 4
     },
-    "description": "Lorem ea et exercitation veniam incididunt magna occaecat commodo cillum enim occaecat occaecat labore. Ex elit occaecat minim laborum laborum aute consectetur culpa enim. Dolore eu nulla esse ullamco consequat commodo sunt mollit cillum excepteur sit incididunt consectetur incididunt. Id cillum eiusmod et enim. Ipsum sit eiusmod sit ad occaecat magna magna nostrud do.\r\n",
-    "settlement": "Egerfarmos"
+    "description": "Excepteur commodo laborum anim nulla culpa. Do quis eiusmod sint amet veniam nostrud laboris incididunt incididunt minim. Aute amet consequat voluptate anim reprehenderit officia est. Voluptate aute exercitation commodo do nulla officia dolore mollit reprehenderit laboris non dolore. Magna in Lorem laborum nostrud ad ut. Quis ipsum consectetur et pariatur amet cupidatat mollit velit excepteur quis nisi voluptate. Sint dolore deserunt pariatur id id consectetur.\r\n",
+    "settlement": "Szarvaskő"
   },
   {
-    "editor_user": "62b87783dd3ae30ae0e97a22",
+    "editor_user": "62b9115ba96eee70e622c677",
+    "category": "62b8867453a753362366a492",
     "date_from": {
       "year": 2022,
-      "month": 4,
-      "day": 21
+      "month": 6,
+      "day": 2
     },
     "date_to": {
       "year": 2022,
       "month": 7,
-      "day": 1
+      "day": 21
     },
-    "description": "Adipisicing quis voluptate anim et eiusmod. Eiusmod culpa qui deserunt duis mollit ut non voluptate velit cillum labore id laborum. Ullamco proident exercitation ipsum cupidatat fugiat. Exercitation nisi incididunt et culpa veniam. Amet cupidatat anim laboris velit dolore. Amet esse cillum veniam fugiat.\r\n",
-    "settlement": "Zagyvaszántó"
+    "description": "Cupidatat id deserunt aliqua ex sint. Ea ullamco ullamco amet voluptate culpa. Est incididunt laborum occaecat aute magna voluptate reprehenderit velit fugiat. Duis sunt ipsum nisi cillum anim fugiat consequat in. Do velit cillum in eu eiusmod et.\r\n",
+    "settlement": "Maklár"
   },
   {
-    "editor_user": "62b87783dd3ae30ae0e979e6",
+    "editor_user": "62b9115ba96eee70e622c64b",
+    "category": "62b8868a53a753362366a496",
+    "date_from": {
+      "year": 2022,
+      "month": 7,
+      "day": 29
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 4,
+      "day": 17
+    },
+    "description": "Aute dolore cupidatat proident tempor. Excepteur adipisicing officia irure nostrud minim non anim ipsum. Exercitation magna culpa mollit ea dolore adipisicing ad nostrud dolor laborum sint fugiat sit nulla. Quis in non aute dolore elit consectetur eu aute aute labore duis voluptate magna elit. Esse Lorem Lorem nostrud laborum anim deserunt ex fugiat proident. Ut proident adipisicing aute fugiat amet mollit nulla ex irure excepteur voluptate.\r\n",
+    "settlement": "Adács"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c677",
+    "category": "62b886ba53a753362366a49a",
+    "date_from": {
+      "year": 2022,
+      "month": 6,
+      "day": 19
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 4,
+      "day": 22
+    },
+    "description": "Dolor id ut elit amet commodo cupidatat. Occaecat et esse ad occaecat non commodo veniam pariatur elit et nostrud sit. Sint aliqua laboris culpa sint.\r\n",
+    "settlement": "Bélapátfalva"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c667",
+    "category": "62b8868a53a753362366a496",
+    "date_from": {
+      "year": 2022,
+      "month": 5,
+      "day": 25
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 8,
+      "day": 14
+    },
+    "description": "Est labore ipsum ea sit reprehenderit. Aliqua mollit nostrud est ex nisi. Officia aliqua fugiat aute deserunt cillum magna ea irure laborum aute labore sit ex labore. Laboris culpa ut nulla veniam anim sint in minim laborum veniam id excepteur do. Ea consequat ad do voluptate fugiat in.\r\n",
+    "settlement": "Ostoros"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c683",
+    "category": "62b8858a53a753362366a47e",
+    "date_from": {
+      "year": 2022,
+      "month": 5,
+      "day": 7
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 4,
+      "day": 14
+    },
+    "description": "Sunt anim sunt in velit id velit consequat qui duis sunt. Ipsum consequat dolor velit voluptate dolor aute enim duis anim do id quis. Laborum do aliquip anim nisi ex adipisicing magna Lorem ex cillum cupidatat id amet. Labore voluptate exercitation duis elit proident minim consectetur.\r\n",
+    "settlement": "Maklár"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c655",
+    "category": "62b8867453a753362366a492",
+    "date_from": {
+      "year": 2022,
+      "month": 6,
+      "day": 15
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 8,
+      "day": 22
+    },
+    "description": "Dolor cupidatat elit pariatur nostrud exercitation irure enim ut quis proident elit ex ut. Dolor dolore laboris sit nulla commodo duis irure ea anim tempor ullamco dolore quis. Ea et eiusmod amet adipisicing minim nisi sint ullamco deserunt ea non. Occaecat laborum et occaecat et.\r\n",
+    "settlement": "Kál"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c65d",
+    "category": "62b8867453a753362366a492",
     "date_from": {
       "year": 2022,
       "month": 4,
-      "day": 30
+      "day": 3
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 6,
+      "day": 24
+    },
+    "description": "Esse ullamco sint ea tempor velit sint Lorem nostrud ex do quis. Quis velit reprehenderit eu culpa nostrud ullamco irure non aute ut ea. Sunt sunt magna eu elit sunt aute anim magna esse duis. Sunt veniam anim veniam Lorem proident dolore labore labore amet.\r\n",
+    "settlement": "Balaton"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c655",
+    "category": "62b8860353a753362366a48a",
+    "date_from": {
+      "year": 2022,
+      "month": 5,
+      "day": 4
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 8,
+      "day": 28
+    },
+    "description": "Esse non aute dolore cillum eu. Ipsum ex eu id proident quis labore. Minim veniam anim cupidatat irure do.\r\n",
+    "settlement": "Sirok"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c63d",
+    "category": "62b886c853a753362366a49e",
+    "date_from": {
+      "year": 2022,
+      "month": 6,
+      "day": 24
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 5,
+      "day": 2
+    },
+    "description": "Ullamco esse pariatur do magna. Aliqua excepteur mollit irure do. Et tempor aliquip aliquip excepteur deserunt irure. Excepteur ea Lorem adipisicing ex. Nulla deserunt dolore reprehenderit minim in sint in ullamco id enim deserunt eu commodo. Lorem ut proident excepteur ut consequat commodo elit. Amet dolore qui nulla anim.\r\n",
+    "settlement": "Egerszalók"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c67d",
+    "category": "62b8864e53a753362366a48e",
+    "date_from": {
+      "year": 2022,
+      "month": 6,
+      "day": 16
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 6,
+      "day": 2
+    },
+    "description": "Dolor sunt cillum ut incididunt et ullamco eu. Labore ut amet exercitation qui nisi qui. Deserunt enim esse laborum et eu excepteur tempor consectetur.\r\n",
+    "settlement": "Abasár"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c64b",
+    "category": "62b885c053a753362366a482",
+    "date_from": {
+      "year": 2022,
+      "month": 5,
+      "day": 11
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 5,
+      "day": 1
+    },
+    "description": "Commodo cillum dolore aute voluptate consequat pariatur excepteur anim deserunt voluptate eu nulla nisi aliquip. Elit exercitation esse nisi consequat eiusmod consequat eu eu cillum. Aliqua incididunt velit adipisicing enim minim et ipsum in nostrud in. Nisi commodo magna cillum ullamco amet culpa id quis ea. Voluptate ut deserunt cillum ea amet culpa enim. Commodo do cupidatat et Lorem Lorem ullamco dolor. Sint veniam tempor reprehenderit enim anim ad labore esse.\r\n",
+    "settlement": "Bélapátfalva"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c655",
+    "category": "62b8858a53a753362366a47e",
+    "date_from": {
+      "year": 2022,
+      "month": 8,
+      "day": 11
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 8,
+      "day": 19
+    },
+    "description": "Exercitation consectetur officia reprehenderit aliquip excepteur irure eu irure. Non excepteur pariatur ex ex est enim elit ullamco eu. Ea consectetur in duis ipsum magna exercitation ex. Amet id ex exercitation sint do excepteur ad nisi nisi ex. Occaecat excepteur ex ad eiusmod aliquip anim magna proident. Ipsum aliqua ullamco officia sunt laboris amet sint ipsum ex commodo occaecat sit exercitation. Sit aute mollit irure irure amet id dolore cillum non.\r\n",
+    "settlement": "Szilvásvárad"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c63f",
+    "category": "62b8864e53a753362366a48e",
+    "date_from": {
+      "year": 2022,
+      "month": 5,
+      "day": 14
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 5,
+      "day": 22
+    },
+    "description": "Id sit ad dolore labore proident. Esse duis velit dolor reprehenderit dolore fugiat Lorem reprehenderit ut cillum enim aliquip. Minim sint mollit sint labore. Ad quis culpa proident adipisicing do. Do aliquip ea irure qui elit eu. Non laborum tempor in ullamco magna tempor veniam magna et.\r\n",
+    "settlement": "Atkár"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c67b",
+    "category": "62b885ec53a753362366a486",
+    "date_from": {
+      "year": 2022,
+      "month": 8,
+      "day": 10
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 7,
+      "day": 13
+    },
+    "description": "Esse minim nostrud eiusmod laboris excepteur non culpa aute proident eu nostrud in. Lorem reprehenderit fugiat quis laboris pariatur in eiusmod magna ullamco cillum non dolore excepteur tempor. Reprehenderit Lorem officia fugiat veniam. Ex non occaecat nostrud dolore voluptate adipisicing proident cillum incididunt excepteur incididunt adipisicing. Ad occaecat ex ullamco eiusmod ut laborum deserunt magna officia elit proident pariatur. Pariatur qui in aliqua exercitation velit Lorem nostrud ad commodo id est ea aliqua commodo.\r\n",
+    "settlement": "Kisnána"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c661",
+    "category": "62b8864e53a753362366a48e",
+    "date_from": {
+      "year": 2022,
+      "month": 4,
+      "day": 10
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 8,
+      "day": 18
+    },
+    "description": "Proident laboris irure in mollit fugiat officia enim ullamco laborum sunt. Ex sit est culpa velit laborum id amet excepteur proident nulla enim occaecat. Pariatur occaecat nulla ex velit pariatur qui consectetur officia. Do sunt culpa culpa nisi.\r\n",
+    "settlement": "Balaton"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c641",
+    "category": "62b8860353a753362366a48a",
+    "date_from": {
+      "year": 2022,
+      "month": 4,
+      "day": 13
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 5,
+      "day": 15
+    },
+    "description": "Amet elit dolor et occaecat duis aliquip aute in eu amet consequat mollit incididunt. Est culpa quis veniam voluptate aute laborum non irure. Mollit ipsum id ipsum veniam id exercitation velit ullamco tempor exercitation. Deserunt aliquip ea quis in officia minim eu mollit in exercitation elit qui.\r\n",
+    "settlement": "Egerbocs"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c645",
+    "category": "62b8867453a753362366a492",
+    "date_from": {
+      "year": 2022,
+      "month": 6,
+      "day": 24
     },
     "date_to": {
       "year": 2022,
       "month": 8,
       "day": 8
     },
-    "description": "Incididunt excepteur mollit deserunt ut magna veniam mollit quis non dolor non voluptate enim amet. Tempor exercitation occaecat ut esse commodo sint commodo ut. Magna pariatur Lorem cillum laborum enim. Ut veniam aliquip dolore officia ex laborum. Fugiat elit qui dolore ad eiusmod Lorem nostrud ullamco anim cillum. Cupidatat ullamco nulla aliqua in sit nisi qui culpa ipsum proident laborum.\r\n",
-    "settlement": "Recsk"
+    "description": "Est enim exercitation quis do sint occaecat ad ad. Ipsum laboris labore esse labore amet mollit culpa ad nulla voluptate reprehenderit qui cillum. Elit do exercitation qui adipisicing magna adipisicing nostrud minim et velit ipsum irure culpa. Minim amet sunt tempor culpa pariatur tempor do ea. Culpa adipisicing velit non incididunt. Est nisi do consectetur consectetur consectetur culpa.\r\n",
+    "settlement": "Aldebrő"
   },
   {
-    "editor_user": "62b87783dd3ae30ae0e97aa2",
+    "editor_user": "62b9115ba96eee70e622c641",
+    "category": "62b885ec53a753362366a486",
     "date_from": {
       "year": 2022,
-      "month": 7,
-      "day": 19
-    },
-    "date_to": {
-      "year": 2022,
-      "month": 7,
-      "day": 2
-    },
-    "description": "Amet est sunt culpa labore ea fugiat. Pariatur sit commodo dolor do sunt. Est ad proident sint laborum enim velit elit labore magna culpa esse ea cupidatat. Eu ea mollit et aliqua anim reprehenderit irure amet dolor tempor. Lorem aliquip tempor dolore proident cupidatat do veniam ipsum quis cupidatat anim. Consectetur sunt ex nostrud aliqua aute.\r\n",
-    "settlement": "Recsk"
-  },
-  {
-    "editor_user": "62b87783dd3ae30ae0e97a20",
-    "date_from": {
-      "year": 2022,
-      "month": 7,
-      "day": 16
+      "month": 6,
+      "day": 1
     },
     "date_to": {
       "year": 2022,
       "month": 4,
-      "day": 25
+      "day": 9
     },
-    "description": "Qui sint commodo tempor excepteur eiusmod esse in est incididunt. Elit excepteur elit occaecat nostrud eu fugiat labore sint exercitation. Ut sint mollit adipisicing ad consequat in ad in ex excepteur. Sunt sint fugiat nisi magna esse anim eu quis in aute. Do duis dolore velit nisi. Aute non mollit cupidatat ipsum consequat enim esse adipisicing et Lorem. Tempor ullamco irure ut proident incididunt elit.\r\n",
+    "description": "Deserunt id velit laborum voluptate dolore voluptate et veniam tempor et excepteur. Veniam do aute fugiat excepteur et ullamco aliqua excepteur anim. Aliquip nisi nostrud ut aliquip reprehenderit reprehenderit. Fugiat nulla est pariatur est laborum veniam id nisi aliqua labore est. Magna exercitation consectetur nulla ullamco ex. Nisi culpa in magna dolor est.\r\n",
     "settlement": "Kerecsend"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c66d",
+    "category": "62b886c853a753362366a49e",
+    "date_from": {
+      "year": 2022,
+      "month": 6,
+      "day": 22
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 5,
+      "day": 18
+    },
+    "description": "Amet officia dolor ut enim nulla nostrud et. Qui voluptate minim excepteur magna qui reprehenderit deserunt cillum Lorem anim. Irure reprehenderit occaecat reprehenderit labore et est in eu. Sint irure commodo reprehenderit quis fugiat nulla esse anim laboris. Officia occaecat ipsum aliqua cillum et nulla enim consectetur magna esse.\r\n",
+    "settlement": "Átány"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c63f",
+    "category": "62b886ba53a753362366a49a",
+    "date_from": {
+      "year": 2022,
+      "month": 5,
+      "day": 18
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 5,
+      "day": 23
+    },
+    "description": "Sunt aute amet sint dolor aute laboris veniam est ullamco reprehenderit duis. Ipsum duis officia Lorem qui commodo ipsum cillum sit veniam deserunt mollit. Est consequat aliquip mollit commodo laboris deserunt anim adipisicing id. Excepteur excepteur aute pariatur duis mollit. Cupidatat pariatur eiusmod velit nulla duis elit esse.\r\n",
+    "settlement": "Recsk"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c635",
+    "category": "62b8858a53a753362366a47e",
+    "date_from": {
+      "year": 2022,
+      "month": 6,
+      "day": 13
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 4,
+      "day": 4
+    },
+    "description": "Nisi sunt elit laborum ea. Lorem deserunt dolore commodo dolore enim exercitation sit nisi qui ex nisi non laboris consequat. Anim reprehenderit ipsum ullamco ullamco amet dolor. Ipsum nostrud est aliqua eiusmod reprehenderit sunt est consectetur esse ipsum.\r\n",
+    "settlement": "Recsk"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c65d",
+    "category": "62b8868a53a753362366a496",
+    "date_from": {
+      "year": 2022,
+      "month": 4,
+      "day": 20
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 6,
+      "day": 2
+    },
+    "description": "Irure eu laboris quis veniam qui excepteur dolor sit quis ad. Quis minim nisi officia proident officia nulla laborum anim fugiat excepteur et duis culpa sint. Qui voluptate et ad qui nisi fugiat et esse nostrud. Adipisicing in ex commodo commodo nisi eiusmod dolore non ut dolore quis ea. Commodo aute elit cupidatat reprehenderit irure laboris. Fugiat ut ullamco duis esse id culpa elit nulla excepteur. Mollit est elit in sunt enim laborum sint fugiat minim.\r\n",
+    "settlement": "Bátor"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c635",
+    "category": "62b8858a53a753362366a47e",
+    "date_from": {
+      "year": 2022,
+      "month": 5,
+      "day": 23
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 8,
+      "day": 26
+    },
+    "description": "Lorem consectetur eu sunt tempor fugiat qui adipisicing laborum cupidatat. Consequat Lorem non aliqua excepteur ex Lorem sint aute. Reprehenderit consequat aliqua cupidatat sunt consequat in exercitation ullamco nisi nisi aliquip aliqua do.\r\n",
+    "settlement": "Egerszalók"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c661",
+    "category": "62b886ba53a753362366a49a",
+    "date_from": {
+      "year": 2022,
+      "month": 5,
+      "day": 3
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 8,
+      "day": 12
+    },
+    "description": "Id cupidatat nisi ipsum deserunt do labore veniam labore cupidatat ex aliqua. Qui aute eu ut non nulla. Consectetur Lorem laborum incididunt eiusmod deserunt exercitation qui eiusmod dolor. Elit nulla cillum quis ut cillum velit duis. Elit aliquip excepteur in aute non commodo labore do cillum.\r\n",
+    "settlement": "Szilvásvárad"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c67d",
+    "category": "62b886c853a753362366a49e",
+    "date_from": {
+      "year": 2022,
+      "month": 6,
+      "day": 1
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 8,
+      "day": 11
+    },
+    "description": "Qui sit dolor consequat eu proident est nulla officia occaecat dolor incididunt. Minim cillum minim elit ex dolor nisi in enim deserunt. Irure irure ex ullamco aliqua laboris in minim qui in ex.\r\n",
+    "settlement": "Eger"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c661",
+    "category": "62b886ba53a753362366a49a",
+    "date_from": {
+      "year": 2022,
+      "month": 5,
+      "day": 16
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 7,
+      "day": 1
+    },
+    "description": "Do veniam in nisi dolore adipisicing nisi aliquip dolore nostrud. Et ullamco ea esse officia aliquip nostrud. Occaecat cillum ea ex aliquip do. Anim reprehenderit culpa minim excepteur veniam. Duis cillum mollit dolor aliquip in aliqua occaecat adipisicing culpa minim eu. Quis ullamco consectetur et labore sit quis. Magna qui irure proident qui Lorem nostrud Lorem laboris est aliquip exercitation ex.\r\n",
+    "settlement": "Szilvásvárad"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c67b",
+    "category": "62b8867453a753362366a492",
+    "date_from": {
+      "year": 2022,
+      "month": 7,
+      "day": 17
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 6,
+      "day": 13
+    },
+    "description": "Ut incididunt ex anim non non ipsum dolore. Aliqua nostrud excepteur exercitation sint cillum laborum esse. Non nostrud nulla consectetur cupidatat est anim magna consequat aliqua ea voluptate fugiat.\r\n",
+    "settlement": "Felsőtárkány"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c64d",
+    "category": "62b8864e53a753362366a48e",
+    "date_from": {
+      "year": 2022,
+      "month": 8,
+      "day": 6
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 8,
+      "day": 1
+    },
+    "description": "Anim aliqua duis amet eiusmod. Commodo elit dolor tempor cillum. Aute ut exercitation fugiat pariatur ipsum aliquip reprehenderit ullamco elit proident reprehenderit. Consectetur Lorem commodo officia pariatur irure enim non minim officia consequat. Non minim nostrud cupidatat incididunt nulla ut nulla esse.\r\n",
+    "settlement": "Mikófalva"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c677",
+    "category": "62b8860353a753362366a48a",
+    "date_from": {
+      "year": 2022,
+      "month": 6,
+      "day": 23
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 5,
+      "day": 4
+    },
+    "description": "Esse eu culpa aute voluptate consectetur ex nulla laboris enim cillum do ea veniam. Dolor in minim amet officia sit. Labore deserunt eu excepteur non amet veniam eiusmod enim id officia commodo.\r\n",
+    "settlement": "Novaj"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c683",
+    "category": "62b8858a53a753362366a47e",
+    "date_from": {
+      "year": 2022,
+      "month": 4,
+      "day": 4
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 5,
+      "day": 16
+    },
+    "description": "Quis enim id qui fugiat dolore Lorem nisi ullamco occaecat dolore nisi mollit. Cillum occaecat dolor do esse exercitation. Laboris dolor sunt irure in exercitation officia ipsum adipisicing magna cillum ex. Ut irure cillum proident veniam excepteur eu laboris reprehenderit reprehenderit in. Est veniam do laboris consectetur id velit.\r\n",
+    "settlement": "Bélapátfalva"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c667",
+    "category": "62b886c853a753362366a49e",
+    "date_from": {
+      "year": 2022,
+      "month": 6,
+      "day": 6
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 8,
+      "day": 28
+    },
+    "description": "Nisi incididunt mollit occaecat voluptate commodo proident Lorem nisi mollit. Et labore excepteur Lorem cillum. Dolor nulla ea occaecat in.\r\n",
+    "settlement": "Visonta"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c651",
+    "category": "62b8868a53a753362366a496",
+    "date_from": {
+      "year": 2022,
+      "month": 5,
+      "day": 11
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 7,
+      "day": 17
+    },
+    "description": "Excepteur ut et qui tempor adipisicing culpa. Incididunt tempor voluptate sunt ullamco enim voluptate qui exercitation proident dolore velit cillum amet. Ipsum nisi dolor elit ut. Magna ut nostrud sint ad reprehenderit dolore. Proident sunt deserunt ut ipsum qui excepteur minim consequat excepteur tempor. Eu ipsum exercitation eiusmod irure.\r\n",
+    "settlement": "Sirok"
+  },
+  {
+    "editor_user": "62b9115ba96eee70e622c66b",
+    "category": "62b8868a53a753362366a496",
+    "date_from": {
+      "year": 2022,
+      "month": 6,
+      "day": 24
+    },
+    "date_to": {
+      "year": 2022,
+      "month": 4,
+      "day": 20
+    },
+    "description": "Aute anim anim dolor deserunt sunt in deserunt ut tempor. Sit amet et ex non laborum sunt ipsum. Cupidatat exercitation duis veniam magna do laboris Lorem sint in sunt Lorem dolore amet. Anim eiusmod magna esse nulla et occaecat magna elit velit proident commodo pariatur in aute. Tempor fugiat nisi elit velit non anim consectetur fugiat. Laboris fugiat incididunt sint proident sit excepteur enim ex pariatur consectetur ipsum dolor amet. Velit ad velit ad non commodo fugiat dolore irure mollit deserunt laboris nostrud fugiat commodo.\r\n",
+    "settlement": "Poroszló"
   }
 ]

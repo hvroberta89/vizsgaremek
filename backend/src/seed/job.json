@@ -1,483 +1,1520 @@
 [
   {
-    "title": "Képek felfúrása",
-    "description": "Adipisicing quis amet consequat pariatur commodo tempor tempor adipisicing. Et anim est et cupidatat ea ea. Incididunt laborum ex ea veniam duis aliqua esse adipisicing. Exercitation ex ipsum tempor cupidatat cupidatat officia culpa excepteur consectetur elit fugiat. Sit ea qui dolor excepteur adipisicing qui anim Lorem. Voluptate elit commodo aliquip cupidatat anim. Est labore est aute sunt nisi cupidatat anim exercitation laboris id.\r\n",
-    "settlement": "Kál",
-    "date": {
-      "year": 2022,
-      "month": 5,
-      "day": 11
-    },
-    "time": "5-8 óra",
-    "tools": true,
-    "wage": "Fix összeg",
-    "amount": 4062,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a1a",
-    "worker_user": "62b87783dd3ae30ae0e979e2"
-  },
-  {
     "title": "Gyűmölcs szüret",
-    "description": "Reprehenderit enim est qui aliquip officia pariatur ad reprehenderit excepteur commodo labore enim. Cupidatat ex magna aute sunt duis mollit. Voluptate ad anim do ea anim et. Tempor dolor anim voluptate nisi ad sunt et nisi magna in nisi quis. Pariatur aute officia eiusmod incididunt aliquip qui mollit. Quis pariatur culpa elit sint consectetur eiusmod labore officia ipsum id eiusmod laboris minim incididunt. Ullamco in exercitation culpa exercitation et dolor est dolor tempor.\r\n",
-    "settlement": "Kompolt",
-    "date": {
-      "year": 2022,
-      "month": 7,
-      "day": 15
-    },
-    "time": "5-8 óra",
-    "tools": false,
-    "wage": "Egyéb",
-    "amount": 4521,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97a50",
-    "worker_user": "62b87783dd3ae30ae0e97a12"
-  },
-  {
-    "title": "Sövénynyírás",
-    "description": "Nisi irure ut excepteur commodo. Adipisicing dolore cillum minim laborum velit enim eiusmod laborum officia veniam adipisicing ex sint. Exercitation quis nisi aliquip non tempor. Non aliquip amet do dolor est pariatur do cupidatat sint nulla officia non anim minim. Ullamco nulla ad sit esse laborum id esse mollit qui aliquip sit ea culpa. Ea dolor ea cillum sit ut nostrud magna quis laboris ut aliqua.\r\n",
-    "settlement": "Novaj",
-    "date": {
-      "year": 2022,
-      "month": 4,
-      "day": 8
-    },
-    "time": "több nap",
-    "tools": false,
-    "wage": "Fix összeg",
-    "amount": 25835,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a7c",
-    "worker_user": "62b87783dd3ae30ae0e979d8"
-  },
-  {
-    "title": "Polc felfúrás",
-    "description": "Anim Lorem tempor labore dolore reprehenderit aliqua aliqua elit veniam. Esse pariatur eu cillum velit mollit aliquip enim voluptate ipsum aliquip in. Fugiat elit labore cupidatat do. Pariatur elit ullamco minim ullamco officia. Enim velit et qui amet aliqua nostrud. Incididunt nulla quis proident culpa et velit. Ut eu id ipsum magna aute sint dolore.\r\n",
-    "settlement": "Sirok",
-    "date": {
-      "year": 2022,
-      "month": 6,
-      "day": 1
-    },
-    "time": "több nap",
-    "tools": true,
-    "wage": "Fix összeg",
-    "amount": 8056,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97af4",
-    "worker_user": "62b87783dd3ae30ae0e97a7c"
-  },
-  {
-    "title": "Kutya sétáltatás",
-    "description": "Voluptate qui irure nisi eu enim et ut nostrud proident sunt deserunt do est. Tempor et id occaecat ipsum deserunt. Lorem eu commodo aute magna. Minim pariatur fugiat deserunt velit nisi excepteur laborum adipisicing dolor quis.\r\n",
-    "settlement": "Mikófalva",
-    "date": {
-      "year": 2022,
-      "month": 4,
-      "day": 20
-    },
-    "time": "5-8 óra",
-    "tools": false,
-    "wage": "Fix összeg",
-    "amount": 11237,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e979d0",
-    "worker_user": "62b87783dd3ae30ae0e979e0"
-  },
-  {
-    "title": "Szőnyegtisztítás",
-    "description": "Nisi consequat commodo deserunt incididunt aliqua reprehenderit cillum minim consectetur ex dolor do. Duis exercitation aute ullamco voluptate ex amet. Veniam irure mollit id occaecat consequat consequat officia consectetur tempor et deserunt non sit. Irure mollit dolore non deserunt proident enim. Reprehenderit culpa est labore enim nostrud quis eu proident consectetur anim velit mollit. Tempor do labore incididunt consectetur do aliquip ad consectetur.\r\n",
-    "settlement": "Szilvásvárad",
+    "category": "62b885c053a753362366a482",
+    "description": "Ex duis nostrud ipsum nulla quis minim aute proident occaecat cupidatat non. Mollit esse ex eu adipisicing consequat ex consectetur esse non est ipsum consectetur quis. Do aliquip magna ea quis aliquip eu. Proident proident ex Lorem consequat ad ut laborum.\r\n",
+    "settlement": "Nagytálya",
     "date": {
       "year": 2022,
       "month": 8,
       "day": 12
     },
-    "time": "3-5 óra",
+    "time": "1-2 óra",
     "tools": false,
-    "wage": "Egyéb",
-    "amount": 15197,
+    "wage": "Fix összeg",
+    "amount": 14070,
     "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97a2a",
-    "worker_user": "62b87783dd3ae30ae0e979e2"
+    "editor_user": "62b9115ba96eee70e622c65d",
+    "worker_user": "62b9115ba96eee70e622c641"
   },
   {
     "title": "Költöztetés",
-    "description": "Irure amet commodo voluptate reprehenderit qui fugiat nisi exercitation cupidatat eu. Lorem dolor nulla est culpa excepteur dolor exercitation ad ut veniam et nulla dolore sunt. Aliqua consectetur magna reprehenderit Lorem consequat occaecat commodo officia magna fugiat voluptate est.\r\n",
-    "settlement": "Egerfarmos",
-    "date": {
-      "year": 2022,
-      "month": 7,
-      "day": 1
-    },
-    "time": "5-8 óra",
-    "tools": false,
-    "wage": "Fix összeg",
-    "amount": 4448,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a04",
-    "worker_user": "62b87783dd3ae30ae0e979d8"
-  },
-  {
-    "title": "Kerítés festése",
-    "description": "Qui magna esse exercitation aute laborum aute. Incididunt irure culpa qui labore sit. Qui deserunt in non cupidatat. Nulla Lorem excepteur Lorem velit commodo labore duis laborum deserunt. Id eu nisi culpa laborum consectetur minim cillum. Aute ipsum duis ullamco irure sit commodo dolore quis. Est esse ut proident nostrud culpa labore anim ipsum.\r\n",
-    "settlement": "Maklár",
-    "date": {
-      "year": 2022,
-      "month": 7,
-      "day": 6
-    },
-    "time": "3-5 óra",
-    "tools": true,
-    "wage": "Órabér",
-    "amount": 8012,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97a80",
-    "worker_user": "62b87783dd3ae30ae0e97a52"
-  },
-  {
-    "title": "Favágás",
-    "description": "Sint occaecat anim cupidatat nisi proident qui non commodo do. Labore voluptate fugiat quis eu reprehenderit anim in fugiat tempor duis. In proident adipisicing laborum ea ad duis eu tempor excepteur consequat ut et consequat. Incididunt eiusmod eu velit veniam velit. Enim aute ad proident nisi consectetur ad mollit Lorem ut aliqua duis. In sit laborum occaecat aliquip amet. Dolor proident incididunt velit Lorem ipsum sint velit occaecat qui laborum nostrud laborum esse.\r\n",
-    "settlement": "Kompolt",
-    "date": {
-      "year": 2022,
-      "month": 8,
-      "day": 11
-    },
-    "time": "kevesebb 1 óránál",
-    "tools": true,
-    "wage": "Órabér",
-    "amount": 20790,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a58",
-    "worker_user": "62b87783dd3ae30ae0e979f6"
-  },
-  {
-    "title": "Kerítés festés",
-    "description": "Qui cillum elit do nostrud quis minim sit pariatur nostrud officia. Dolore aliqua proident id laboris deserunt. Sit cillum veniam et id irure tempor nisi veniam reprehenderit. Consectetur velit deserunt fugiat anim ullamco id nulla velit reprehenderit excepteur nisi consequat irure. Sit incididunt exercitation mollit laborum do ipsum mollit ad et duis anim nisi sint excepteur.\r\n",
-    "settlement": "Nagyvisnyó",
-    "date": {
-      "year": 2022,
-      "month": 6,
-      "day": 25
-    },
-    "time": "több nap",
-    "tools": true,
-    "wage": "Fix összeg",
-    "amount": 7470,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97a2a",
-    "worker_user": "62b87783dd3ae30ae0e97a52"
-  },
-  {
-    "title": "Kerítés javítás",
-    "description": "Qui pariatur et eiusmod ad velit nostrud non ut id. Ea aute cupidatat aute nulla elit. Exercitation velit minim sint incididunt consectetur ut sint sunt incididunt. Dolor labore nostrud incididunt esse elit ad commodo nulla. Ut et commodo sunt excepteur. Do nisi ut ad mollit excepteur ea.\r\n",
+    "category": "62b8858a53a753362366a47e",
+    "description": "Dolore in occaecat consequat ex anim minim. Ad deserunt in eu ad dolor adipisicing anim. Cupidatat qui in commodo magna labore cillum dolor ad consectetur laboris deserunt id dolor.\r\n",
     "settlement": "Andornaktálya",
     "date": {
       "year": 2022,
       "month": 8,
-      "day": 25
+      "day": 6
+    },
+    "time": "több nap",
+    "tools": false,
+    "wage": "Egyéb",
+    "amount": 2883,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c67b",
+    "worker_user": "62b9115ba96eee70e622c655"
+  },
+  {
+    "title": "Bolti bevásárlás",
+    "category": "62b886c853a753362366a49e",
+    "description": "Id anim commodo consectetur irure reprehenderit sit nulla esse amet esse ad occaecat mollit. Tempor nulla duis esse laborum reprehenderit aute Lorem minim. Ipsum quis velit non eu. Incididunt cillum culpa nostrud enim sunt fugiat cupidatat do eu aute exercitation aliqua. Dolore amet ullamco eu proident reprehenderit magna. Mollit anim incididunt consectetur ut eiusmod exercitation proident esse adipisicing Lorem ea.\r\n",
+    "settlement": "Kál",
+    "date": {
+      "year": 2022,
+      "month": 7,
+      "day": 24
+    },
+    "time": "5-8 óra",
+    "tools": true,
+    "wage": "Órabér",
+    "amount": 13781,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c661",
+    "worker_user": "62b9115ba96eee70e622c63f"
+  },
+  {
+    "title": "Dugulás elhárítás",
+    "category": "62b8864e53a753362366a48e",
+    "description": "Ipsum elit commodo ipsum proident veniam proident aliqua ea. Proident culpa ad aliquip tempor adipisicing nulla proident est do ad ipsum nulla. Tempor et non exercitation incididunt commodo non nostrud magna sunt aliqua. Ullamco proident cillum incididunt laborum voluptate aliqua exercitation excepteur proident tempor magna. Ullamco cillum officia ullamco dolore adipisicing mollit adipisicing pariatur elit magna.\r\n",
+    "settlement": "Bükkszenterzsébet",
+    "date": {
+      "year": 2022,
+      "month": 8,
+      "day": 26
+    },
+    "time": "több nap",
+    "tools": false,
+    "wage": "Egyéb",
+    "amount": 11112,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c667",
+    "worker_user": "62b9115ba96eee70e622c67b"
+  },
+  {
+    "title": "Bútor összeszerelés",
+    "category": "62b886c853a753362366a49e",
+    "description": "Fugiat voluptate qui anim do pariatur ad nisi deserunt pariatur esse voluptate aute aliqua. Qui fugiat ipsum ea occaecat officia in do enim ullamco in consectetur aliquip sit ad. Est irure minim laborum sint adipisicing ipsum. Occaecat amet adipisicing duis sint non dolore nulla. Id et duis anim reprehenderit tempor elit consectetur non id. Adipisicing labore enim culpa reprehenderit commodo excepteur sit mollit pariatur qui sint est voluptate.\r\n",
+    "settlement": "Kerecsend",
+    "date": {
+      "year": 2022,
+      "month": 5,
+      "day": 8
+    },
+    "time": "2-3 óra",
+    "tools": false,
+    "wage": "Fix összeg",
+    "amount": 10691,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c637",
+    "worker_user": "62b9115ba96eee70e622c63d"
+  },
+  {
+    "title": "Kerítés festése",
+    "category": "62b8858a53a753362366a47e",
+    "description": "Irure nulla laborum qui officia consectetur consectetur. Minim non duis reprehenderit excepteur ex sunt irure consequat nulla minim dolore ad. Cillum enim Lorem id sunt magna magna quis proident nisi aute est incididunt. Adipisicing irure labore in excepteur in irure proident Lorem commodo enim. Officia id excepteur cupidatat est excepteur minim est minim.\r\n",
+    "settlement": "Füzesabony",
+    "date": {
+      "year": 2022,
+      "month": 8,
+      "day": 1
+    },
+    "time": "több nap",
+    "tools": true,
+    "wage": "Fix összeg",
+    "amount": 14122,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c667",
+    "worker_user": "62b9115ba96eee70e622c66b"
+  },
+  {
+    "title": "Medence tisztítás",
+    "category": "62b886c853a753362366a49e",
+    "description": "Duis ea cillum duis ad cillum ullamco dolor cillum eiusmod cillum. Ex et esse non est. Laboris tempor ex cupidatat ut nulla anim quis id laboris elit. Consequat aliqua eiusmod cupidatat est eu anim cillum nostrud ad duis minim fugiat. Amet nulla labore in consequat cillum exercitation eu occaecat fugiat.\r\n",
+    "settlement": "Szarvaskő",
+    "date": {
+      "year": 2022,
+      "month": 6,
+      "day": 21
+    },
+    "time": "2-3 óra",
+    "tools": true,
+    "wage": "Fix összeg",
+    "amount": 11606,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c637",
+    "worker_user": "62b9115ba96eee70e622c67b"
+  },
+  {
+    "title": "Izzó csere",
+    "category": "62b885c053a753362366a482",
+    "description": "Laboris est anim excepteur enim incididunt reprehenderit quis cillum aute ad id non. Incididunt in dolore aliquip occaecat velit exercitation anim elit et duis duis ad excepteur ipsum. Dolor consequat nulla veniam duis anim Lorem velit eiusmod quis. Fugiat sint aliqua nisi sunt aute amet cillum esse sit exercitation aute. Minim laborum non proident nisi ad ea tempor. Magna incididunt nulla ex consequat minim aute ex voluptate. Dolore aute cupidatat ut occaecat est aute enim cillum amet amet sit ut.\r\n",
+    "settlement": "Sirok",
+    "date": {
+      "year": 2022,
+      "month": 5,
+      "day": 20
     },
     "time": "több nap",
     "tools": true,
     "wage": "Órabér",
-    "amount": 8971,
+    "amount": 6558,
     "active": false,
-    "editor_user": "62b87783dd3ae30ae0e979fc",
-    "worker_user": "62b87783dd3ae30ae0e97aa2"
+    "editor_user": "62b9115ba96eee70e622c637",
+    "worker_user": "62b9115ba96eee70e622c67b"
   },
   {
-    "title": "Mosogatógép bekötés",
-    "description": "Tempor occaecat aliqua sint est sit nostrud sunt et incididunt excepteur sint aliqua et. Fugiat cillum ipsum officia occaecat cillum consequat reprehenderit aute officia elit ipsum. Ea laborum nulla cupidatat sunt aliqua velit elit anim voluptate officia. Occaecat sit ipsum in cillum eiusmod est proident nisi.\r\n",
-    "settlement": "Sirok",
+    "title": "Kutya sétáltatás",
+    "category": "62b886ba53a753362366a49a",
+    "description": "Ullamco sunt anim exercitation do velit nulla do elit sint ipsum. Incididunt voluptate id ex anim anim enim mollit mollit pariatur veniam consequat voluptate aliquip. Aliqua eu do deserunt culpa esse.\r\n",
+    "settlement": "Balaton",
     "date": {
       "year": 2022,
-      "month": 6,
-      "day": 27
+      "month": 4,
+      "day": 7
+    },
+    "time": "kevesebb 1 óránál",
+    "tools": true,
+    "wage": "Órabér",
+    "amount": 1508,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c64b",
+    "worker_user": "62b9115ba96eee70e622c667"
+  },
+  {
+    "title": "Dugulás elhárítás",
+    "category": "62b8868a53a753362366a496",
+    "description": "Ipsum et labore labore labore dolor laborum ullamco pariatur mollit aliquip ut. Elit veniam excepteur ullamco voluptate velit enim ex proident cupidatat nisi. Deserunt eiusmod aute minim aute fugiat.\r\n",
+    "settlement": "Andornaktálya",
+    "date": {
+      "year": 2022,
+      "month": 4,
+      "day": 5
+    },
+    "time": "3-5 óra",
+    "tools": false,
+    "wage": "Fix összeg",
+    "amount": 27481,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c673",
+    "worker_user": "62b9115ba96eee70e622c677"
+  },
+  {
+    "title": "Konnektor csere",
+    "category": "62b885c053a753362366a482",
+    "description": "Eu nulla culpa cupidatat excepteur aute ad adipisicing reprehenderit quis nostrud mollit consectetur proident reprehenderit. Deserunt sint veniam nostrud veniam in. Pariatur commodo minim exercitation ipsum enim. Sit in sunt duis minim sunt. Aliquip nisi duis reprehenderit duis ea excepteur ullamco nisi veniam ex amet irure.\r\n",
+    "settlement": "Bátor",
+    "date": {
+      "year": 2022,
+      "month": 5,
+      "day": 18
     },
     "time": "2-3 óra",
     "tools": false,
     "wage": "Egyéb",
-    "amount": 2372,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97aec",
-    "worker_user": "62b87783dd3ae30ae0e97ace"
+    "amount": 21956,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c64b",
+    "worker_user": "62b9115ba96eee70e622c683"
   },
   {
-    "title": "Takarítás",
-    "description": "Exercitation quis adipisicing ad in id ut in magna excepteur consequat consequat. Non nisi aliqua qui commodo consequat amet ex ullamco. Officia irure eu nostrud fugiat magna. Labore qui labore ex excepteur culpa. Enim irure occaecat laborum dolore aliqua velit eu magna ipsum exercitation Lorem anim. Voluptate ut exercitation aute deserunt sit nulla voluptate.\r\n",
-    "settlement": "Besenyőtelek",
+    "title": "Locsolás",
+    "category": "62b8868a53a753362366a496",
+    "description": "Non laborum minim sunt nisi. Nostrud fugiat cillum velit cupidatat non anim nostrud sit. Reprehenderit consequat reprehenderit aliqua minim enim commodo cillum cupidatat ex velit.\r\n",
+    "settlement": "Balaton",
+    "date": {
+      "year": 2022,
+      "month": 8,
+      "day": 14
+    },
+    "time": "3-5 óra",
+    "tools": false,
+    "wage": "Egyéb",
+    "amount": 27325,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c63f",
+    "worker_user": "62b9115ba96eee70e622c63f"
+  },
+  {
+    "title": "Dugulás elhárítás",
+    "category": "62b8867453a753362366a492",
+    "description": "Ea labore commodo elit officia esse. Esse do aliquip et nostrud proident. Ut nisi Lorem incididunt magna Lorem pariatur officia laborum non aliqua id labore esse. Cupidatat qui reprehenderit sit voluptate officia deserunt tempor ad sit.\r\n",
+    "settlement": "Mikófalva",
+    "date": {
+      "year": 2022,
+      "month": 7,
+      "day": 10
+    },
+    "time": "3-5 óra",
+    "tools": false,
+    "wage": "Fix összeg",
+    "amount": 17841,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c635",
+    "worker_user": "62b9115ba96eee70e622c66d"
+  },
+  {
+    "title": "Gyűmölcs szüret",
+    "category": "62b8860353a753362366a48a",
+    "description": "Aliquip ullamco sint duis pariatur tempor quis velit ex aliqua. Velit qui qui elit sit aliqua excepteur reprehenderit labore nostrud voluptate reprehenderit Lorem nisi. Nisi eiusmod ut nulla ea aliquip nostrud culpa commodo irure commodo sit elit exercitation. Adipisicing id occaecat esse aliqua id irure ipsum. Aliqua enim adipisicing nulla excepteur sit voluptate eu elit mollit voluptate minim. Pariatur anim velit consectetur et dolor est ea quis elit aliquip non quis ad. Ullamco eu laboris esse nostrud sint voluptate ut pariatur.\r\n",
+    "settlement": "Egercsehi",
+    "date": {
+      "year": 2022,
+      "month": 7,
+      "day": 2
+    },
+    "time": "5-8 óra",
+    "tools": true,
+    "wage": "Egyéb",
+    "amount": 22634,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c64b",
+    "worker_user": "62b9115ba96eee70e622c651"
+  },
+  {
+    "title": "Medence tisztítás",
+    "category": "62b885c053a753362366a482",
+    "description": "Qui irure id pariatur irure laborum consectetur laborum adipisicing ea ad pariatur. Lorem ullamco aliqua in reprehenderit sunt. Tempor exercitation enim irure sint amet reprehenderit tempor in sint magna fugiat dolor ex Lorem. Pariatur incididunt sit incididunt qui deserunt duis sint officia ut nulla elit pariatur eu. Dolor mollit cillum nulla enim sunt duis proident eiusmod.\r\n",
+    "settlement": "Novaj",
+    "date": {
+      "year": 2022,
+      "month": 5,
+      "day": 2
+    },
+    "time": "2-3 óra",
+    "tools": false,
+    "wage": "Fix összeg",
+    "amount": 6460,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c67d",
+    "worker_user": "62b9115ba96eee70e622c661"
+  },
+  {
+    "title": "Nagytakarítás",
+    "category": "62b8868a53a753362366a496",
+    "description": "Ullamco adipisicing aliqua tempor ullamco ut tempor nisi non est deserunt laborum nulla. Ea ipsum ad consequat voluptate deserunt quis duis ex. Sit qui proident incididunt do cupidatat do ipsum velit id reprehenderit dolor ipsum nostrud.\r\n",
+    "settlement": "Atkár",
+    "date": {
+      "year": 2022,
+      "month": 5,
+      "day": 28
+    },
+    "time": "több nap",
+    "tools": true,
+    "wage": "Fix összeg",
+    "amount": 17603,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c677",
+    "worker_user": "62b9115ba96eee70e622c65d"
+  },
+  {
+    "title": "Sövénynyírás",
+    "category": "62b8868a53a753362366a496",
+    "description": "Incididunt dolor ipsum esse proident deserunt consequat eu excepteur aliquip minim labore ut consectetur consectetur. Incididunt consectetur ullamco et fugiat. Laborum magna eiusmod enim nisi labore proident mollit aliqua. Amet ut consectetur anim cillum. Proident ipsum aute nostrud minim sunt fugiat. Occaecat sunt commodo consequat fugiat do excepteur.\r\n",
+    "settlement": "Noszvaj",
+    "date": {
+      "year": 2022,
+      "month": 8,
+      "day": 5
+    },
+    "time": "2-3 óra",
+    "tools": true,
+    "wage": "Fix összeg",
+    "amount": 16412,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c67b",
+    "worker_user": "62b9115ba96eee70e622c651"
+  },
+  {
+    "title": "Szőnyegtisztítás",
+    "category": "62b886c853a753362366a49e",
+    "description": "Enim non elit voluptate qui dolor occaecat reprehenderit. Sit quis labore eiusmod veniam. Eu qui laboris ea occaecat eiusmod ad et in est quis commodo nulla sint. Deserunt laboris reprehenderit dolor nisi est voluptate.\r\n",
+    "settlement": "Adács",
     "date": {
       "year": 2022,
       "month": 4,
       "day": 9
     },
     "time": "kevesebb 1 óránál",
-    "tools": false,
+    "tools": true,
     "wage": "Fix összeg",
-    "amount": 23368,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e979d0",
-    "worker_user": "62b87783dd3ae30ae0e97a74"
+    "amount": 12110,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c64b",
+    "worker_user": "62b9115ba96eee70e622c63f"
   },
   {
-    "title": "Szőnyegtisztítás",
-    "description": "Laborum minim culpa ex incididunt Lorem sit amet aliqua sit commodo laborum ipsum. Veniam ex aliqua laboris quis tempor adipisicing quis deserunt non nostrud proident Lorem. Ut aute adipisicing eu labore pariatur aute. Lorem enim occaecat eiusmod exercitation enim tempor sunt consectetur aliqua voluptate.\r\n",
-    "settlement": "Tarnalelesz",
+    "title": "Bolti bevásárlás",
+    "category": "62b8858a53a753362366a47e",
+    "description": "Sunt veniam enim laborum fugiat exercitation. Veniam mollit elit sit veniam anim laborum et reprehenderit occaecat tempor commodo. Fugiat irure ex id ad pariatur ex excepteur quis nisi do quis dolore irure cupidatat. Lorem do et duis ipsum in nostrud do consectetur. Est esse officia duis consectetur proident sint pariatur. Fugiat duis minim ex nostrud voluptate culpa irure minim aliquip et proident.\r\n",
+    "settlement": "Demjén",
+    "date": {
+      "year": 2022,
+      "month": 4,
+      "day": 27
+    },
+    "time": "3-5 óra",
+    "tools": false,
+    "wage": "Fix összeg",
+    "amount": 29009,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c64b",
+    "worker_user": "62b9115ba96eee70e622c64d"
+  },
+  {
+    "title": "Kerítés festés",
+    "category": "62b8860353a753362366a48a",
+    "description": "Fugiat fugiat duis non sit adipisicing ad id. Pariatur ipsum mollit amet eu culpa minim commodo laboris. In irure aute laboris eiusmod pariatur tempor nisi voluptate mollit excepteur anim reprehenderit. Deserunt ipsum officia id aliqua officia enim enim laboris deserunt excepteur veniam pariatur incididunt et.\r\n",
+    "settlement": "Abasár",
     "date": {
       "year": 2022,
       "month": 5,
       "day": 12
     },
-    "time": "kevesebb 1 óránál",
-    "tools": true,
+    "time": "5-8 óra",
+    "tools": false,
     "wage": "Órabér",
-    "amount": 3420,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e979e2",
-    "worker_user": "62b87783dd3ae30ae0e97a74"
+    "amount": 18014,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c673",
+    "worker_user": "62b9115ba96eee70e622c667"
   },
   {
-    "title": "Kerítés javítás",
-    "description": "Aliquip deserunt deserunt dolore deserunt. Nisi consequat ipsum nostrud id excepteur. Nulla nisi ea minim adipisicing velit nulla. Laboris eiusmod cillum ea excepteur eiusmod excepteur dolore anim do. Cillum aliqua ipsum do anim est cupidatat dolore mollit quis enim.\r\n",
-    "settlement": "Verpelét",
+    "title": "Sövénynyírás",
+    "category": "62b8864e53a753362366a48e",
+    "description": "In voluptate nulla cupidatat ad eu aliquip velit proident. Reprehenderit aliquip Lorem incididunt labore velit sint est culpa. Ex cillum ullamco mollit consectetur in exercitation nisi et labore labore pariatur. Consequat consequat aliquip ullamco id veniam sit consequat duis. Cupidatat culpa id do aliqua aute in. Ut excepteur anim culpa sit excepteur.\r\n",
+    "settlement": "Tarnaszentmária",
     "date": {
       "year": 2022,
-      "month": 7,
+      "month": 4,
+      "day": 13
+    },
+    "time": "2-3 óra",
+    "tools": true,
+    "wage": "Órabér",
+    "amount": 6377,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c645",
+    "worker_user": "62b9115ba96eee70e622c63d"
+  },
+  {
+    "title": "Kerítés festés",
+    "category": "62b886ba53a753362366a49a",
+    "description": "Elit pariatur aliqua elit ullamco ad id incididunt nostrud cillum tempor ea. Ad ad nulla ullamco veniam anim dolore veniam nostrud pariatur occaecat. Commodo sit consequat magna adipisicing ad eiusmod dolor amet laborum nulla ad eu incididunt incididunt. Adipisicing Lorem reprehenderit magna nostrud sunt quis proident adipisicing in labore excepteur quis nisi deserunt. Ea irure qui pariatur ex enim culpa non sunt proident.\r\n",
+    "settlement": "Kompolt",
+    "date": {
+      "year": 2022,
+      "month": 8,
       "day": 18
+    },
+    "time": "kevesebb 1 óránál",
+    "tools": true,
+    "wage": "Fix összeg",
+    "amount": 21860,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c64b",
+    "worker_user": "62b9115ba96eee70e622c635"
+  },
+  {
+    "title": "Bútor összeszerelés",
+    "category": "62b8868a53a753362366a496",
+    "description": "Fugiat commodo ex ut consequat anim et pariatur laboris. Sint ut sit irure sunt voluptate ad duis cupidatat exercitation aliquip exercitation. Officia aliquip irure incididunt velit esse eiusmod aliquip.\r\n",
+    "settlement": "Egerbocs",
+    "date": {
+      "year": 2022,
+      "month": 8,
+      "day": 4
+    },
+    "time": "5-8 óra",
+    "tools": false,
+    "wage": "Órabér",
+    "amount": 7511,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c637",
+    "worker_user": "62b9115ba96eee70e622c64b"
+  },
+  {
+    "title": "Ablak tisztítás",
+    "category": "62b8860353a753362366a48a",
+    "description": "Mollit ut dolor commodo minim incididunt minim ex aliquip esse esse velit. Cillum sint in tempor ea ex adipisicing irure reprehenderit mollit. Eu occaecat elit eiusmod proident duis excepteur consectetur et commodo aliquip. In consectetur occaecat anim sit amet adipisicing ullamco anim esse nostrud labore et consectetur enim. Non qui et aute adipisicing non eiusmod tempor reprehenderit.\r\n",
+    "settlement": "Parád",
+    "date": {
+      "year": 2022,
+      "month": 4,
+      "day": 14
+    },
+    "time": "3-5 óra",
+    "tools": true,
+    "wage": "Egyéb",
+    "amount": 5554,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c63f",
+    "worker_user": "62b9115ba96eee70e622c667"
+  },
+  {
+    "title": "Képek felfúrása",
+    "category": "62b886ba53a753362366a49a",
+    "description": "Sint non proident minim proident deserunt Lorem tempor aliquip excepteur labore laborum fugiat. Proident sit anim exercitation eiusmod pariatur minim anim. Cupidatat aliqua sit velit esse id est amet commodo aute. Ad veniam officia id officia velit ex ullamco Lorem voluptate. Ipsum est eu reprehenderit aute.\r\n",
+    "settlement": "Sirok",
+    "date": {
+      "year": 2022,
+      "month": 8,
+      "day": 4
+    },
+    "time": "3-5 óra",
+    "tools": false,
+    "wage": "Órabér",
+    "amount": 5694,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c677",
+    "worker_user": "62b9115ba96eee70e622c64d"
+  },
+  {
+    "title": "Bútor összeszerelés",
+    "category": "62b8858a53a753362366a47e",
+    "description": "Nisi proident elit fugiat consequat culpa sit veniam Lorem fugiat. Minim et sint elit nisi ex aliquip enim do consectetur excepteur Lorem id quis. Exercitation nostrud nulla sint consectetur minim commodo eu. Occaecat culpa non consequat amet ipsum incididunt dolore eu veniam veniam. Et ad laborum Lorem proident commodo laboris consequat labore adipisicing dolor irure aliqua.\r\n",
+    "settlement": "Egerfarmos",
+    "date": {
+      "year": 2022,
+      "month": 4,
+      "day": 23
+    },
+    "time": "2-3 óra",
+    "tools": true,
+    "wage": "Órabér",
+    "amount": 18794,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c677",
+    "worker_user": "62b9115ba96eee70e622c645"
+  },
+  {
+    "title": "Zárcsere",
+    "category": "62b886c853a753362366a49e",
+    "description": "Exercitation dolor eu deserunt ex duis minim amet duis dolore ad excepteur officia. Non ipsum sunt id tempor tempor deserunt elit consequat aute elit nostrud. Sit irure id aliquip sint pariatur reprehenderit ea. Qui veniam ex culpa anim veniam minim nostrud proident fugiat pariatur eiusmod.\r\n",
+    "settlement": "Besenyőtelek",
+    "date": {
+      "year": 2022,
+      "month": 4,
+      "day": 13
     },
     "time": "2-3 óra",
     "tools": true,
     "wage": "Egyéb",
-    "amount": 25202,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97ace",
-    "worker_user": "62b87783dd3ae30ae0e979f0"
-  },
-  {
-    "title": "Gyomlálás",
-    "description": "Aliquip aliquip aute voluptate cupidatat. Veniam labore cupidatat fugiat cillum qui. Consectetur tempor et ut eiusmod cupidatat pariatur aute fugiat elit Lorem minim labore id. Minim elit irure eiusmod magna sit. Duis id est dolor ipsum laboris elit deserunt id laboris. Dolor amet eu amet mollit cillum nostrud sit cupidatat ut duis.\r\n",
-    "settlement": "Ostoros",
-    "date": {
-      "year": 2022,
-      "month": 4,
-      "day": 21
-    },
-    "time": "2-3 óra",
-    "tools": false,
-    "wage": "Órabér",
-    "amount": 12016,
+    "amount": 15578,
     "active": true,
-    "editor_user": "62b87783dd3ae30ae0e979f8",
-    "worker_user": "62b87783dd3ae30ae0e97a20"
+    "editor_user": "62b9115ba96eee70e622c673",
+    "worker_user": "62b9115ba96eee70e622c651"
   },
   {
-    "title": "Medence tisztítás",
-    "description": "Aliqua culpa eu culpa irure laborum eiusmod est et quis. Eiusmod sit irure aliquip veniam deserunt magna consectetur officia et ad enim amet et non. Sint aute nulla ut ut dolore irure qui officia. Aliqua id sint Lorem Lorem adipisicing duis labore qui reprehenderit consequat commodo ex dolor.\r\n",
-    "settlement": "Tenk",
-    "date": {
-      "year": 2022,
-      "month": 7,
-      "day": 2
-    },
-    "time": "3-5 óra",
-    "tools": true,
-    "wage": "Órabér",
-    "amount": 13763,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e979fc",
-    "worker_user": "62b87783dd3ae30ae0e97aa2"
-  },
-  {
-    "title": "Konnektor csere",
-    "description": "Velit elit enim eu quis proident magna qui consectetur. Amet sunt ut minim ut pariatur ipsum commodo non et commodo anim magna laboris. Velit sit ad ipsum tempor commodo sit anim cupidatat aute esse nisi aliquip proident. Aute reprehenderit aliqua laborum laborum eu excepteur.\r\n",
-    "settlement": "Parád",
-    "date": {
-      "year": 2022,
-      "month": 8,
-      "day": 17
-    },
-    "time": "5-8 óra",
-    "tools": true,
-    "wage": "Fix összeg",
-    "amount": 3828,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97a22",
-    "worker_user": "62b87783dd3ae30ae0e97aa2"
-  },
-  {
-    "title": "Vírusírtás",
-    "description": "Culpa minim mollit enim quis. Nostrud eiusmod esse irure proident aliqua ut. Ad id culpa qui adipisicing est aliquip duis nulla velit nulla ullamco non ipsum. Amet ad excepteur dolore exercitation pariatur nulla est esse nisi adipisicing in sit consequat.\r\n",
+    "title": "Kutya sétáltatás",
+    "category": "62b8864e53a753362366a48e",
+    "description": "Esse culpa laboris consectetur qui deserunt eiusmod qui deserunt anim ipsum laborum id minim. Anim anim esse irure cillum dolor do cillum consectetur amet commodo officia quis. Non culpa cupidatat duis nostrud mollit sint mollit. Sunt anim labore aute Lorem labore in cupidatat enim nulla nulla incididunt.\r\n",
     "settlement": "Bélapátfalva",
     "date": {
       "year": 2022,
       "month": 8,
-      "day": 14
-    },
-    "time": "5-8 óra",
-    "tools": false,
-    "wage": "Egyéb",
-    "amount": 24399,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97ac6",
-    "worker_user": "62b87783dd3ae30ae0e979ec"
-  },
-  {
-    "title": "Mosogatógép bekötés",
-    "description": "Fugiat aute nostrud proident ut dolor exercitation consequat est cillum id ullamco consequat. Anim duis anim minim in eu sit sint. Minim in culpa ad aute amet sit adipisicing culpa esse commodo commodo consequat. Velit nisi ullamco adipisicing cillum dolore ex elit dolore. Do aliquip cupidatat sit sit incididunt laboris eiusmod in et.\r\n",
-    "settlement": "Andornaktálya",
-    "date": {
-      "year": 2022,
-      "month": 5,
-      "day": 15
+      "day": 25
     },
     "time": "több nap",
     "tools": false,
     "wage": "Fix összeg",
-    "amount": 20150,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97a1a",
-    "worker_user": "62b87783dd3ae30ae0e97a60"
+    "amount": 25721,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c64b",
+    "worker_user": "62b9115ba96eee70e622c645"
   },
   {
-    "title": "Dugulás elhárítás",
-    "description": "Deserunt nisi labore culpa do velit deserunt incididunt consectetur deserunt do reprehenderit. Cupidatat adipisicing velit culpa non anim eiusmod non pariatur nulla. Laborum ullamco et Lorem magna ex proident consectetur do.\r\n",
-    "settlement": "Szarvaskő",
+    "title": "Kerítés festése",
+    "category": "62b8860353a753362366a48a",
+    "description": "Exercitation ut excepteur cillum ut nisi consequat cupidatat velit. Aliquip eu ea id elit qui deserunt voluptate cupidatat officia sint Lorem elit non nulla. Occaecat anim pariatur excepteur exercitation. Cupidatat et cupidatat dolor esse esse dolor aute exercitation cillum id enim amet ipsum aute. Mollit voluptate dolore dolore cupidatat. Nisi aliquip cupidatat elit aliqua. Aute ipsum sunt id culpa amet irure elit velit id nisi nostrud.\r\n",
+    "settlement": "Zagyvaszántó",
+    "date": {
+      "year": 2022,
+      "month": 5,
+      "day": 30
+    },
+    "time": "több nap",
+    "tools": true,
+    "wage": "Egyéb",
+    "amount": 21194,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c63d",
+    "worker_user": "62b9115ba96eee70e622c683"
+  },
+  {
+    "title": "Sövénynyírás",
+    "category": "62b8864e53a753362366a48e",
+    "description": "Tempor ad esse pariatur culpa culpa commodo magna. Sit labore ad do eu anim ex et. Labore aute deserunt ipsum magna ex veniam ex aliquip id ullamco nisi enim. Non dolor excepteur est elit laborum eu irure est ea. Laborum non laborum tempor exercitation amet tempor aute adipisicing nostrud enim minim ut.\r\n",
+    "settlement": "Tenk",
     "date": {
       "year": 2022,
       "month": 4,
-      "day": 18
-    },
-    "time": "1-2 óra",
-    "tools": true,
-    "wage": "Fix összeg",
-    "amount": 18636,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a28",
-    "worker_user": "62b87783dd3ae30ae0e97a08"
-  },
-  {
-    "title": "Favágás",
-    "description": "In Lorem consequat aliquip sit officia voluptate consequat excepteur. Est eiusmod qui nisi amet quis. Enim esse aute Lorem qui minim pariatur elit exercitation laborum non.\r\n",
-    "settlement": "Mikófalva",
-    "date": {
-      "year": 2022,
-      "month": 6,
       "day": 30
     },
     "time": "3-5 óra",
-    "tools": false,
-    "wage": "Egyéb",
-    "amount": 22526,
+    "tools": true,
+    "wage": "Órabér",
+    "amount": 28960,
     "active": true,
-    "editor_user": "62b87783dd3ae30ae0e979e8",
-    "worker_user": "62b87783dd3ae30ae0e97a56"
+    "editor_user": "62b9115ba96eee70e622c67d",
+    "worker_user": "62b9115ba96eee70e622c63d"
   },
   {
-    "title": "Takarítás",
-    "description": "Eu consectetur quis sit nisi reprehenderit irure sit velit nisi esse. Anim deserunt laborum cupidatat cillum magna pariatur. Eiusmod dolore elit qui consequat dolore.\r\n",
-    "settlement": "Egerbocs",
+    "title": "Zárcsere",
+    "category": "62b885ec53a753362366a486",
+    "description": "Cupidatat laborum elit excepteur excepteur nulla labore ipsum non sint magna non aliqua. Lorem tempor officia id exercitation esse quis. Cillum magna proident ullamco ex nulla irure mollit enim deserunt consequat velit et eiusmod. Amet minim sunt est cillum eu deserunt.\r\n",
+    "settlement": "Tarnaszentmária",
+    "date": {
+      "year": 2022,
+      "month": 6,
+      "day": 19
+    },
+    "time": "1-2 óra",
+    "tools": true,
+    "wage": "Egyéb",
+    "amount": 17583,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c661",
+    "worker_user": "62b9115ba96eee70e622c67b"
+  },
+  {
+    "title": "Szőnyegtisztítás",
+    "category": "62b885c053a753362366a482",
+    "description": "Anim exercitation exercitation quis velit enim ex. Commodo minim sunt do magna occaecat consequat consequat nulla duis cillum commodo non ex. Laboris elit aliqua reprehenderit eu dolor officia elit nulla non dolor est id. Irure laborum quis amet tempor consequat mollit reprehenderit et amet nulla. Duis nostrud elit pariatur quis consectetur est dolore laboris commodo.\r\n",
+    "settlement": "Aldebrő",
+    "date": {
+      "year": 2022,
+      "month": 6,
+      "day": 22
+    },
+    "time": "3-5 óra",
+    "tools": true,
+    "wage": "Fix összeg",
+    "amount": 11472,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c66d",
+    "worker_user": "62b9115ba96eee70e622c66b"
+  },
+  {
+    "title": "Költöztetés",
+    "category": "62b885ec53a753362366a486",
+    "description": "In excepteur adipisicing excepteur irure duis proident et anim esse dolore voluptate non officia. Exercitation dolor laborum in laborum veniam ullamco minim Lorem. Consequat occaecat excepteur pariatur do. Do incididunt pariatur deserunt consectetur non velit nulla qui.\r\n",
+    "settlement": "Recsk",
     "date": {
       "year": 2022,
       "month": 5,
       "day": 3
     },
-    "time": "5-8 óra",
+    "time": "2-3 óra",
+    "tools": false,
+    "wage": "Fix összeg",
+    "amount": 7106,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c673",
+    "worker_user": "62b9115ba96eee70e622c673"
+  },
+  {
+    "title": "Szőnyegtisztítás",
+    "category": "62b8860353a753362366a48a",
+    "description": "Reprehenderit laboris eu incididunt in nisi ex ex tempor nisi dolor in culpa non esse. Proident voluptate et deserunt eiusmod eiusmod enim. Nulla eu aliqua non adipisicing adipisicing aute cillum ea laboris. Ut veniam dolor minim adipisicing quis excepteur cillum. Fugiat nisi amet qui consequat eiusmod occaecat nisi excepteur mollit excepteur reprehenderit ad do eu. Sunt sint aliqua esse enim pariatur ipsum. Reprehenderit pariatur dolor et Lorem culpa anim.\r\n",
+    "settlement": "Parád",
+    "date": {
+      "year": 2022,
+      "month": 7,
+      "day": 5
+    },
+    "time": "1-2 óra",
     "tools": false,
     "wage": "Egyéb",
-    "amount": 16119,
+    "amount": 11701,
     "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97af0",
-    "worker_user": "62b87783dd3ae30ae0e97aa2"
+    "editor_user": "62b9115ba96eee70e622c64b",
+    "worker_user": "62b9115ba96eee70e622c67d"
+  },
+  {
+    "title": "Zárcsere",
+    "category": "62b886c853a753362366a49e",
+    "description": "Veniam ex esse sit sunt ut fugiat anim ex qui veniam sunt veniam duis consectetur. Excepteur duis nisi cupidatat voluptate labore laborum. Ut dolor laboris in qui. Esse eu ipsum officia et. Ipsum incididunt aliqua excepteur culpa commodo amet eu cupidatat quis ut reprehenderit et ipsum ut.\r\n",
+    "settlement": "Egerfarmos",
+    "date": {
+      "year": 2022,
+      "month": 7,
+      "day": 2
+    },
+    "time": "több nap",
+    "tools": true,
+    "wage": "Egyéb",
+    "amount": 21769,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c66b",
+    "worker_user": "62b9115ba96eee70e622c655"
+  },
+  {
+    "title": "Kerítés javítás",
+    "category": "62b8867453a753362366a492",
+    "description": "Est nulla aliqua ad do sit dolore. Culpa voluptate do labore deserunt reprehenderit consequat. Consectetur anim ex magna enim ad eu reprehenderit id ullamco tempor veniam est. Enim cupidatat exercitation consectetur pariatur et ut non enim est ad quis ut. Dolor nisi veniam est dolor enim consectetur nulla eu incididunt deserunt. Nostrud deserunt incididunt sit occaecat proident qui pariatur cillum occaecat in. Officia ipsum consequat do amet qui velit quis incididunt dolore eu fugiat quis.\r\n",
+    "settlement": "Besenyőtelek",
+    "date": {
+      "year": 2022,
+      "month": 4,
+      "day": 8
+    },
+    "time": "3-5 óra",
+    "tools": false,
+    "wage": "Fix összeg",
+    "amount": 23768,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c677",
+    "worker_user": "62b9115ba96eee70e622c641"
   },
   {
     "title": "Bolti bevásárlás",
-    "description": "Quis elit duis commodo ut mollit et. Incididunt culpa quis tempor ullamco deserunt minim commodo ullamco. Ut id tempor incididunt eu est enim. Quis occaecat veniam Lorem sunt est Lorem voluptate ut commodo irure. Mollit consequat esse sit sit tempor. Quis deserunt minim non culpa reprehenderit sint fugiat ad amet aliquip.\r\n",
-    "settlement": "Pétervására",
+    "category": "62b885c053a753362366a482",
+    "description": "Exercitation ad Lorem aliqua tempor aliquip. Incididunt tempor qui ut ex enim. Pariatur ea dolor culpa dolor ipsum proident mollit eu sunt cillum excepteur enim. Quis laborum quis enim eu labore labore excepteur eiusmod velit enim quis esse sint dolore.\r\n",
+    "settlement": "Bekölce",
+    "date": {
+      "year": 2022,
+      "month": 4,
+      "day": 26
+    },
+    "time": "kevesebb 1 óránál",
+    "tools": false,
+    "wage": "Egyéb",
+    "amount": 4514,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c637",
+    "worker_user": "62b9115ba96eee70e622c63d"
+  },
+  {
+    "title": "Medence tisztítás",
+    "category": "62b886ba53a753362366a49a",
+    "description": "Fugiat culpa aute ullamco deserunt adipisicing in. Nulla aliquip anim fugiat Lorem. Non exercitation cupidatat sunt non quis aliquip incididunt id.\r\n",
+    "settlement": "Poroszló",
     "date": {
       "year": 2022,
       "month": 6,
       "day": 13
     },
-    "time": "3-5 óra",
-    "tools": false,
+    "time": "2-3 óra",
+    "tools": true,
     "wage": "Fix összeg",
-    "amount": 9497,
+    "amount": 24418,
     "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97a18",
-    "worker_user": "62b87783dd3ae30ae0e979e2"
+    "editor_user": "62b9115ba96eee70e622c677",
+    "worker_user": "62b9115ba96eee70e622c66b"
   },
   {
-    "title": "Vírusírtás",
-    "description": "Amet laborum veniam consequat ipsum sit ut nostrud dolor Lorem. Cillum enim consequat nulla culpa id qui exercitation duis qui pariatur cupidatat dolor sit ad. Aliquip officia Lorem cillum consequat adipisicing non ullamco ipsum consequat irure duis amet laborum aliquip. Occaecat duis et amet ex ipsum ad aliquip velit anim cillum aliquip exercitation. Qui culpa occaecat sit incididunt quis ad. Culpa consequat qui adipisicing in cillum non non irure cupidatat cupidatat aliqua.\r\n",
-    "settlement": "Tenk",
+    "title": "Gyűmölcs szüret",
+    "category": "62b8864e53a753362366a48e",
+    "description": "Et consequat elit ullamco anim consectetur incididunt ullamco nulla. Sunt cillum amet consequat exercitation. Magna ea id ullamco nulla non pariatur nostrud laborum dolore proident nostrud magna do.\r\n",
+    "settlement": "Aldebrő",
+    "date": {
+      "year": 2022,
+      "month": 6,
+      "day": 5
+    },
+    "time": "5-8 óra",
+    "tools": false,
+    "wage": "Egyéb",
+    "amount": 16899,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c65d",
+    "worker_user": "62b9115ba96eee70e622c635"
+  },
+  {
+    "title": "Dugulás elhárítás",
+    "category": "62b8858a53a753362366a47e",
+    "description": "Consectetur et dolor quis mollit mollit laborum aliqua. Sunt et proident non mollit cupidatat nulla deserunt nostrud dolore aute exercitation. Consequat cupidatat deserunt voluptate commodo consequat enim eiusmod adipisicing esse duis.\r\n",
+    "settlement": "Bélapátfalva",
+    "date": {
+      "year": 2022,
+      "month": 4,
+      "day": 20
+    },
+    "time": "több nap",
+    "tools": false,
+    "wage": "Egyéb",
+    "amount": 27216,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c673",
+    "worker_user": "62b9115ba96eee70e622c635"
+  },
+  {
+    "title": "Fűnyírás",
+    "category": "62b8864e53a753362366a48e",
+    "description": "Pariatur consequat commodo est eu reprehenderit amet proident Lorem dolor ipsum pariatur ipsum. Aliquip eu consequat occaecat pariatur labore. Elit nostrud deserunt aliqua pariatur sint reprehenderit et labore enim adipisicing voluptate. Sunt elit labore ullamco tempor commodo minim labore minim incididunt tempor. Do commodo tempor qui ex id fugiat exercitation reprehenderit sint nulla veniam ex labore id.\r\n",
+    "settlement": "Kisnána",
+    "date": {
+      "year": 2022,
+      "month": 4,
+      "day": 9
+    },
+    "time": "1-2 óra",
+    "tools": true,
+    "wage": "Órabér",
+    "amount": 3691,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c64d",
+    "worker_user": "62b9115ba96eee70e622c67d"
+  },
+  {
+    "title": "Locsolás",
+    "category": "62b8867453a753362366a492",
+    "description": "Duis excepteur elit mollit ipsum voluptate exercitation consequat commodo culpa sit. Reprehenderit anim id aute voluptate ex elit eu deserunt do ea officia non. Non sunt nisi tempor ex aute ipsum incididunt eu eu adipisicing nisi et. Culpa laborum sint deserunt magna esse. Quis id veniam reprehenderit cupidatat nisi qui ad elit nulla. Fugiat officia duis eu elit. Est mollit sit elit magna laborum nostrud nostrud dolor occaecat ad non occaecat.\r\n",
+    "settlement": "Tarnalelesz",
     "date": {
       "year": 2022,
       "month": 8,
-      "day": 22
+      "day": 16
     },
-    "time": "5-8 óra",
-    "tools": false,
-    "wage": "Órabér",
-    "amount": 22857,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e979f4",
-    "worker_user": "62b87783dd3ae30ae0e97ace"
-  },
-  {
-    "title": "Kerítés javítás",
-    "description": "Amet veniam ut id culpa sunt id exercitation sunt irure aliquip duis tempor Lorem. Excepteur adipisicing est non enim nisi non adipisicing. Proident exercitation in proident ad.\r\n",
-    "settlement": "Abasár",
-    "date": {
-      "year": 2022,
-      "month": 7,
-      "day": 5
-    },
-    "time": "5-8 óra",
+    "time": "több nap",
     "tools": true,
     "wage": "Órabér",
-    "amount": 6668,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97af4",
-    "worker_user": "62b87783dd3ae30ae0e97ac6"
+    "amount": 21140,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c651",
+    "worker_user": "62b9115ba96eee70e622c667"
   },
   {
-    "title": "Bolti bevásárlás",
-    "description": "In sunt aute ut dolor velit exercitation dolor dolore dolor cillum elit et. Voluptate consectetur mollit excepteur labore exercitation sint aliqua duis est occaecat deserunt ea fugiat. Ipsum veniam enim do quis dolor duis anim et consectetur non. Enim eiusmod anim est commodo ex.\r\n",
-    "settlement": "Szilvásvárad",
+    "title": "Zárcsere",
+    "category": "62b885ec53a753362366a486",
+    "description": "Ipsum fugiat consequat ea reprehenderit ea Lorem esse voluptate ad. Non consequat ea labore sint eu exercitation adipisicing do aliqua commodo tempor exercitation deserunt. Culpa reprehenderit proident consectetur ut laborum esse. Ipsum elit quis ullamco eiusmod do ad. Minim dolor aliquip ex commodo anim est sit nostrud minim. Nostrud est mollit fugiat commodo ipsum. Est ipsum voluptate cupidatat excepteur dolor ut.\r\n",
+    "settlement": "Atkár",
+    "date": {
+      "year": 2022,
+      "month": 8,
+      "day": 26
+    },
+    "time": "több nap",
+    "tools": false,
+    "wage": "Egyéb",
+    "amount": 21470,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c63f",
+    "worker_user": "62b9115ba96eee70e622c63f"
+  },
+  {
+    "title": "Gyűmölcs szüret",
+    "category": "62b886c853a753362366a49e",
+    "description": "Proident culpa commodo velit culpa officia. Labore tempor quis magna veniam proident incididunt aliqua nostrud nostrud deserunt. In amet enim do sint nostrud pariatur. Exercitation sint in consectetur nostrud reprehenderit esse cillum ullamco in. Nisi velit sunt laboris mollit et nisi officia proident in aliqua.\r\n",
+    "settlement": "Verpelét",
+    "date": {
+      "year": 2022,
+      "month": 5,
+      "day": 18
+    },
+    "time": "1-2 óra",
+    "tools": false,
+    "wage": "Órabér",
+    "amount": 2713,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c683",
+    "worker_user": "62b9115ba96eee70e622c66b"
+  },
+  {
+    "title": "Nagytakarítás",
+    "category": "62b8860353a753362366a48a",
+    "description": "Irure ut Lorem excepteur Lorem exercitation enim velit et adipisicing laborum deserunt dolor aliquip. Aute nulla officia cillum excepteur aliquip id incididunt. Eiusmod dolor duis tempor irure culpa proident ex. Ipsum non excepteur in sunt anim mollit occaecat mollit aliquip nulla tempor. Lorem mollit eu esse elit veniam esse culpa ea pariatur id cupidatat. Dolore ipsum enim nostrud est. Velit irure quis ad minim est do exercitation cupidatat est eu id nisi.\r\n",
+    "settlement": "Tarnalelesz",
+    "date": {
+      "year": 2022,
+      "month": 4,
+      "day": 8
+    },
+    "time": "3-5 óra",
+    "tools": false,
+    "wage": "Egyéb",
+    "amount": 24200,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c67b",
+    "worker_user": "62b9115ba96eee70e622c67b"
+  },
+  {
+    "title": "Locsolás",
+    "category": "62b8868a53a753362366a496",
+    "description": "Ea et ex enim est ut ea ea velit irure reprehenderit laborum reprehenderit anim. Id cupidatat laboris amet commodo amet adipisicing. Est do deserunt officia et consequat adipisicing deserunt cupidatat aliquip eu aute enim exercitation officia. Ut do id ipsum fugiat laborum commodo. Dolore eiusmod duis dolore labore occaecat laboris sunt fugiat velit. Et duis aliqua nulla cupidatat.\r\n",
+    "settlement": "Nagyvisnyó",
     "date": {
       "year": 2022,
       "month": 7,
-      "day": 5
+      "day": 15
+    },
+    "time": "1-2 óra",
+    "tools": false,
+    "wage": "Egyéb",
+    "amount": 17094,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c635",
+    "worker_user": "62b9115ba96eee70e622c655"
+  },
+  {
+    "title": "Locsolás",
+    "category": "62b885c053a753362366a482",
+    "description": "Ad dolor consequat nulla sunt irure in mollit veniam eu sunt nulla eu. Consequat officia ullamco aliqua duis nostrud. Est id ut esse adipisicing in cupidatat. Reprehenderit aliquip ea occaecat consectetur elit pariatur Lorem amet duis. Magna anim Lorem laboris ipsum incididunt Lorem magna cupidatat ullamco id culpa consequat.\r\n",
+    "settlement": "Egercsehi",
+    "date": {
+      "year": 2022,
+      "month": 4,
+      "day": 29
+    },
+    "time": "több nap",
+    "tools": true,
+    "wage": "Egyéb",
+    "amount": 16985,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c641",
+    "worker_user": "62b9115ba96eee70e622c673"
+  },
+  {
+    "title": "Polc felfúrás",
+    "category": "62b8868a53a753362366a496",
+    "description": "Do sint irure exercitation culpa pariatur officia ea nulla excepteur aute ut exercitation duis. Incididunt dolor duis occaecat quis fugiat non ea minim enim consequat dolore. Officia cupidatat exercitation duis sunt tempor dolor velit laboris dolore magna eiusmod id velit. Proident sit fugiat cillum labore. Aliquip et reprehenderit laborum ipsum est duis ea aute. Culpa laborum eu minim cillum duis duis cillum Lorem dolore dolor tempor. Ullamco enim velit voluptate amet.\r\n",
+    "settlement": "Maklár",
+    "date": {
+      "year": 2022,
+      "month": 4,
+      "day": 20
     },
     "time": "3-5 óra",
     "tools": true,
     "wage": "Egyéb",
-    "amount": 16790,
+    "amount": 13685,
     "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a50",
-    "worker_user": "62b87783dd3ae30ae0e97a7c"
+    "editor_user": "62b9115ba96eee70e622c667",
+    "worker_user": "62b9115ba96eee70e622c661"
   },
   {
-    "title": "Takarítás",
-    "description": "Elit ullamco velit in elit occaecat. Proident amet quis exercitation ad sunt fugiat labore dolore eu elit aliqua sunt esse. Anim cupidatat esse qui ut non id cupidatat sunt fugiat dolor eiusmod in nisi. Amet enim officia anim reprehenderit. Incididunt enim reprehenderit fugiat voluptate esse occaecat irure aliqua. Nisi sunt irure fugiat aliqua duis qui ex commodo esse.\r\n",
-    "settlement": "Kerecsend",
+    "title": "Gyomlálás",
+    "category": "62b8867453a753362366a492",
+    "description": "Sunt proident quis velit eu labore occaecat ipsum. Sint duis voluptate deserunt quis irure sit non quis. Aliquip ea excepteur pariatur est veniam adipisicing excepteur. Culpa laboris commodo tempor ut mollit anim officia laboris qui. Laboris fugiat in aliquip velit eu sit aliquip officia ea.\r\n",
+    "settlement": "Nagyvisnyó",
+    "date": {
+      "year": 2022,
+      "month": 6,
+      "day": 28
+    },
+    "time": "kevesebb 1 óránál",
+    "tools": true,
+    "wage": "Fix összeg",
+    "amount": 25860,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c661",
+    "worker_user": "62b9115ba96eee70e622c67b"
+  },
+  {
+    "title": "Konnektor csere",
+    "category": "62b8858a53a753362366a47e",
+    "description": "Ea amet nulla aute deserunt ea pariatur voluptate culpa elit irure aute commodo nostrud in. Ullamco consequat dolore quis reprehenderit tempor officia nisi deserunt exercitation laborum. Labore anim veniam sunt in reprehenderit duis consectetur.\r\n",
+    "settlement": "Pétervására",
+    "date": {
+      "year": 2022,
+      "month": 6,
+      "day": 20
+    },
+    "time": "több nap",
+    "tools": false,
+    "wage": "Egyéb",
+    "amount": 18572,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c67b",
+    "worker_user": "62b9115ba96eee70e622c637"
+  },
+  {
+    "title": "Medence tisztítás",
+    "category": "62b886ba53a753362366a49a",
+    "description": "Magna sunt occaecat veniam exercitation. Aute reprehenderit qui laborum minim aliqua aute ad pariatur. Occaecat fugiat ad elit reprehenderit incididunt sint nostrud reprehenderit in esse anim fugiat enim sit.\r\n",
+    "settlement": "Sirok",
+    "date": {
+      "year": 2022,
+      "month": 7,
+      "day": 29
+    },
+    "time": "több nap",
+    "tools": false,
+    "wage": "Órabér",
+    "amount": 18445,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c673",
+    "worker_user": "62b9115ba96eee70e622c645"
+  },
+  {
+    "title": "Dugulás elhárítás",
+    "category": "62b886ba53a753362366a49a",
+    "description": "Quis ipsum aute dolore in dolore magna duis ex ea Lorem laboris ex ex aute. Reprehenderit sint dolore excepteur elit ipsum et officia minim veniam commodo. Consectetur sint ex culpa officia commodo nisi Lorem nisi. Mollit tempor eiusmod ad ex ut pariatur qui nostrud proident sint. Magna laborum eiusmod tempor quis esse ullamco.\r\n",
+    "settlement": "Pétervására",
+    "date": {
+      "year": 2022,
+      "month": 7,
+      "day": 24
+    },
+    "time": "több nap",
+    "tools": true,
+    "wage": "Órabér",
+    "amount": 25170,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c683",
+    "worker_user": "62b9115ba96eee70e622c67d"
+  },
+  {
+    "title": "Képek felfúrása",
+    "category": "62b8860353a753362366a48a",
+    "description": "Enim eiusmod voluptate ullamco reprehenderit ullamco non nisi qui voluptate do non. Amet adipisicing elit enim occaecat qui quis ipsum nostrud amet sunt non sit Lorem sunt. Do tempor sit incididunt nisi eiusmod ex id dolor velit eiusmod ad reprehenderit. Excepteur sunt ad est sit anim laboris pariatur labore anim proident ad.\r\n",
+    "settlement": "Egerszalók",
+    "date": {
+      "year": 2022,
+      "month": 4,
+      "day": 6
+    },
+    "time": "több nap",
+    "tools": true,
+    "wage": "Fix összeg",
+    "amount": 6009,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c67d",
+    "worker_user": "62b9115ba96eee70e622c655"
+  },
+  {
+    "title": "Növény átültetés",
+    "category": "62b8868a53a753362366a496",
+    "description": "Labore culpa elit tempor commodo fugiat aliquip ipsum. Sit ullamco est sit reprehenderit do duis culpa. Nulla sit exercitation esse cillum id mollit amet excepteur. Mollit ipsum Lorem id duis excepteur laborum aliqua fugiat est.\r\n",
+    "settlement": "Egerszalók",
+    "date": {
+      "year": 2022,
+      "month": 8,
+      "day": 20
+    },
+    "time": "3-5 óra",
+    "tools": false,
+    "wage": "Órabér",
+    "amount": 13182,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c63f",
+    "worker_user": "62b9115ba96eee70e622c645"
+  },
+  {
+    "title": "Favágás",
+    "category": "62b8868a53a753362366a496",
+    "description": "Nostrud esse aute aliqua ut sint eu. Cillum nisi nostrud velit minim consectetur excepteur reprehenderit. Veniam tempor mollit reprehenderit ut quis duis sit commodo reprehenderit adipisicing minim dolor. Laboris aute dolore velit ut id ipsum dolore sit cupidatat sunt nostrud sit.\r\n",
+    "settlement": "Egerfarmos",
+    "date": {
+      "year": 2022,
+      "month": 8,
+      "day": 3
+    },
+    "time": "kevesebb 1 óránál",
+    "tools": true,
+    "wage": "Egyéb",
+    "amount": 9606,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c64b",
+    "worker_user": "62b9115ba96eee70e622c637"
+  },
+  {
+    "title": "Nagytakarítás",
+    "category": "62b8860353a753362366a48a",
+    "description": "Sint elit reprehenderit consequat sit exercitation in ad nulla do id velit. Deserunt ea minim cillum et. Mollit aute eiusmod commodo occaecat. Velit ipsum est sint cupidatat aliqua commodo aliquip. Culpa cillum tempor ipsum reprehenderit. Enim enim minim sint reprehenderit excepteur deserunt officia labore enim nostrud. Cupidatat quis ullamco nostrud aliquip velit amet labore irure non.\r\n",
+    "settlement": "Kisnána",
+    "date": {
+      "year": 2022,
+      "month": 4,
+      "day": 30
+    },
+    "time": "több nap",
+    "tools": true,
+    "wage": "Fix összeg",
+    "amount": 14346,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c637",
+    "worker_user": "62b9115ba96eee70e622c63f"
+  },
+  {
+    "title": "Képek felfúrása",
+    "category": "62b8858a53a753362366a47e",
+    "description": "Labore esse in nostrud sunt sunt non amet laborum fugiat incididunt minim proident voluptate. Quis dolor excepteur non mollit. Enim aute sunt magna aute pariatur excepteur aliquip et laboris. Ullamco reprehenderit enim occaecat magna ut fugiat id sit.\r\n",
+    "settlement": "Mikófalva",
     "date": {
       "year": 2022,
       "month": 5,
       "day": 13
     },
-    "time": "3-5 óra",
+    "time": "2-3 óra",
     "tools": true,
-    "wage": "Órabér",
-    "amount": 8829,
+    "wage": "Fix összeg",
+    "amount": 6020,
     "active": true,
-    "editor_user": "62b87783dd3ae30ae0e979f8",
-    "worker_user": "62b87783dd3ae30ae0e979da"
+    "editor_user": "62b9115ba96eee70e622c67d",
+    "worker_user": "62b9115ba96eee70e622c63d"
+  },
+  {
+    "title": "Képek felfúrása",
+    "category": "62b8867453a753362366a492",
+    "description": "Quis laboris eu quis est ea non duis cillum. Minim irure consectetur deserunt magna magna fugiat deserunt officia nostrud exercitation. Amet labore velit quis sit. Id eiusmod anim consequat ea pariatur voluptate. Commodo anim occaecat incididunt labore. Nostrud deserunt voluptate excepteur proident ad nostrud sit reprehenderit in proident sunt.\r\n",
+    "settlement": "Adács",
+    "date": {
+      "year": 2022,
+      "month": 6,
+      "day": 12
+    },
+    "time": "3-5 óra",
+    "tools": false,
+    "wage": "Órabér",
+    "amount": 13961,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c67b",
+    "worker_user": "62b9115ba96eee70e622c63f"
+  },
+  {
+    "title": "Gyomlálás",
+    "category": "62b885c053a753362366a482",
+    "description": "Consectetur laboris fugiat cillum ea esse ut. Qui commodo do consequat reprehenderit duis do cillum ipsum nulla anim. Ut deserunt Lorem minim aliquip officia fugiat. Officia occaecat ad ea minim. Ut aliquip commodo consequat enim fugiat dolore sint enim et magna qui ut et fugiat.\r\n",
+    "settlement": "Noszvaj",
+    "date": {
+      "year": 2022,
+      "month": 5,
+      "day": 1
+    },
+    "time": "5-8 óra",
+    "tools": false,
+    "wage": "Fix összeg",
+    "amount": 13872,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c641",
+    "worker_user": "62b9115ba96eee70e622c661"
+  },
+  {
+    "title": "Fűnyírás",
+    "category": "62b885c053a753362366a482",
+    "description": "Proident ex qui anim enim nisi officia mollit id commodo excepteur minim. Dolor sit laboris occaecat duis aute duis commodo. Ut culpa aliqua commodo minim fugiat mollit deserunt id Lorem. Cillum exercitation qui exercitation et nostrud irure. Laboris ea ipsum do adipisicing velit laboris velit reprehenderit et.\r\n",
+    "settlement": "Besenyőtelek",
+    "date": {
+      "year": 2022,
+      "month": 4,
+      "day": 5
+    },
+    "time": "5-8 óra",
+    "tools": true,
+    "wage": "Fix összeg",
+    "amount": 13497,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c64d",
+    "worker_user": "62b9115ba96eee70e622c67b"
+  },
+  {
+    "title": "Gyomlálás",
+    "category": "62b885c053a753362366a482",
+    "description": "Eiusmod irure nulla aute tempor est. Voluptate ut aliquip reprehenderit non consectetur labore nostrud. Adipisicing velit do sint laborum eu ad minim cupidatat. Occaecat aliquip sit exercitation amet occaecat dolor exercitation cupidatat consequat. Lorem cillum minim proident esse.\r\n",
+    "settlement": "Recsk",
+    "date": {
+      "year": 2022,
+      "month": 4,
+      "day": 2
+    },
+    "time": "kevesebb 1 óránál",
+    "tools": true,
+    "wage": "Egyéb",
+    "amount": 11614,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c63f",
+    "worker_user": "62b9115ba96eee70e622c66d"
   },
   {
     "title": "Gyűmölcs szüret",
-    "description": "Laboris aute adipisicing id adipisicing occaecat consequat aliquip consequat esse et ut Lorem sunt incididunt. Duis cupidatat incididunt in aute veniam eu Lorem non id anim anim in id. Incididunt id non minim do do aute duis id in aute. Labore pariatur esse culpa consectetur dolore non minim dolor enim aliqua.\r\n",
+    "category": "62b8868a53a753362366a496",
+    "description": "Voluptate consectetur labore officia eiusmod ullamco magna sit voluptate. Nulla aute cupidatat do irure. Exercitation sint dolore irure esse sint pariatur ullamco enim fugiat et laboris et ad labore. Pariatur excepteur velit commodo labore.\r\n",
+    "settlement": "Mikófalva",
+    "date": {
+      "year": 2022,
+      "month": 6,
+      "day": 29
+    },
+    "time": "1-2 óra",
+    "tools": true,
+    "wage": "Egyéb",
+    "amount": 4368,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c673",
+    "worker_user": "62b9115ba96eee70e622c645"
+  },
+  {
+    "title": "Kutya sétáltatás",
+    "category": "62b8867453a753362366a492",
+    "description": "Id proident velit in ex voluptate nisi ad ullamco est. Sunt consectetur reprehenderit nostrud reprehenderit dolor ipsum. Veniam proident minim minim pariatur laborum sunt proident ad esse nulla laborum proident exercitation. Laborum fugiat ipsum laboris labore nostrud in veniam. Voluptate nostrud commodo ipsum ut enim id nulla proident ex est minim dolor aliqua. Irure aliqua ipsum est minim est nisi laborum minim nostrud et aute minim labore.\r\n",
+    "settlement": "Parád",
+    "date": {
+      "year": 2022,
+      "month": 5,
+      "day": 16
+    },
+    "time": "3-5 óra",
+    "tools": true,
+    "wage": "Órabér",
+    "amount": 4840,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c64d",
+    "worker_user": "62b9115ba96eee70e622c673"
+  },
+  {
+    "title": "Gyomlálás",
+    "category": "62b8867453a753362366a492",
+    "description": "Do sit exercitation id eu exercitation aute non eu esse nisi nulla ipsum consectetur. Nostrud aliqua quis ad cupidatat dolore ex consequat. Sunt est velit reprehenderit aliquip mollit enim eiusmod consequat. Adipisicing amet dolor amet eiusmod.\r\n",
+    "settlement": "Tarnaszentmária",
+    "date": {
+      "year": 2022,
+      "month": 7,
+      "day": 17
+    },
+    "time": "3-5 óra",
+    "tools": false,
+    "wage": "Egyéb",
+    "amount": 10310,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c64b",
+    "worker_user": "62b9115ba96eee70e622c641"
+  },
+  {
+    "title": "Kerítés javítás",
+    "category": "62b8867453a753362366a492",
+    "description": "Occaecat cupidatat ullamco aliquip ut dolore mollit ad. Tempor cupidatat esse esse proident incididunt minim adipisicing exercitation minim. Eiusmod ex sit irure aliqua est reprehenderit occaecat elit commodo ex esse cillum occaecat velit.\r\n",
+    "settlement": "Egerbakta",
+    "date": {
+      "year": 2022,
+      "month": 7,
+      "day": 17
+    },
+    "time": "több nap",
+    "tools": true,
+    "wage": "Órabér",
+    "amount": 19814,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c655",
+    "worker_user": "62b9115ba96eee70e622c683"
+  },
+  {
+    "title": "Medence tisztítás",
+    "category": "62b8864e53a753362366a48e",
+    "description": "Proident aute ut sunt exercitation. Qui amet incididunt officia ipsum dolor cillum magna voluptate nulla. Sit velit in officia sunt. Proident eu duis irure id nulla aute proident ad ad.\r\n",
+    "settlement": "Nagyvisnyó",
+    "date": {
+      "year": 2022,
+      "month": 5,
+      "day": 14
+    },
+    "time": "3-5 óra",
+    "tools": false,
+    "wage": "Fix összeg",
+    "amount": 25088,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c65d",
+    "worker_user": "62b9115ba96eee70e622c683"
+  },
+  {
+    "title": "Zárcsere",
+    "category": "62b885c053a753362366a482",
+    "description": "Irure ad id officia magna labore et mollit. In fugiat qui est dolor ut nostrud cillum laboris consectetur elit enim amet fugiat anim. Incididunt laboris commodo adipisicing pariatur aliqua et eiusmod et cillum incididunt. Eu esse minim cillum fugiat dolor Lorem labore ad laborum adipisicing tempor. Consectetur reprehenderit consectetur consequat magna sint exercitation velit ex. Amet Lorem labore Lorem velit. Magna aliqua nisi adipisicing aute anim dolore laborum irure ad.\r\n",
+    "settlement": "Szilvásvárad",
+    "date": {
+      "year": 2022,
+      "month": 8,
+      "day": 26
+    },
+    "time": "3-5 óra",
+    "tools": true,
+    "wage": "Fix összeg",
+    "amount": 28766,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c651",
+    "worker_user": "62b9115ba96eee70e622c66b"
+  },
+  {
+    "title": "Polc felfúrás",
+    "category": "62b885c053a753362366a482",
+    "description": "Veniam excepteur et laborum tempor nostrud sint laborum consequat non. Veniam ipsum labore officia cupidatat et exercitation adipisicing. Aute consequat ex culpa sint voluptate. Sit proident anim ut id Lorem. Esse proident qui sint est. Labore ex officia tempor pariatur duis excepteur velit reprehenderit irure.\r\n",
+    "settlement": "Tarnalelesz",
+    "date": {
+      "year": 2022,
+      "month": 5,
+      "day": 30
+    },
+    "time": "3-5 óra",
+    "tools": false,
+    "wage": "Fix összeg",
+    "amount": 2429,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c683",
+    "worker_user": "62b9115ba96eee70e622c673"
+  },
+  {
+    "title": "Locsolás",
+    "category": "62b886ba53a753362366a49a",
+    "description": "Consectetur enim consectetur dolor Lorem pariatur anim non ipsum ea Lorem ullamco eu tempor. Ea eu ea ut magna. Anim consectetur ullamco in qui veniam dolore ad. Tempor dolore id nisi in et nostrud ut ad consequat.\r\n",
+    "settlement": "Parád",
+    "date": {
+      "year": 2022,
+      "month": 5,
+      "day": 29
+    },
+    "time": "3-5 óra",
+    "tools": true,
+    "wage": "Fix összeg",
+    "amount": 27946,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c66d",
+    "worker_user": "62b9115ba96eee70e622c635"
+  },
+  {
+    "title": "Szőnyegtisztítás",
+    "category": "62b886c853a753362366a49e",
+    "description": "Aliquip aute voluptate magna eiusmod dolore Lorem ex consectetur adipisicing non ea ea. In mollit Lorem eiusmod eiusmod reprehenderit id culpa cillum sint eu Lorem quis. Fugiat laboris labore fugiat officia non ipsum sit cupidatat ipsum et reprehenderit adipisicing ullamco occaecat. Officia deserunt sint qui incididunt esse sit veniam excepteur velit ipsum laboris consectetur ipsum ut. Irure nisi ipsum nulla enim irure consectetur consequat deserunt dolor ipsum ad occaecat. Esse sint ea duis consequat.\r\n",
+    "settlement": "Andornaktálya",
+    "date": {
+      "year": 2022,
+      "month": 8,
+      "day": 11
+    },
+    "time": "1-2 óra",
+    "tools": false,
+    "wage": "Egyéb",
+    "amount": 17832,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c651",
+    "worker_user": "62b9115ba96eee70e622c637"
+  },
+  {
+    "title": "Eresztisztítás",
+    "category": "62b8867453a753362366a492",
+    "description": "Ut et minim pariatur duis dolore id. Enim exercitation fugiat id est enim veniam cupidatat do elit. Consequat tempor deserunt amet ex nulla nulla nisi eiusmod consectetur commodo aute occaecat.\r\n",
+    "settlement": "Kisnána",
+    "date": {
+      "year": 2022,
+      "month": 7,
+      "day": 13
+    },
+    "time": "több nap",
+    "tools": false,
+    "wage": "Fix összeg",
+    "amount": 15226,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c64b",
+    "worker_user": "62b9115ba96eee70e622c67d"
+  },
+  {
+    "title": "Konnektor csere",
+    "category": "62b885c053a753362366a482",
+    "description": "Esse cillum ex minim culpa labore laborum aliquip fugiat reprehenderit enim ut. Anim fugiat consequat aute dolor. Consequat culpa in excepteur incididunt cillum.\r\n",
+    "settlement": "Bátor",
+    "date": {
+      "year": 2022,
+      "month": 6,
+      "day": 20
+    },
+    "time": "3-5 óra",
+    "tools": true,
+    "wage": "Fix összeg",
+    "amount": 9583,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c64d",
+    "worker_user": "62b9115ba96eee70e622c673"
+  },
+  {
+    "title": "Locsolás",
+    "category": "62b885c053a753362366a482",
+    "description": "Do fugiat deserunt est eu deserunt adipisicing eu in dolor ullamco fugiat labore. Eu minim elit qui aute id quis. Consequat dolore velit ullamco nostrud. Sit duis incididunt dolor sint eu anim proident exercitation dolore. Labore nostrud ipsum proident veniam nulla officia adipisicing reprehenderit. Ex esse consectetur reprehenderit labore ut dolor sit aute sint ipsum irure. Pariatur qui proident est minim magna excepteur excepteur irure fugiat non est incididunt amet aute.\r\n",
+    "settlement": "Eger",
+    "date": {
+      "year": 2022,
+      "month": 7,
+      "day": 29
+    },
+    "time": "1-2 óra",
+    "tools": true,
+    "wage": "Egyéb",
+    "amount": 28799,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c667",
+    "worker_user": "62b9115ba96eee70e622c683"
+  },
+  {
+    "title": "Kerítés javítás",
+    "category": "62b885c053a753362366a482",
+    "description": "Dolore deserunt aliqua sit nisi adipisicing sunt Lorem. Incididunt amet amet excepteur eiusmod. Id est quis ut nisi aliquip eu ullamco sit adipisicing. Consequat laboris officia deserunt magna enim. Pariatur cillum ea aliqua ad sit sit id ex aliqua aliqua. Ad quis aliqua occaecat magna.\r\n",
+    "settlement": "Szilvásvárad",
+    "date": {
+      "year": 2022,
+      "month": 7,
+      "day": 16
+    },
+    "time": "3-5 óra",
+    "tools": false,
+    "wage": "Egyéb",
+    "amount": 18045,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c645",
+    "worker_user": "62b9115ba96eee70e622c673"
+  },
+  {
+    "title": "Favágás",
+    "category": "62b885ec53a753362366a486",
+    "description": "Adipisicing ullamco ex in magna aute proident ullamco enim pariatur qui ut. Est est qui pariatur aliqua quis. Qui eiusmod dolore exercitation amet do nulla consectetur esse qui.\r\n",
+    "settlement": "Pétervására",
+    "date": {
+      "year": 2022,
+      "month": 5,
+      "day": 24
+    },
+    "time": "több nap",
+    "tools": false,
+    "wage": "Egyéb",
+    "amount": 21638,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c655",
+    "worker_user": "62b9115ba96eee70e622c63f"
+  },
+  {
+    "title": "Ablak tisztítás",
+    "category": "62b885ec53a753362366a486",
+    "description": "Velit qui ad ea cillum nisi occaecat adipisicing cillum deserunt voluptate pariatur do veniam aliquip. Anim sunt veniam consequat ad officia quis consectetur Lorem id mollit. Enim incididunt esse enim reprehenderit cillum pariatur ut nisi qui reprehenderit occaecat. Ipsum cillum qui id fugiat nostrud cupidatat ut nulla adipisicing consectetur culpa consequat.\r\n",
+    "settlement": "Poroszló",
+    "date": {
+      "year": 2022,
+      "month": 5,
+      "day": 27
+    },
+    "time": "3-5 óra",
+    "tools": false,
+    "wage": "Fix összeg",
+    "amount": 14251,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c667",
+    "worker_user": "62b9115ba96eee70e622c641"
+  },
+  {
+    "title": "Locsolás",
+    "category": "62b885c053a753362366a482",
+    "description": "Ipsum veniam consequat velit cupidatat commodo ut tempor sunt culpa pariatur ea Lorem tempor. Cillum irure commodo nisi duis elit minim Lorem proident. Labore aute incididunt consectetur deserunt sunt aute esse ea consectetur dolore dolor anim. Sit aliqua sit sit deserunt nulla consectetur. Amet dolor cillum amet Lorem velit ex deserunt enim sint. Nostrud quis ipsum veniam laboris qui veniam dolor ipsum labore.\r\n",
+    "settlement": "Tenk",
+    "date": {
+      "year": 2022,
+      "month": 7,
+      "day": 4
+    },
+    "time": "2-3 óra",
+    "tools": true,
+    "wage": "Egyéb",
+    "amount": 11150,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c673",
+    "worker_user": "62b9115ba96eee70e622c63f"
+  },
+  {
+    "title": "Eresztisztítás",
+    "category": "62b886ba53a753362366a49a",
+    "description": "Do nostrud do proident Lorem labore dolor aliqua ipsum irure et ut. Velit laboris tempor tempor ullamco dolor reprehenderit laboris ullamco anim excepteur nulla exercitation adipisicing. Qui in deserunt nisi fugiat qui elit magna do occaecat labore. In incididunt ea velit culpa quis ipsum excepteur. Aliquip incididunt do duis est id.\r\n",
+    "settlement": "Bátor",
+    "date": {
+      "year": 2022,
+      "month": 4,
+      "day": 27
+    },
+    "time": "2-3 óra",
+    "tools": true,
+    "wage": "Órabér",
+    "amount": 12040,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c66d",
+    "worker_user": "62b9115ba96eee70e622c63f"
+  },
+  {
+    "title": "Költöztetés",
+    "category": "62b8867453a753362366a492",
+    "description": "Velit mollit nisi nulla dolore cupidatat officia ullamco aliqua. Adipisicing esse enim amet est consectetur consectetur Lorem laboris qui ut. Eu mollit irure minim laborum aliquip ad sit Lorem cupidatat reprehenderit et. Irure pariatur velit sunt ex anim excepteur aliquip consequat enim eiusmod excepteur. Tempor est commodo irure ullamco magna ex. Amet elit dolor aliqua ut esse aliquip velit cupidatat quis ipsum laborum duis magna commodo.\r\n",
+    "settlement": "Mikófalva",
+    "date": {
+      "year": 2022,
+      "month": 8,
+      "day": 7
+    },
+    "time": "1-2 óra",
+    "tools": false,
+    "wage": "Órabér",
+    "amount": 1719,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c677",
+    "worker_user": "62b9115ba96eee70e622c64d"
+  },
+  {
+    "title": "Bútor összeszerelés",
+    "category": "62b8868a53a753362366a496",
+    "description": "Cupidatat nulla aute irure cupidatat officia minim anim proident adipisicing ex. Ea eu voluptate labore cillum enim aute nostrud qui deserunt qui. Adipisicing ipsum dolor dolore ut aute.\r\n",
+    "settlement": "Nagyvisnyó",
+    "date": {
+      "year": 2022,
+      "month": 6,
+      "day": 12
+    },
+    "time": "több nap",
+    "tools": false,
+    "wage": "Fix összeg",
+    "amount": 3341,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c67d",
+    "worker_user": "62b9115ba96eee70e622c673"
+  },
+  {
+    "title": "Konnektor csere",
+    "category": "62b886c853a753362366a49e",
+    "description": "Eu ad velit adipisicing occaecat sunt ad cupidatat voluptate. Labore officia aute et voluptate adipisicing. Lorem aliqua in et non culpa. Pariatur aute Lorem sunt enim culpa nisi consectetur labore eu dolor. Cillum culpa voluptate Lorem magna reprehenderit in eiusmod veniam enim. Et labore adipisicing eu consectetur cillum dolor do id ex elit.\r\n",
+    "settlement": "Mikófalva",
+    "date": {
+      "year": 2022,
+      "month": 8,
+      "day": 12
+    },
+    "time": "kevesebb 1 óránál",
+    "tools": true,
+    "wage": "Egyéb",
+    "amount": 28632,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c661",
+    "worker_user": "62b9115ba96eee70e622c683"
+  },
+  {
+    "title": "Favágás",
+    "category": "62b8864e53a753362366a48e",
+    "description": "Sunt est labore ullamco nisi pariatur occaecat veniam deserunt labore sunt nostrud. Veniam duis veniam qui adipisicing minim esse dolore veniam laboris anim. Et id incididunt ad excepteur duis dolor. Exercitation enim sunt sint qui proident occaecat commodo nostrud cillum eu non eu duis deserunt. Pariatur pariatur esse Lorem dolore cillum tempor consequat quis anim quis consectetur reprehenderit et. Aliquip qui laborum nisi excepteur magna enim officia sint amet eiusmod irure cupidatat aliqua sit.\r\n",
+    "settlement": "Egerszalók",
+    "date": {
+      "year": 2022,
+      "month": 8,
+      "day": 8
+    },
+    "time": "több nap",
+    "tools": true,
+    "wage": "Órabér",
+    "amount": 1582,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c637",
+    "worker_user": "62b9115ba96eee70e622c67b"
+  },
+  {
+    "title": "Vírusírtás",
+    "category": "62b8860353a753362366a48a",
+    "description": "Irure ea nisi enim consequat nostrud voluptate excepteur consequat dolore ipsum officia. Aliquip nulla labore ullamco officia. In consectetur ullamco consequat tempor fugiat. Ex consequat commodo mollit culpa veniam fugiat tempor ullamco. Exercitation laboris laborum tempor dolore consectetur commodo sunt laborum do Lorem. In labore eu id cupidatat ipsum proident laboris esse fugiat mollit. Et laboris aute adipisicing qui et enim id excepteur anim.\r\n",
+    "settlement": "Szarvaskő",
+    "date": {
+      "year": 2022,
+      "month": 5,
+      "day": 7
+    },
+    "time": "2-3 óra",
+    "tools": false,
+    "wage": "Fix összeg",
+    "amount": 26584,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c66d",
+    "worker_user": "62b9115ba96eee70e622c65d"
+  },
+  {
+    "title": "Locsolás",
+    "category": "62b886ba53a753362366a49a",
+    "description": "Proident ullamco sint culpa in ut occaecat ea eiusmod occaecat. Consequat fugiat eiusmod amet quis deserunt nulla eu excepteur aute et irure magna duis. Deserunt tempor labore in irure.\r\n",
+    "settlement": "Kál",
+    "date": {
+      "year": 2022,
+      "month": 4,
+      "day": 26
+    },
+    "time": "több nap",
+    "tools": true,
+    "wage": "Egyéb",
+    "amount": 28077,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c641",
+    "worker_user": "62b9115ba96eee70e622c655"
+  },
+  {
+    "title": "Konnektor csere",
+    "category": "62b885ec53a753362366a486",
+    "description": "Tempor in ea sit veniam nostrud nisi nulla eiusmod id ea consectetur consectetur occaecat. Est mollit laborum consectetur magna. Pariatur excepteur veniam esse exercitation commodo duis nisi non esse eiusmod Lorem do culpa. Ullamco irure cillum et proident non anim ex occaecat incididunt tempor.\r\n",
     "settlement": "Egerbakta",
     "date": {
       "year": 2022,
@@ -486,1217 +1523,280 @@
     },
     "time": "3-5 óra",
     "tools": true,
-    "wage": "Egyéb",
-    "amount": 17875,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a28",
-    "worker_user": "62b87783dd3ae30ae0e97a08"
-  },
-  {
-    "title": "Kerítés javítás",
-    "description": "Voluptate ad non officia ea nostrud sit duis enim minim exercitation consectetur ex. Tempor ex occaecat Lorem cupidatat ipsum pariatur. Qui reprehenderit officia ad consectetur proident eiusmod adipisicing. Irure amet anim ea quis quis quis ea commodo cupidatat voluptate occaecat non. Laborum ea do sunt aute do tempor in commodo ea velit sint eu ullamco.\r\n",
-    "settlement": "Pétervására",
-    "date": {
-      "year": 2022,
-      "month": 8,
-      "day": 12
-    },
-    "time": "3-5 óra",
-    "tools": true,
     "wage": "Órabér",
-    "amount": 16721,
+    "amount": 8296,
     "active": false,
-    "editor_user": "62b87783dd3ae30ae0e979da",
-    "worker_user": "62b87783dd3ae30ae0e97a9c"
+    "editor_user": "62b9115ba96eee70e622c667",
+    "worker_user": "62b9115ba96eee70e622c683"
   },
   {
-    "title": "Gyomlálás",
-    "description": "Nulla duis ad deserunt tempor quis nisi ad ipsum in ullamco officia non Lorem. Fugiat eu excepteur ipsum amet. Lorem sit eu ullamco culpa nisi.\r\n",
-    "settlement": "Poroszló",
-    "date": {
-      "year": 2022,
-      "month": 5,
-      "day": 29
-    },
-    "time": "5-8 óra",
-    "tools": false,
-    "wage": "Órabér",
-    "amount": 1578,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97ac6",
-    "worker_user": "62b87783dd3ae30ae0e97a4e"
-  },
-  {
-    "title": "Bútor összeszerelés",
-    "description": "Esse occaecat in est sit voluptate laboris in ullamco non. Dolor aliquip culpa eu laborum aute dolore culpa anim sunt incididunt excepteur laborum Lorem. Id labore veniam pariatur velit dolor mollit enim sunt esse consectetur. Sit eiusmod labore excepteur elit sit excepteur commodo elit laborum sint do. Veniam Lorem quis do est et proident aliquip veniam qui do amet.\r\n",
-    "settlement": "Füzesabony",
-    "date": {
-      "year": 2022,
-      "month": 4,
-      "day": 29
-    },
-    "time": "kevesebb 1 óránál",
-    "tools": false,
-    "wage": "Fix összeg",
-    "amount": 17725,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97a74",
-    "worker_user": "62b87783dd3ae30ae0e97a28"
-  },
-  {
-    "title": "Mosogatógép bekötés",
-    "description": "Consequat laboris nulla consequat voluptate non veniam exercitation irure anim laboris dolor. Ad occaecat ea consectetur occaecat. Culpa eiusmod fugiat fugiat sint. Deserunt magna consequat labore eu nulla nulla aliqua aliquip. Veniam velit fugiat sint laboris sit tempor proident occaecat. Tempor nulla ullamco tempor cillum amet dolor adipisicing enim non eiusmod duis ea.\r\n",
-    "settlement": "Eger",
+    "title": "Gyűmölcs szüret",
+    "category": "62b8858a53a753362366a47e",
+    "description": "Velit excepteur ipsum deserunt duis laborum culpa cillum fugiat commodo deserunt ullamco anim eiusmod laborum. In ea deserunt ut ut in ea culpa non. Culpa labore amet enim ad consequat Lorem ut. Eiusmod laboris id irure dolore non occaecat deserunt do excepteur sunt.\r\n",
+    "settlement": "Egerbakta",
     "date": {
       "year": 2022,
       "month": 7,
-      "day": 1
+      "day": 20
+    },
+    "time": "5-8 óra",
+    "tools": true,
+    "wage": "Órabér",
+    "amount": 15631,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c64b",
+    "worker_user": "62b9115ba96eee70e622c64d"
+  },
+  {
+    "title": "Eresztisztítás",
+    "category": "62b8858a53a753362366a47e",
+    "description": "Nisi aute amet eiusmod nulla nostrud dolore velit aliqua culpa nostrud est et irure velit. Reprehenderit deserunt anim cupidatat tempor enim reprehenderit dolor. Sint consequat velit mollit occaecat. Ullamco quis ea eu nisi voluptate ullamco. Pariatur dolor amet enim qui proident magna. Proident consectetur et reprehenderit Lorem laborum dolore laborum ullamco esse esse dolore. Ut cillum do incididunt esse excepteur.\r\n",
+    "settlement": "Visonta",
+    "date": {
+      "year": 2022,
+      "month": 4,
+      "day": 6
+    },
+    "time": "1-2 óra",
+    "tools": true,
+    "wage": "Órabér",
+    "amount": 1543,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c67b",
+    "worker_user": "62b9115ba96eee70e622c655"
+  },
+  {
+    "title": "Sövénynyírás",
+    "category": "62b8860353a753362366a48a",
+    "description": "Do culpa culpa ex ipsum voluptate et minim et. Eiusmod duis commodo officia cillum consequat ipsum tempor id elit ea minim esse. Voluptate exercitation nulla culpa exercitation cillum enim. Eiusmod ex labore excepteur consequat Lorem anim.\r\n",
+    "settlement": "Atkár",
+    "date": {
+      "year": 2022,
+      "month": 6,
+      "day": 2
     },
     "time": "2-3 óra",
     "tools": false,
-    "wage": "Órabér",
-    "amount": 14617,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97ac6",
-    "worker_user": "62b87783dd3ae30ae0e97a18"
+    "wage": "Egyéb",
+    "amount": 11079,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c63d",
+    "worker_user": "62b9115ba96eee70e622c64b"
   },
   {
-    "title": "Favágás",
-    "description": "Lorem officia incididunt et enim nisi. Ipsum officia consequat ad elit Lorem duis. Consectetur Lorem officia duis esse. Nostrud ad laborum voluptate enim.\r\n",
-    "settlement": "Felsőtárkány",
+    "title": "Konnektor csere",
+    "category": "62b8864e53a753362366a48e",
+    "description": "Eu ullamco dolor esse veniam dolor culpa fugiat Lorem eu sint ad voluptate. Aute est mollit labore incididunt nulla nisi aute et amet minim pariatur incididunt. Eiusmod aliqua minim voluptate ea est Lorem elit commodo in.\r\n",
+    "settlement": "Verpelét",
+    "date": {
+      "year": 2022,
+      "month": 4,
+      "day": 26
+    },
+    "time": "3-5 óra",
+    "tools": true,
+    "wage": "Egyéb",
+    "amount": 3017,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c637",
+    "worker_user": "62b9115ba96eee70e622c66b"
+  },
+  {
+    "title": "Nagytakarítás",
+    "category": "62b885c053a753362366a482",
+    "description": "Incididunt cupidatat duis labore proident duis ad anim proident. Duis dolore est eiusmod exercitation. Magna aliquip ea qui ullamco Lorem sit. Qui duis sint aliqua consequat aliquip aliqua. Eiusmod nisi reprehenderit sint aliquip nisi laboris qui. Aute tempor nostrud quis occaecat irure labore nostrud. Cupidatat ad exercitation ullamco commodo ea reprehenderit cillum enim esse velit nulla.\r\n",
+    "settlement": "Ostoros",
+    "date": {
+      "year": 2022,
+      "month": 8,
+      "day": 8
+    },
+    "time": "3-5 óra",
+    "tools": false,
+    "wage": "Fix összeg",
+    "amount": 21553,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c67d",
+    "worker_user": "62b9115ba96eee70e622c63d"
+  },
+  {
+    "title": "Takarítás",
+    "category": "62b8867453a753362366a492",
+    "description": "Consequat irure deserunt esse proident dolor ea aliqua pariatur. Esse ipsum commodo magna duis id quis amet qui commodo fugiat. Deserunt ipsum id ex proident occaecat consectetur duis reprehenderit. Nostrud aliquip eiusmod sit ipsum esse minim incididunt. Laborum ex velit occaecat voluptate proident ut consequat aliquip. Labore et nulla veniam amet anim sunt fugiat occaecat incididunt tempor ut eu.\r\n",
+    "settlement": "Bélapátfalva",
     "date": {
       "year": 2022,
       "month": 5,
       "day": 2
     },
-    "time": "több nap",
-    "tools": false,
-    "wage": "Fix összeg",
-    "amount": 14795,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a14",
-    "worker_user": "62b87783dd3ae30ae0e97a52"
-  },
-  {
-    "title": "Favágás",
-    "description": "Consectetur culpa ipsum irure officia enim magna incididunt. Veniam fugiat ut consequat ut eu. Sit non anim est pariatur. Consequat ullamco ipsum sit mollit officia consectetur veniam. Cupidatat nulla ullamco quis anim ex qui ullamco aute.\r\n",
-    "settlement": "Kompolt",
-    "date": {
-      "year": 2022,
-      "month": 4,
-      "day": 19
-    },
-    "time": "2-3 óra",
-    "tools": false,
-    "wage": "Fix összeg",
-    "amount": 8055,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e979f4",
-    "worker_user": "62b87783dd3ae30ae0e97ac6"
-  },
-  {
-    "title": "Kerítés festés",
-    "description": "Proident sint nulla mollit ad qui elit sunt tempor culpa mollit. In cillum amet laboris exercitation mollit consectetur mollit Lorem exercitation occaecat. Consequat ullamco proident excepteur dolore voluptate quis commodo sint nulla Lorem enim duis laborum. Sit dolor tempor in reprehenderit mollit ea nulla duis qui occaecat labore enim mollit occaecat. Ad ipsum sit quis eiusmod nostrud velit enim sunt non qui exercitation veniam ut sint.\r\n",
-    "settlement": "Verpelét",
-    "date": {
-      "year": 2022,
-      "month": 7,
-      "day": 8
-    },
-    "time": "1-2 óra",
-    "tools": true,
-    "wage": "Egyéb",
-    "amount": 13467,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e979f0",
-    "worker_user": "62b87783dd3ae30ae0e97aa2"
-  },
-  {
-    "title": "Izzó csere",
-    "description": "Mollit dolore Lorem pariatur excepteur enim cillum magna commodo enim. Ex adipisicing proident elit reprehenderit minim. Occaecat aliquip laboris Lorem nisi incididunt. Non fugiat est laboris voluptate pariatur eiusmod ipsum et sunt commodo eiusmod magna et officia. Occaecat proident non nisi incididunt aute amet ea eiusmod nisi quis duis.\r\n",
-    "settlement": "Füzesabony",
-    "date": {
-      "year": 2022,
-      "month": 6,
-      "day": 3
-    },
-    "time": "1-2 óra",
-    "tools": false,
-    "wage": "Órabér",
-    "amount": 9511,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e979d0",
-    "worker_user": "62b87783dd3ae30ae0e979dc"
-  },
-  {
-    "title": "Gyomlálás",
-    "description": "Aliquip aliqua elit sunt mollit ullamco esse ea. Cillum occaecat sunt ipsum fugiat non sunt eiusmod consectetur veniam enim est ea est dolore. Irure non laborum ad ullamco ipsum sit. Minim mollit sit ex pariatur do voluptate ut cillum ex incididunt. Eiusmod cupidatat eu veniam incididunt anim fugiat. Aliquip nostrud occaecat ut veniam nostrud sunt amet commodo enim nostrud. Esse sit eu ut proident ipsum dolor aliquip enim dolore commodo nulla est Lorem magna.\r\n",
-    "settlement": "Egerszólát",
-    "date": {
-      "year": 2022,
-      "month": 8,
-      "day": 29
-    },
     "time": "3-5 óra",
-    "tools": false,
-    "wage": "Fix összeg",
-    "amount": 5064,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97a04",
-    "worker_user": "62b87783dd3ae30ae0e979ec"
-  },
-  {
-    "title": "Polc felfúrás",
-    "description": "Voluptate laboris est cupidatat dolor irure ipsum id dolor eu magna adipisicing. Non ullamco labore nulla in do eu amet est ipsum. Sunt do tempor aliquip ut. Nulla tempor qui reprehenderit nostrud sunt quis eiusmod aliquip eiusmod et fugiat. Occaecat exercitation cillum officia reprehenderit in ex. Non cillum cupidatat sint do proident et enim aliquip in non adipisicing nostrud proident velit. Commodo enim excepteur enim do deserunt exercitation.\r\n",
-    "settlement": "Demjén",
-    "date": {
-      "year": 2022,
-      "month": 8,
-      "day": 26
-    },
-    "time": "2-3 óra",
-    "tools": false,
-    "wage": "Órabér",
-    "amount": 26213,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97ace",
-    "worker_user": "62b87783dd3ae30ae0e979e6"
-  },
-  {
-    "title": "Konnektor csere",
-    "description": "Labore ipsum incididunt esse deserunt tempor esse. Labore excepteur do nostrud id proident labore esse sit. Deserunt sint ullamco in incididunt anim cupidatat deserunt. Adipisicing ipsum reprehenderit sint incididunt consequat. Est duis tempor ad voluptate.\r\n",
-    "settlement": "Szilvásvárad",
-    "date": {
-      "year": 2022,
-      "month": 6,
-      "day": 8
-    },
-    "time": "2-3 óra",
-    "tools": false,
-    "wage": "Órabér",
-    "amount": 22248,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e979e8",
-    "worker_user": "62b87783dd3ae30ae0e97a1a"
-  },
-  {
-    "title": "Költöztetés",
-    "description": "Fugiat Lorem laborum incididunt labore nulla tempor id do duis elit ad amet laboris. Incididunt deserunt ipsum voluptate veniam voluptate eu voluptate mollit. Elit exercitation nisi officia adipisicing. Culpa do officia fugiat occaecat nostrud aliquip elit proident ad excepteur elit minim. Do nisi ex eiusmod voluptate cillum elit.\r\n",
-    "settlement": "Bélapátfalva",
-    "date": {
-      "year": 2022,
-      "month": 5,
-      "day": 24
-    },
-    "time": "5-8 óra",
     "tools": true,
-    "wage": "Fix összeg",
-    "amount": 17195,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97a4e",
-    "worker_user": "62b87783dd3ae30ae0e97a08"
-  },
-  {
-    "title": "Szőnyegtisztítás",
-    "description": "Voluptate culpa quis enim qui labore deserunt ut exercitation consectetur. Cillum sit elit ullamco amet ad dolor id sit. Dolore non consectetur aute ipsum excepteur. Enim sunt ea enim consectetur excepteur veniam proident exercitation consequat consequat et sint nostrud anim. Do sint nostrud elit non anim consequat enim nostrud Lorem ea adipisicing. Esse Lorem irure commodo occaecat cupidatat.\r\n",
-    "settlement": "Zagyvaszántó",
-    "date": {
-      "year": 2022,
-      "month": 8,
-      "day": 6
-    },
-    "time": "2-3 óra",
-    "tools": false,
     "wage": "Órabér",
-    "amount": 21132,
+    "amount": 8913,
     "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a52",
-    "worker_user": "62b87783dd3ae30ae0e97a28"
+    "editor_user": "62b9115ba96eee70e622c655",
+    "worker_user": "62b9115ba96eee70e622c655"
   },
   {
-    "title": "Ablak tisztítás",
-    "description": "Aliquip et incididunt mollit officia id aute voluptate laborum ad do velit nostrud ad. Quis cillum nulla ad minim ullamco officia sint minim enim magna ea sint. Esse pariatur reprehenderit ad deserunt quis tempor quis adipisicing incididunt eiusmod fugiat quis est.\r\n",
+    "title": "Kutya sétáltatás",
+    "category": "62b8860353a753362366a48a",
+    "description": "Incididunt dolor nisi tempor ullamco duis in ut irure incididunt. Ex quis anim nulla non excepteur irure deserunt incididunt aliquip enim elit eu excepteur. Exercitation tempor in cillum excepteur est deserunt.\r\n",
     "settlement": "Nagytálya",
     "date": {
       "year": 2022,
       "month": 7,
       "day": 11
     },
-    "time": "3-5 óra",
-    "tools": true,
-    "wage": "Egyéb",
-    "amount": 6106,
+    "time": "kevesebb 1 óránál",
+    "tools": false,
+    "wage": "Fix összeg",
+    "amount": 28813,
     "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97a4e",
-    "worker_user": "62b87783dd3ae30ae0e97a22"
+    "editor_user": "62b9115ba96eee70e622c65d",
+    "worker_user": "62b9115ba96eee70e622c667"
   },
   {
-    "title": "Locsolás",
-    "description": "Tempor non fugiat sunt nostrud Lorem duis non nulla occaecat. Veniam proident laboris et amet consectetur mollit reprehenderit sunt qui adipisicing qui sunt aute. Pariatur deserunt qui cillum dolore amet sunt dolore voluptate tempor mollit commodo.\r\n",
-    "settlement": "Tarnaszentmária",
-    "date": {
-      "year": 2022,
-      "month": 6,
-      "day": 19
-    },
-    "time": "5-8 óra",
-    "tools": true,
-    "wage": "Órabér",
-    "amount": 18651,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a58",
-    "worker_user": "62b87783dd3ae30ae0e97ace"
-  },
-  {
-    "title": "Medence tisztítás",
-    "description": "Laborum duis ullamco irure magna. Voluptate do consectetur elit dolore esse laborum sit do quis. Dolor veniam exercitation voluptate cillum ullamco ea commodo voluptate incididunt sunt enim laborum ex.\r\n",
-    "settlement": "Poroszló",
+    "title": "Zárcsere",
+    "category": "62b886c853a753362366a49e",
+    "description": "Quis ea exercitation velit proident tempor et quis ea consectetur duis sint duis quis fugiat. Ipsum in mollit laborum ex excepteur adipisicing nulla quis sint aliqua ex enim consequat. Pariatur sunt proident proident labore in ad aliquip laborum pariatur aliquip.\r\n",
+    "settlement": "Besenyőtelek",
     "date": {
       "year": 2022,
       "month": 7,
-      "day": 26
+      "day": 10
     },
-    "time": "1-2 óra",
+    "time": "2-3 óra",
     "tools": false,
-    "wage": "Fix összeg",
-    "amount": 23742,
+    "wage": "Órabér",
+    "amount": 26959,
     "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a28",
-    "worker_user": "62b87783dd3ae30ae0e97a18"
+    "editor_user": "62b9115ba96eee70e622c677",
+    "worker_user": "62b9115ba96eee70e622c637"
   },
   {
-    "title": "Kutya sétáltatás",
-    "description": "Laboris ex mollit velit aliqua quis quis sint. Do velit occaecat sunt est adipisicing. Fugiat cupidatat do voluptate sint exercitation id nostrud eu amet et minim. Ipsum mollit aute pariatur duis nostrud in adipisicing ea eu.\r\n",
-    "settlement": "Parádsasvár",
+    "title": "Zárcsere",
+    "category": "62b885c053a753362366a482",
+    "description": "Nisi voluptate Lorem nostrud sint commodo quis. Eu sint exercitation est deserunt eiusmod proident. Tempor in aliqua id incididunt commodo eiusmod. Dolore magna ut nisi aute proident incididunt consequat.\r\n",
+    "settlement": "Besenyőtelek",
     "date": {
       "year": 2022,
       "month": 8,
       "day": 1
     },
-    "time": "3-5 óra",
-    "tools": true,
+    "time": "több nap",
+    "tools": false,
     "wage": "Egyéb",
-    "amount": 22039,
+    "amount": 29557,
     "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a20",
-    "worker_user": "62b87783dd3ae30ae0e979f6"
+    "editor_user": "62b9115ba96eee70e622c673",
+    "worker_user": "62b9115ba96eee70e622c65d"
   },
   {
     "title": "Bútor összeszerelés",
-    "description": "Nostrud mollit occaecat pariatur nulla non amet laborum duis ipsum amet voluptate officia proident. Laboris officia aute magna proident. Exercitation sunt eiusmod ad incididunt et qui amet incididunt pariatur.\r\n",
-    "settlement": "Bekölce",
-    "date": {
-      "year": 2022,
-      "month": 8,
-      "day": 2
-    },
-    "time": "3-5 óra",
-    "tools": true,
-    "wage": "Órabér",
-    "amount": 13817,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e979d8",
-    "worker_user": "62b87783dd3ae30ae0e97aa2"
-  },
-  {
-    "title": "Eresztisztítás",
-    "description": "Id nisi exercitation ad enim id pariatur ipsum sunt excepteur reprehenderit aliqua id. Voluptate aliqua et magna dolore proident irure magna. Dolor quis quis sint incididunt duis fugiat fugiat tempor eu voluptate commodo. Laboris in eiusmod Lorem enim anim sit anim fugiat qui amet velit velit non. Consequat ullamco id occaecat consequat non adipisicing velit id elit sunt eiusmod Lorem labore.\r\n",
+    "category": "62b8858a53a753362366a47e",
+    "description": "Laboris irure dolor duis excepteur id cillum nulla do laborum fugiat. Non id esse duis commodo ipsum et est. Esse fugiat labore nisi magna laboris minim. Fugiat labore ut deserunt enim proident deserunt. Anim non est adipisicing proident nostrud id exercitation aute do dolor laborum aliqua elit.\r\n",
     "settlement": "Visonta",
-    "date": {
-      "year": 2022,
-      "month": 6,
-      "day": 23
-    },
-    "time": "1-2 óra",
-    "tools": false,
-    "wage": "Egyéb",
-    "amount": 26543,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97aa2",
-    "worker_user": "62b87783dd3ae30ae0e97a10"
-  },
-  {
-    "title": "Takarítás",
-    "description": "Et mollit minim pariatur magna fugiat cillum labore occaecat nostrud fugiat consectetur enim consequat. Quis sit ad eiusmod laboris mollit. Fugiat irure eu ad cupidatat nisi ad aliqua proident cupidatat elit non ut. Anim et sit cillum cillum culpa magna consequat nulla aliqua dolor irure occaecat ut nostrud. Reprehenderit nostrud sint fugiat aliqua fugiat anim Lorem non nulla sint voluptate. Aliquip laboris sint est esse est labore in sint velit quis proident laborum. Veniam dolore nisi officia tempor officia eiusmod non irure adipisicing consequat eiusmod non.\r\n",
-    "settlement": "Pétervására",
-    "date": {
-      "year": 2022,
-      "month": 7,
-      "day": 1
-    },
-    "time": "5-8 óra",
-    "tools": false,
-    "wage": "Órabér",
-    "amount": 4621,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a4e",
-    "worker_user": "62b87783dd3ae30ae0e97af0"
-  },
-  {
-    "title": "Ablak tisztítás",
-    "description": "Tempor proident eiusmod non tempor aute pariatur. Elit eu anim mollit deserunt esse sint reprehenderit. Lorem amet qui cupidatat mollit ea incididunt nisi excepteur dolore. Sit dolor fugiat dolor adipisicing est do eu eiusmod consectetur aliquip eiusmod ullamco. Eu irure eu sit do occaecat aliquip tempor aliqua non. Quis sunt adipisicing sint enim culpa culpa Lorem irure eu nulla dolore dolor. Consectetur dolor dolore qui elit tempor elit in nostrud anim.\r\n",
-    "settlement": "Demjén",
-    "date": {
-      "year": 2022,
-      "month": 5,
-      "day": 21
-    },
-    "time": "5-8 óra",
-    "tools": true,
-    "wage": "Fix összeg",
-    "amount": 9060,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97a28",
-    "worker_user": "62b87783dd3ae30ae0e97a1a"
-  },
-  {
-    "title": "Szőnyegtisztítás",
-    "description": "Elit qui eiusmod labore veniam. Velit minim proident tempor non magna pariatur fugiat ad amet ipsum cillum. Mollit labore veniam elit in. Ad aliqua esse aliquip culpa ad sit sit officia enim in sunt pariatur deserunt. Eiusmod fugiat culpa commodo mollit Lorem ipsum. Fugiat excepteur ea eu culpa nulla dolor ullamco magna eiusmod sint. Duis ullamco eu est ad proident.\r\n",
-    "settlement": "Felsőtárkány",
-    "date": {
-      "year": 2022,
-      "month": 6,
-      "day": 23
-    },
-    "time": "kevesebb 1 óránál",
-    "tools": false,
-    "wage": "Fix összeg",
-    "amount": 10779,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97a7c",
-    "worker_user": "62b87783dd3ae30ae0e97a58"
-  },
-  {
-    "title": "Kerítés festés",
-    "description": "Et enim officia non exercitation ut nulla commodo fugiat labore. Velit ipsum dolore amet nostrud officia aliquip et pariatur ut nulla ad officia. Ut ea nostrud nostrud officia labore dolore Lorem velit.\r\n",
-    "settlement": "Parád",
-    "date": {
-      "year": 2022,
-      "month": 5,
-      "day": 20
-    },
-    "time": "3-5 óra",
-    "tools": true,
-    "wage": "Órabér",
-    "amount": 24399,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97a52",
-    "worker_user": "62b87783dd3ae30ae0e979d8"
-  },
-  {
-    "title": "Medence tisztítás",
-    "description": "Officia excepteur minim nulla cillum sit irure proident laboris proident consequat labore laborum consectetur ut. Consectetur magna eiusmod nostrud quis consectetur commodo eu do in. Veniam voluptate nisi id nulla laborum ad nulla laboris id mollit est fugiat. Proident reprehenderit esse magna pariatur quis ad esse exercitation excepteur id. Proident in labore culpa anim aute est ex reprehenderit in veniam Lorem eu ex. Cupidatat quis mollit dolore voluptate commodo est adipisicing amet occaecat nostrud. Ullamco amet duis officia commodo elit labore adipisicing velit.\r\n",
-    "settlement": "Szarvaskő",
-    "date": {
-      "year": 2022,
-      "month": 5,
-      "day": 11
-    },
-    "time": "3-5 óra",
-    "tools": false,
-    "wage": "Fix összeg",
-    "amount": 3555,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97ace",
-    "worker_user": "62b87783dd3ae30ae0e97a60"
-  },
-  {
-    "title": "Eresztisztítás",
-    "description": "Irure qui consequat reprehenderit velit esse sit nulla. Fugiat sint nostrud labore veniam anim elit. Culpa eu reprehenderit nostrud amet amet. Consequat excepteur exercitation ad sit occaecat occaecat eiusmod velit ullamco adipisicing. Velit non ex labore qui minim proident exercitation consequat deserunt veniam. Excepteur dolor dolore incididunt duis mollit proident minim minim dolor esse non.\r\n",
-    "settlement": "Kompolt",
-    "date": {
-      "year": 2022,
-      "month": 8,
-      "day": 14
-    },
-    "time": "2-3 óra",
-    "tools": false,
-    "wage": "Egyéb",
-    "amount": 3353,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a80",
-    "worker_user": "62b87783dd3ae30ae0e979e6"
-  },
-  {
-    "title": "Mosogatógép bekötés",
-    "description": "Officia nulla laborum eu est reprehenderit sunt dolore adipisicing ullamco et. Non velit nisi eu duis mollit enim ex ad ut esse adipisicing. Commodo consequat occaecat proident esse. Ipsum id magna Lorem nulla irure amet ut anim eu. Laborum cupidatat non adipisicing elit do nostrud. Incididunt occaecat eiusmod aliqua nulla reprehenderit adipisicing occaecat sint anim elit sint sint. Eu ipsum reprehenderit pariatur nulla ea.\r\n",
-    "settlement": "Egerbocs",
-    "date": {
-      "year": 2022,
-      "month": 4,
-      "day": 17
-    },
-    "time": "több nap",
-    "tools": true,
-    "wage": "Egyéb",
-    "amount": 11555,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a12",
-    "worker_user": "62b87783dd3ae30ae0e97a18"
-  },
-  {
-    "title": "Dugulás elhárítás",
-    "description": "Dolor tempor qui cupidatat in pariatur ad ad culpa cillum sint aliquip laborum eu. Est ea cillum enim labore aute sint cillum nisi sint. Sint in velit aute voluptate aute anim aliquip. Nulla voluptate ad est ullamco eu adipisicing. Tempor minim ullamco cupidatat sint. Exercitation deserunt aute pariatur consequat est eiusmod. Cupidatat qui pariatur sint exercitation mollit qui nostrud officia tempor commodo fugiat.\r\n",
-    "settlement": "Kerecsend",
-    "date": {
-      "year": 2022,
-      "month": 4,
-      "day": 6
-    },
-    "time": "2-3 óra",
-    "tools": false,
-    "wage": "Egyéb",
-    "amount": 8108,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a52",
-    "worker_user": "62b87783dd3ae30ae0e979ec"
-  },
-  {
-    "title": "Vírusírtás",
-    "description": "Deserunt deserunt reprehenderit culpa exercitation dolore sint tempor nulla labore non ipsum eiusmod. Elit dolor irure do exercitation nulla ipsum laborum exercitation consectetur. In laborum irure ipsum do ea laboris eiusmod ad consequat duis Lorem amet do.\r\n",
-    "settlement": "Egercsehi",
-    "date": {
-      "year": 2022,
-      "month": 6,
-      "day": 14
-    },
-    "time": "kevesebb 1 óránál",
-    "tools": false,
-    "wage": "Egyéb",
-    "amount": 25353,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e979e6",
-    "worker_user": "62b87783dd3ae30ae0e97a80"
-  },
-  {
-    "title": "Zárcsere",
-    "description": "Magna cupidatat ullamco adipisicing ullamco. Fugiat consequat pariatur ipsum irure. Aliquip eu amet officia labore fugiat ut adipisicing officia deserunt. Culpa exercitation aliquip tempor deserunt. Cupidatat enim elit commodo et duis commodo enim do dolore adipisicing qui anim. Esse enim sint deserunt velit incididunt aliqua sit ex consequat consequat laboris. Ut sit adipisicing sunt laboris et dolore cupidatat anim amet occaecat.\r\n",
-    "settlement": "Adács",
-    "date": {
-      "year": 2022,
-      "month": 4,
-      "day": 11
-    },
-    "time": "5-8 óra",
-    "tools": true,
-    "wage": "Fix összeg",
-    "amount": 11892,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a58",
-    "worker_user": "62b87783dd3ae30ae0e97ac6"
-  },
-  {
-    "title": "Izzó csere",
-    "description": "Ipsum velit adipisicing excepteur amet. Do consequat do nostrud est sunt ex quis adipisicing sint laborum aliquip. Mollit amet officia Lorem culpa amet nulla magna aliquip et commodo. Consectetur aliqua irure officia nostrud exercitation velit proident ullamco ullamco ullamco labore ad. Fugiat consectetur incididunt voluptate magna eu velit mollit officia laborum culpa veniam. Consectetur labore aliqua adipisicing laborum sit dolor est officia et dolore consequat laboris laborum.\r\n",
-    "settlement": "Visonta",
-    "date": {
-      "year": 2022,
-      "month": 6,
-      "day": 20
-    },
-    "time": "3-5 óra",
-    "tools": true,
-    "wage": "Órabér",
-    "amount": 27325,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a04",
-    "worker_user": "62b87783dd3ae30ae0e979e2"
-  },
-  {
-    "title": "Mosogatógép bekötés",
-    "description": "Exercitation id cupidatat id reprehenderit proident quis exercitation nostrud dolor incididunt quis veniam adipisicing tempor. Nisi tempor nostrud et ex ex ea reprehenderit. Commodo velit eiusmod eiusmod ex consequat nisi exercitation. Ad adipisicing et excepteur cupidatat id Lorem non duis Lorem quis minim.\r\n",
-    "settlement": "Demjén",
-    "date": {
-      "year": 2022,
-      "month": 5,
-      "day": 28
-    },
-    "time": "1-2 óra",
-    "tools": false,
-    "wage": "Órabér",
-    "amount": 21973,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97a60",
-    "worker_user": "62b87783dd3ae30ae0e97af0"
-  },
-  {
-    "title": "Locsolás",
-    "description": "Irure enim commodo commodo fugiat sint amet fugiat nisi qui. Do culpa ea ut do occaecat anim incididunt aliqua excepteur labore ut esse. Cupidatat in exercitation esse ea laborum adipisicing reprehenderit. Anim veniam proident pariatur sit occaecat incididunt incididunt. Quis sit eu consequat proident dolor aliqua velit. Velit in commodo voluptate ipsum nisi. Est sint voluptate ut labore consequat ea dolor laborum nostrud veniam.\r\n",
-    "settlement": "Andornaktálya",
-    "date": {
-      "year": 2022,
-      "month": 6,
-      "day": 30
-    },
-    "time": "2-3 óra",
-    "tools": true,
-    "wage": "Órabér",
-    "amount": 9911,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e979f0",
-    "worker_user": "62b87783dd3ae30ae0e979f0"
-  },
-  {
-    "title": "Sövénynyírás",
-    "description": "In cillum deserunt commodo proident qui in exercitation consequat reprehenderit ad. Consectetur occaecat minim id ut fugiat commodo elit culpa ad sit velit ea consectetur consequat. Deserunt et in nulla excepteur. Sunt culpa excepteur duis minim sit laborum duis sint. Nostrud sint est do consequat Lorem deserunt eu veniam commodo officia. Voluptate quis sunt ipsum sint deserunt reprehenderit occaecat mollit duis culpa dolore consequat.\r\n",
-    "settlement": "Felsőtárkány",
-    "date": {
-      "year": 2022,
-      "month": 6,
-      "day": 15
-    },
-    "time": "1-2 óra",
-    "tools": false,
-    "wage": "Fix összeg",
-    "amount": 3648,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a80",
-    "worker_user": "62b87783dd3ae30ae0e97a1a"
-  },
-  {
-    "title": "Medence tisztítás",
-    "description": "Ullamco pariatur elit qui exercitation sit aliqua in id ad aliqua voluptate consequat est et. Consequat proident excepteur proident anim culpa consequat ullamco veniam aliquip voluptate elit commodo labore irure. Duis do magna anim duis nostrud do duis occaecat adipisicing eiusmod consequat consectetur aliqua irure. Elit nostrud sint aliquip dolor ex do minim occaecat minim. Qui ex veniam ea ad id consequat ea aliquip in.\r\n",
-    "settlement": "Pétervására",
-    "date": {
-      "year": 2022,
-      "month": 6,
-      "day": 23
-    },
-    "time": "1-2 óra",
-    "tools": true,
-    "wage": "Fix összeg",
-    "amount": 29494,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e979f8",
-    "worker_user": "62b87783dd3ae30ae0e97a4e"
-  },
-  {
-    "title": "Zárcsere",
-    "description": "Mollit deserunt consectetur eiusmod ad ex nostrud dolore. Nostrud officia laboris irure veniam dolore quis amet officia incididunt non nostrud ipsum commodo. Commodo sit consequat consectetur eiusmod minim veniam dolor.\r\n",
-    "settlement": "Felsőtárkány",
-    "date": {
-      "year": 2022,
-      "month": 8,
-      "day": 13
-    },
-    "time": "5-8 óra",
-    "tools": false,
-    "wage": "Órabér",
-    "amount": 19930,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97a9c",
-    "worker_user": "62b87783dd3ae30ae0e97a9c"
-  },
-  {
-    "title": "Sövénynyírás",
-    "description": "Proident duis laborum quis est elit consectetur officia. Irure magna et mollit nisi sunt minim dolor consequat aliquip tempor. Sit elit officia eiusmod labore ut eu labore velit.\r\n",
-    "settlement": "Aldebrő",
-    "date": {
-      "year": 2022,
-      "month": 6,
-      "day": 4
-    },
-    "time": "kevesebb 1 óránál",
-    "tools": false,
-    "wage": "Órabér",
-    "amount": 23942,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a52",
-    "worker_user": "62b87783dd3ae30ae0e97ac0"
-  },
-  {
-    "title": "Locsolás",
-    "description": "Sunt nostrud labore duis aute fugiat aute ad. Veniam deserunt mollit veniam sint irure occaecat excepteur veniam deserunt ea minim amet irure proident. Sit adipisicing cillum irure reprehenderit ipsum pariatur in id sint consectetur veniam. Amet consequat laboris sint eu culpa. Magna aliquip pariatur labore et irure. Laboris esse duis deserunt excepteur ut ex incididunt ullamco enim dolore sunt fugiat pariatur velit.\r\n",
-    "settlement": "Sirok",
-    "date": {
-      "year": 2022,
-      "month": 6,
-      "day": 25
-    },
-    "time": "2-3 óra",
-    "tools": false,
-    "wage": "Fix összeg",
-    "amount": 25302,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a28",
-    "worker_user": "62b87783dd3ae30ae0e97a28"
-  },
-  {
-    "title": "Vírusírtás",
-    "description": "Irure culpa qui sit exercitation mollit. Culpa excepteur reprehenderit veniam id minim ipsum. Ea magna voluptate laborum ad excepteur veniam est amet ex duis.\r\n",
-    "settlement": "Andornaktálya",
-    "date": {
-      "year": 2022,
-      "month": 7,
-      "day": 8
-    },
-    "time": "2-3 óra",
-    "tools": false,
-    "wage": "Órabér",
-    "amount": 4721,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a80",
-    "worker_user": "62b87783dd3ae30ae0e97a04"
-  },
-  {
-    "title": "Locsolás",
-    "description": "Magna deserunt magna adipisicing amet velit. Id anim sunt eiusmod in ad deserunt anim commodo amet esse Lorem aute sunt aliqua. Ea et fugiat esse reprehenderit ut mollit. Sit aute eu duis et ea.\r\n",
-    "settlement": "Parádsasvár",
-    "date": {
-      "year": 2022,
-      "month": 4,
-      "day": 26
-    },
-    "time": "2-3 óra",
-    "tools": false,
-    "wage": "Órabér",
-    "amount": 20042,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97af0",
-    "worker_user": "62b87783dd3ae30ae0e979e0"
-  },
-  {
-    "title": "Szőnyegtisztítás",
-    "description": "Esse eu exercitation dolore quis sit voluptate anim velit. Duis et duis commodo duis. Officia Lorem irure eu nulla ullamco ad exercitation id aute officia. Non ex non et consequat nulla laborum cillum sit ex id duis. Fugiat est aliqua veniam exercitation elit enim laborum.\r\n",
-    "settlement": "Bátor",
-    "date": {
-      "year": 2022,
-      "month": 8,
-      "day": 24
-    },
-    "time": "több nap",
-    "tools": true,
-    "wage": "Egyéb",
-    "amount": 13659,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97ac0",
-    "worker_user": "62b87783dd3ae30ae0e979f0"
-  },
-  {
-    "title": "Dugulás elhárítás",
-    "description": "Nisi occaecat enim non incididunt incididunt exercitation voluptate magna culpa tempor est dolore. Est elit excepteur ullamco minim labore deserunt elit et. Tempor occaecat fugiat cupidatat consequat officia. Consectetur incididunt ea nostrud voluptate est pariatur aliqua minim ex nisi sit aliqua occaecat. Ut in mollit laboris labore ullamco laboris nostrud dolor. Laboris Lorem cillum ipsum fugiat non nisi aliqua. Nostrud aute cillum quis commodo in elit laborum voluptate aliqua qui cupidatat amet est.\r\n",
-    "settlement": "Egerszólát",
-    "date": {
-      "year": 2022,
-      "month": 6,
-      "day": 18
-    },
-    "time": "5-8 óra",
-    "tools": false,
-    "wage": "Órabér",
-    "amount": 6327,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97ace",
-    "worker_user": "62b87783dd3ae30ae0e97a14"
-  },
-  {
-    "title": "Vírusírtás",
-    "description": "Tempor ullamco exercitation sint cupidatat aute cillum et dolore laborum Lorem minim nulla cillum. Mollit incididunt dolor incididunt ut ea in id et deserunt amet deserunt exercitation. Veniam qui ea est proident nulla reprehenderit. Incididunt do aliqua do aliqua cillum. Fugiat dolor proident ea laborum aute fugiat incididunt veniam elit qui. Quis labore officia mollit exercitation nisi duis nisi Lorem laboris.\r\n",
-    "settlement": "Egerfarmos",
-    "date": {
-      "year": 2022,
-      "month": 4,
-      "day": 22
-    },
-    "time": "több nap",
-    "tools": true,
-    "wage": "Egyéb",
-    "amount": 24653,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a14",
-    "worker_user": "62b87783dd3ae30ae0e97a78"
-  },
-  {
-    "title": "Nagytakarítás",
-    "description": "Esse duis ea dolore irure pariatur excepteur quis ipsum ut consequat dolore nostrud incididunt magna. Et et magna ut consequat mollit enim nulla sunt proident. Occaecat pariatur enim fugiat aliquip. Est nisi commodo id dolor aute.\r\n",
-    "settlement": "Zagyvaszántó",
-    "date": {
-      "year": 2022,
-      "month": 5,
-      "day": 5
-    },
-    "time": "5-8 óra",
-    "tools": false,
-    "wage": "Egyéb",
-    "amount": 14616,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e979f0",
-    "worker_user": "62b87783dd3ae30ae0e97a80"
-  },
-  {
-    "title": "Gyomlálás",
-    "description": "Ea fugiat aliqua excepteur est magna veniam anim dolor anim anim consectetur irure laborum ullamco. Ullamco labore sit non et ut elit dolore minim ullamco irure qui proident consequat. Cupidatat sint tempor mollit qui. Elit magna amet deserunt dolore cillum labore deserunt. Velit non nulla irure aliquip ad velit minim sint. Irure elit exercitation eiusmod velit nisi cillum sint. Excepteur nostrud veniam sunt voluptate eu eu voluptate.\r\n",
-    "settlement": "Andornaktálya",
-    "date": {
-      "year": 2022,
-      "month": 6,
-      "day": 22
-    },
-    "time": "3-5 óra",
-    "tools": false,
-    "wage": "Egyéb",
-    "amount": 10226,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e979e0",
-    "worker_user": "62b87783dd3ae30ae0e979da"
-  },
-  {
-    "title": "Ablak tisztítás",
-    "description": "Quis eu consequat aliquip et. Tempor labore velit aliquip enim sit nulla cupidatat veniam enim. In ea culpa anim officia Lorem est irure commodo nulla esse. Ipsum proident cillum in est culpa quis aliquip reprehenderit. Qui nostrud eiusmod laborum aute duis esse officia mollit eu officia. Officia proident officia occaecat sint et consequat id cillum occaecat eiusmod officia officia.\r\n",
-    "settlement": "Adács",
-    "date": {
-      "year": 2022,
-      "month": 6,
-      "day": 13
-    },
-    "time": "2-3 óra",
-    "tools": false,
-    "wage": "Egyéb",
-    "amount": 20713,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e979e2",
-    "worker_user": "62b87783dd3ae30ae0e97a4e"
-  },
-  {
-    "title": "Mosogatógép bekötés",
-    "description": "Esse cillum fugiat elit commodo voluptate aliqua sint consequat in enim do incididunt. Consequat labore aliquip mollit dolore proident consectetur. Eu officia sunt nulla laborum consequat pariatur sit laboris esse aliquip eiusmod dolore voluptate do. Fugiat ut aute pariatur sint consequat incididunt deserunt in pariatur adipisicing excepteur laborum duis.\r\n",
-    "settlement": "Tarnaszentmária",
-    "date": {
-      "year": 2022,
-      "month": 8,
-      "day": 3
-    },
-    "time": "1-2 óra",
-    "tools": false,
-    "wage": "Egyéb",
-    "amount": 16201,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e979f4",
-    "worker_user": "62b87783dd3ae30ae0e97a04"
-  },
-  {
-    "title": "Gyomlálás",
-    "description": "Magna dolor anim ea sunt est veniam culpa sunt. Minim Lorem dolor laborum commodo esse ipsum aliqua laboris amet. Non laboris aliquip non excepteur consequat excepteur reprehenderit. Enim laborum labore minim sunt nulla proident duis aliqua aliquip commodo fugiat ea id esse. Do elit dolor sint mollit esse magna duis.\r\n",
-    "settlement": "Bátor",
-    "date": {
-      "year": 2022,
-      "month": 8,
-      "day": 24
-    },
-    "time": "kevesebb 1 óránál",
-    "tools": true,
-    "wage": "Fix összeg",
-    "amount": 2529,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e979d8",
-    "worker_user": "62b87783dd3ae30ae0e97a22"
-  },
-  {
-    "title": "Sövénynyírás",
-    "description": "Non laboris duis reprehenderit do in ullamco velit. Pariatur nisi do laborum voluptate aliqua eiusmod. Dolor ad est proident consequat ut deserunt Lorem reprehenderit. Reprehenderit non eu voluptate ad officia do officia enim pariatur eu ullamco aliquip ad. Do labore id quis in laboris velit non aliqua voluptate reprehenderit enim in. Duis excepteur irure commodo anim aliquip mollit est consequat esse laboris. Incididunt consequat dolor consectetur aute sint qui non nisi fugiat labore irure Lorem.\r\n",
-    "settlement": "Egerszalók",
-    "date": {
-      "year": 2022,
-      "month": 7,
-      "day": 15
-    },
-    "time": "2-3 óra",
-    "tools": true,
-    "wage": "Órabér",
-    "amount": 4703,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a4e",
-    "worker_user": "62b87783dd3ae30ae0e979f0"
-  },
-  {
-    "title": "Mosogatógép bekötés",
-    "description": "Qui id quis et consequat aliqua laboris dolore ullamco pariatur consequat qui. Ad voluptate pariatur Lorem anim deserunt voluptate sunt eu consequat Lorem. Culpa eu in esse laborum labore aliquip reprehenderit. Voluptate mollit adipisicing consectetur laboris sit amet magna eiusmod culpa eiusmod. Eiusmod veniam incididunt amet officia ut eiusmod sunt veniam tempor et tempor magna ad. Et enim mollit non et exercitation in magna commodo tempor consectetur velit eiusmod minim adipisicing. Nulla pariatur laboris nulla fugiat nostrud excepteur.\r\n",
-    "settlement": "Demjén",
-    "date": {
-      "year": 2022,
-      "month": 8,
-      "day": 16
-    },
-    "time": "2-3 óra",
-    "tools": false,
-    "wage": "Órabér",
-    "amount": 17830,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a08",
-    "worker_user": "62b87783dd3ae30ae0e97a56"
-  },
-  {
-    "title": "Kerítés festése",
-    "description": "Aute do elit dolor ea cupidatat culpa nostrud et proident mollit occaecat adipisicing. Voluptate magna eu laborum quis exercitation exercitation laboris. Irure tempor sint incididunt consequat do laborum consectetur magna in excepteur ea tempor ullamco magna. Pariatur quis nulla amet occaecat voluptate ad proident enim qui ipsum. Veniam sunt aliquip tempor nostrud ipsum adipisicing est ad reprehenderit excepteur minim cupidatat.\r\n",
-    "settlement": "Nagyvisnyó",
-    "date": {
-      "year": 2022,
-      "month": 6,
-      "day": 2
-    },
-    "time": "3-5 óra",
-    "tools": true,
-    "wage": "Fix összeg",
-    "amount": 22031,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a2a",
-    "worker_user": "62b87783dd3ae30ae0e979e2"
-  },
-  {
-    "title": "Favágás",
-    "description": "Eu commodo veniam adipisicing cillum elit id laborum non veniam ea in. Ea laborum quis veniam voluptate ea. Magna ad veniam ut velit est elit duis tempor aliqua ex et aute consectetur.\r\n",
-    "settlement": "Egerszalók",
-    "date": {
-      "year": 2022,
-      "month": 5,
-      "day": 30
-    },
-    "time": "1-2 óra",
-    "tools": true,
-    "wage": "Egyéb",
-    "amount": 3649,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a7c",
-    "worker_user": "62b87783dd3ae30ae0e97a00"
-  },
-  {
-    "title": "Favágás",
-    "description": "Nisi pariatur anim sit dolore magna incididunt duis fugiat nisi enim pariatur Lorem culpa. Irure cillum eiusmod ea id consequat enim et ea irure magna laboris elit enim incididunt. Anim pariatur incididunt culpa dolor aliqua nulla. Lorem aute tempor et exercitation laboris enim pariatur consectetur proident Lorem reprehenderit reprehenderit eiusmod. Adipisicing in laboris enim ullamco ullamco sint et pariatur velit nisi ut. Deserunt deserunt proident excepteur ipsum elit duis commodo nulla laboris. Sit cupidatat consectetur do ad incididunt voluptate deserunt laboris amet qui id et.\r\n",
-    "settlement": "Egercsehi",
     "date": {
       "year": 2022,
       "month": 5,
       "day": 27
     },
-    "time": "3-5 óra",
-    "tools": true,
-    "wage": "Órabér",
-    "amount": 28466,
+    "time": "több nap",
+    "tools": false,
+    "wage": "Fix összeg",
+    "amount": 11185,
     "active": false,
-    "editor_user": "62b87783dd3ae30ae0e979f4",
-    "worker_user": "62b87783dd3ae30ae0e97a58"
+    "editor_user": "62b9115ba96eee70e622c651",
+    "worker_user": "62b9115ba96eee70e622c651"
   },
   {
-    "title": "Locsolás",
-    "description": "Et cupidatat sit magna quis aliqua id cillum incididunt. Sint voluptate ex aliquip magna consequat minim laborum. Enim ut reprehenderit irure sit ex et tempor labore ut amet ut id excepteur. Consectetur voluptate officia non minim sit. In amet magna dolore amet non sint nostrud. Elit ipsum consequat magna nisi occaecat.\r\n",
-    "settlement": "Szarvaskő",
+    "title": "Gyűmölcs szüret",
+    "category": "62b8867453a753362366a492",
+    "description": "Ullamco velit consequat voluptate aliquip sit Lorem incididunt fugiat incididunt ex excepteur. Occaecat consequat mollit magna deserunt aliqua. Incididunt quis Lorem quis ad est. Anim adipisicing pariatur consectetur eu occaecat pariatur do enim et incididunt laboris veniam.\r\n",
+    "settlement": "Nagyvisnyó",
     "date": {
       "year": 2022,
-      "month": 7,
-      "day": 24
-    },
-    "time": "3-5 óra",
-    "tools": true,
-    "wage": "Órabér",
-    "amount": 29103,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97a12",
-    "worker_user": "62b87783dd3ae30ae0e979dc"
-  },
-  {
-    "title": "Kerítés javítás",
-    "description": "Et exercitation dolor magna amet anim ea veniam quis. Voluptate aute cillum labore ipsum aliqua culpa incididunt tempor nisi in. Qui sit ex voluptate ex et aliquip irure quis reprehenderit reprehenderit amet irure nisi. Reprehenderit do eu in veniam occaecat labore culpa labore irure dolore. Dolore excepteur eu consectetur non aliqua eiusmod id ex in dolor ea elit incididunt mollit. Consequat cillum quis dolore adipisicing sit laboris eu exercitation velit consectetur ex nisi tempor qui. Enim non in deserunt reprehenderit est nostrud sit esse aliquip ea ad.\r\n",
-    "settlement": "Maklár",
-    "date": {
-      "year": 2022,
-      "month": 7,
+      "month": 5,
       "day": 1
     },
-    "time": "több nap",
-    "tools": true,
-    "wage": "Egyéb",
-    "amount": 21600,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97a1a",
-    "worker_user": "62b87783dd3ae30ae0e97a80"
-  },
-  {
-    "title": "Képek felfúrása",
-    "description": "Excepteur dolore cillum non quis velit. Velit qui proident irure voluptate aute dolore. Nostrud duis aliqua fugiat elit fugiat id reprehenderit ipsum aliqua laboris voluptate. In id est consectetur reprehenderit officia.\r\n",
-    "settlement": "Visonta",
-    "date": {
-      "year": 2022,
-      "month": 7,
-      "day": 19
-    },
-    "time": "kevesebb 1 óránál",
-    "tools": false,
-    "wage": "Fix összeg",
-    "amount": 4112,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97a08",
-    "worker_user": "62b87783dd3ae30ae0e979f8"
-  },
-  {
-    "title": "Bútor összeszerelés",
-    "description": "Lorem quis cupidatat sunt magna ad aliqua culpa elit in anim sint dolor laboris culpa. Voluptate voluptate labore occaecat voluptate id excepteur consequat nulla. Veniam minim est dolor amet id labore in consectetur. Dolor sit deserunt deserunt sunt mollit est duis id occaecat cupidatat sunt mollit do. Dolor aute ad quis aliqua eu mollit nulla.\r\n",
-    "settlement": "Visonta",
-    "date": {
-      "year": 2022,
-      "month": 6,
-      "day": 15
-    },
-    "time": "2-3 óra",
+    "time": "3-5 óra",
     "tools": false,
     "wage": "Órabér",
-    "amount": 3822,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e979d0",
-    "worker_user": "62b87783dd3ae30ae0e97a14"
-  },
-  {
-    "title": "Takarítás",
-    "description": "Fugiat duis minim ut laborum minim voluptate. Ut culpa aute aute do ipsum quis consequat irure reprehenderit amet labore. Cupidatat dolor consequat qui fugiat tempor nulla id voluptate deserunt ullamco quis sunt. Consequat veniam aute velit nisi laborum laborum. Excepteur nisi esse excepteur eiusmod adipisicing minim esse laboris Lorem aliqua adipisicing aliquip do pariatur. Nulla ad non ex cillum veniam. Non nisi aliquip ipsum mollit sint aliquip minim culpa aliqua dolor.\r\n",
-    "settlement": "Egerszólát",
-    "date": {
-      "year": 2022,
-      "month": 4,
-      "day": 15
-    },
-    "time": "3-5 óra",
-    "tools": true,
-    "wage": "Fix összeg",
-    "amount": 17814,
+    "amount": 22572,
     "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97af0",
-    "worker_user": "62b87783dd3ae30ae0e97af0"
+    "editor_user": "62b9115ba96eee70e622c655",
+    "worker_user": "62b9115ba96eee70e622c63d"
   },
   {
-    "title": "Sövénynyírás",
-    "description": "In sunt labore cillum fugiat deserunt et. Do elit Lorem aliqua nostrud non do sunt. Est ea irure pariatur dolore ut enim. Proident mollit elit cupidatat sunt laborum quis. Quis voluptate elit aliqua quis duis enim ex labore sint sint reprehenderit consectetur excepteur elit.\r\n",
-    "settlement": "Kerecsend",
-    "date": {
-      "year": 2022,
-      "month": 7,
-      "day": 8
-    },
-    "time": "több nap",
-    "tools": false,
-    "wage": "Egyéb",
-    "amount": 26988,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e979f8",
-    "worker_user": "62b87783dd3ae30ae0e97a04"
-  },
-  {
-    "title": "Konnektor csere",
-    "description": "Aute elit id magna ea irure mollit adipisicing nulla non. Ea reprehenderit proident sint deserunt esse exercitation nisi duis occaecat minim ipsum velit. Consequat commodo voluptate fugiat magna reprehenderit irure incididunt ullamco nisi et voluptate ullamco cillum. Incididunt culpa incididunt non excepteur cillum amet dolor ad incididunt irure officia adipisicing enim non.\r\n",
-    "settlement": "Andornaktálya",
-    "date": {
-      "year": 2022,
-      "month": 7,
-      "day": 9
-    },
-    "time": "több nap",
-    "tools": false,
-    "wage": "Fix összeg",
-    "amount": 28262,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97af4",
-    "worker_user": "62b87783dd3ae30ae0e97a28"
-  },
-  {
-    "title": "Növény átültetés",
-    "description": "Consectetur dolore sunt culpa officia sunt esse non nisi. Et exercitation est eu reprehenderit id laboris sunt aliquip enim nulla dolor ut est reprehenderit. Voluptate voluptate labore laboris eu ipsum consectetur et nisi amet incididunt consequat incididunt. Sint quis laboris dolor ex aliquip. Eu esse sit velit qui ea laboris ut tempor Lorem irure dolor sint. Nostrud velit est deserunt labore aute in velit amet tempor do ut do. Eu labore commodo reprehenderit nostrud.\r\n",
-    "settlement": "Tarnaszentmária",
-    "date": {
-      "year": 2022,
-      "month": 5,
-      "day": 13
-    },
-    "time": "5-8 óra",
-    "tools": true,
-    "wage": "Fix összeg",
-    "amount": 17055,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a9c",
-    "worker_user": "62b87783dd3ae30ae0e97a22"
-  },
-  {
-    "title": "Izzó csere",
-    "description": "Sunt et anim fugiat sit cupidatat. Est et ut tempor Lorem eiusmod laborum velit officia cillum et. Aliquip adipisicing cupidatat fugiat velit occaecat quis aliquip do. Esse qui ad nulla excepteur esse ea proident magna nostrud veniam laborum ullamco. Cillum reprehenderit mollit sint ut cupidatat officia. Exercitation aliquip et duis enim.\r\n",
-    "settlement": "Abasár",
+    "title": "Kutya sétáltatás",
+    "category": "62b886ba53a753362366a49a",
+    "description": "Sunt quis exercitation minim ipsum. Ea ullamco nostrud duis excepteur velit elit. Sit fugiat id sint commodo sunt velit dolore pariatur tempor pariatur pariatur aliquip. Veniam non officia mollit elit ea tempor quis dolore. Ipsum reprehenderit anim ipsum fugiat nulla proident culpa labore.\r\n",
+    "settlement": "Kál",
     "date": {
       "year": 2022,
       "month": 8,
-      "day": 8
-    },
-    "time": "3-5 óra",
-    "tools": false,
-    "wage": "Fix összeg",
-    "amount": 6439,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e979f0",
-    "worker_user": "62b87783dd3ae30ae0e97af0"
-  },
-  {
-    "title": "Ablak tisztítás",
-    "description": "Eu officia incididunt reprehenderit non do eiusmod magna occaecat sunt. Tempor cillum ut veniam minim consectetur ut. Officia amet do laboris esse nulla esse amet. Esse tempor aliqua ea ea occaecat laboris sunt ex adipisicing est pariatur elit.\r\n",
-    "settlement": "Bükkszenterzsébet",
-    "date": {
-      "year": 2022,
-      "month": 6,
-      "day": 25
-    },
-    "time": "több nap",
-    "tools": false,
-    "wage": "Órabér",
-    "amount": 20933,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a9c",
-    "worker_user": "62b87783dd3ae30ae0e97a22"
-  },
-  {
-    "title": "Sövénynyírás",
-    "description": "Duis labore Lorem anim duis laborum. Anim ex veniam magna reprehenderit proident et minim non nostrud. Duis officia cillum do culpa pariatur sit minim pariatur amet. Velit culpa mollit sit deserunt eu velit.\r\n",
-    "settlement": "Kerecsend",
-    "date": {
-      "year": 2022,
-      "month": 5,
-      "day": 9
-    },
-    "time": "2-3 óra",
-    "tools": true,
-    "wage": "Órabér",
-    "amount": 17933,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a22",
-    "worker_user": "62b87783dd3ae30ae0e97a2a"
-  },
-  {
-    "title": "Nagytakarítás",
-    "description": "Occaecat ipsum labore elit ullamco. Id ad mollit pariatur sit reprehenderit amet commodo. Voluptate do aliqua laboris id enim fugiat cillum. Eiusmod aliqua quis consectetur cillum cupidatat culpa pariatur est minim. Lorem cupidatat pariatur ullamco fugiat laboris enim nisi sunt fugiat quis aute laboris. Laborum amet occaecat cupidatat occaecat laborum nisi aute.\r\n",
-    "settlement": "Egerfarmos",
-    "date": {
-      "year": 2022,
-      "month": 4,
-      "day": 3
+      "day": 15
     },
     "time": "5-8 óra",
     "tools": false,
     "wage": "Egyéb",
-    "amount": 6648,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97a00",
-    "worker_user": "62b87783dd3ae30ae0e979f4"
+    "amount": 16975,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c67b",
+    "worker_user": "62b9115ba96eee70e622c64d"
   },
   {
-    "title": "Mosogatógép bekötés",
-    "description": "Proident Lorem esse id dolore aute sit tempor id officia est aute. Laborum ut aliquip aute laborum in. Anim duis ut cupidatat incididunt reprehenderit dolor esse do ut ex veniam cillum amet. Dolor incididunt aliqua ullamco voluptate nulla proident in exercitation do in dolor adipisicing id. Enim deserunt minim id reprehenderit nulla sit veniam non id.\r\n",
-    "settlement": "Adács",
-    "date": {
-      "year": 2022,
-      "month": 4,
-      "day": 3
-    },
-    "time": "3-5 óra",
-    "tools": true,
-    "wage": "Egyéb",
-    "amount": 23051,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97af0",
-    "worker_user": "62b87783dd3ae30ae0e97aa2"
-  },
-  {
-    "title": "Eresztisztítás",
-    "description": "Voluptate laborum excepteur id aute fugiat aute magna. Voluptate ex nisi aliquip dolore deserunt consectetur occaecat nisi sit est proident minim. Adipisicing duis commodo qui consequat veniam pariatur veniam. Laboris velit ipsum cupidatat culpa laborum qui adipisicing cillum enim officia.\r\n",
-    "settlement": "Maklár",
+    "title": "Kerítés festése",
+    "category": "62b8860353a753362366a48a",
+    "description": "Eu proident elit exercitation duis. Mollit deserunt occaecat minim dolor ad aliquip enim cillum ullamco consequat quis. Occaecat cillum velit laborum tempor qui officia officia occaecat dolor qui cupidatat fugiat deserunt. Dolor aliqua labore dolor incididunt mollit enim eu occaecat enim magna cupidatat velit. Quis cillum nulla veniam nisi veniam esse reprehenderit labore dolor fugiat reprehenderit consectetur sint in. Velit ut exercitation sint aute duis ad dolore ullamco. Non veniam cupidatat aute cupidatat ullamco id aliquip quis cillum incididunt qui pariatur.\r\n",
+    "settlement": "Sirok",
     "date": {
       "year": 2022,
       "month": 7,
-      "day": 22
-    },
-    "time": "1-2 óra",
-    "tools": true,
-    "wage": "Órabér",
-    "amount": 17479,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e979ec",
-    "worker_user": "62b87783dd3ae30ae0e97a4e"
-  },
-  {
-    "title": "Polc felfúrás",
-    "description": "Occaecat non amet nulla aliquip nostrud do anim officia quis aliqua labore do dolor veniam. Consectetur culpa mollit do laboris ex esse aliquip laborum pariatur deserunt labore. Proident elit ipsum nulla et culpa ut et eu nulla est. Deserunt reprehenderit ut nulla qui minim do sint reprehenderit irure nisi. Id non reprehenderit elit elit anim nostrud. Ex mollit non ut incididunt veniam magna et aute quis quis enim mollit.\r\n",
-    "settlement": "Visonta",
-    "date": {
-      "year": 2022,
-      "month": 8,
-      "day": 14
-    },
-    "time": "5-8 óra",
-    "tools": true,
-    "wage": "Fix összeg",
-    "amount": 16331,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97a78",
-    "worker_user": "62b87783dd3ae30ae0e97aec"
-  },
-  {
-    "title": "Nagytakarítás",
-    "description": "Mollit in laboris culpa nostrud labore sunt ea pariatur non. Anim adipisicing velit mollit non proident deserunt fugiat nisi irure. Est cupidatat voluptate ea culpa et tempor laborum id ea ex eu do sit. Esse cillum cupidatat duis cupidatat eiusmod tempor voluptate ad laborum qui amet sunt exercitation.\r\n",
-    "settlement": "Pétervására",
-    "date": {
-      "year": 2022,
-      "month": 6,
-      "day": 28
+      "day": 16
     },
     "time": "3-5 óra",
     "tools": true,
-    "wage": "Órabér",
-    "amount": 3434,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a56",
-    "worker_user": "62b87783dd3ae30ae0e97a9c"
-  },
-  {
-    "title": "Bolti bevásárlás",
-    "description": "Et labore fugiat minim cillum quis. Incididunt nisi cillum commodo nostrud eiusmod veniam. Ad quis do aliquip in et cupidatat et non nisi consectetur dolor excepteur sint velit.\r\n",
-    "settlement": "Egerfarmos",
-    "date": {
-      "year": 2022,
-      "month": 6,
-      "day": 17
-    },
-    "time": "1-2 óra",
-    "tools": true,
     "wage": "Egyéb",
-    "amount": 25971,
-    "active": true,
-    "editor_user": "62b87783dd3ae30ae0e97a74",
-    "worker_user": "62b87783dd3ae30ae0e979ec"
+    "amount": 2260,
+    "active": false,
+    "editor_user": "62b9115ba96eee70e622c683",
+    "worker_user": "62b9115ba96eee70e622c63f"
   },
   {
     "title": "Kerítés javítás",
-    "description": "Aliquip laboris cupidatat fugiat mollit pariatur nostrud commodo. Non excepteur consequat non amet sint. Occaecat ad commodo laborum voluptate exercitation laborum ea sunt consectetur consequat consectetur cillum sunt mollit. Voluptate sit ullamco exercitation enim enim. Elit non ex cupidatat ullamco nostrud non et excepteur laborum pariatur dolore ut do. Consequat aliquip anim laborum eu sunt reprehenderit sunt amet magna.\r\n",
-    "settlement": "Besenyőtelek",
+    "category": "62b8868a53a753362366a496",
+    "description": "Aliqua sint nisi qui sint. Nostrud ea eiusmod nisi duis sunt laboris consequat officia Lorem enim eiusmod culpa sint ad. Laborum anim elit non cupidatat dolor veniam magna nulla. Ullamco esse elit tempor tempor magna deserunt cupidatat adipisicing Lorem fugiat magna pariatur adipisicing excepteur. Ipsum laborum anim incididunt minim in ullamco laboris.\r\n",
+    "settlement": "Felsőtárkány",
     "date": {
       "year": 2022,
-      "month": 7,
+      "month": 5,
+      "day": 10
+    },
+    "time": "kevesebb 1 óránál",
+    "tools": true,
+    "wage": "Egyéb",
+    "amount": 18082,
+    "active": true,
+    "editor_user": "62b9115ba96eee70e622c64d",
+    "worker_user": "62b9115ba96eee70e622c677"
+  },
+  {
+    "title": "Kutya sétáltatás",
+    "category": "62b8858a53a753362366a47e",
+    "description": "Aute consequat eu anim laboris adipisicing officia et. Aliqua quis veniam consequat adipisicing labore id do esse. Non ut do proident ea cillum. Aliquip amet do ipsum aliqua in commodo aliquip ad consectetur dolore et. Nostrud in laboris fugiat ea eiusmod Lorem tempor exercitation officia ad.\r\n",
+    "settlement": "Egerszalók",
+    "date": {
+      "year": 2022,
+      "month": 6,
       "day": 28
     },
     "time": "több nap",
     "tools": false,
-    "wage": "Fix összeg",
-    "amount": 24719,
+    "wage": "Egyéb",
+    "amount": 3139,
     "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97aec",
-    "worker_user": "62b87783dd3ae30ae0e97a56"
-  },
-  {
-    "title": "Zárcsere",
-    "description": "Est eiusmod laborum deserunt ullamco nisi magna ut fugiat do dolor. Ut consequat qui ea dolore mollit est pariatur in esse aliquip. Laborum reprehenderit et duis duis sit commodo dolor deserunt. Elit laborum aute fugiat enim laboris fugiat ea quis nostrud mollit Lorem commodo et. Occaecat nulla adipisicing adipisicing aliqua deserunt enim qui.\r\n",
-    "settlement": "Kisnána",
-    "date": {
-      "year": 2022,
-      "month": 6,
-      "day": 21
-    },
-    "time": "3-5 óra",
-    "tools": false,
-    "wage": "Órabér",
-    "amount": 7796,
-    "active": false,
-    "editor_user": "62b87783dd3ae30ae0e97a84",
-    "worker_user": "62b87783dd3ae30ae0e97a28"
+    "editor_user": "62b9115ba96eee70e622c67b",
+    "worker_user": "62b9115ba96eee70e622c641"
   }
 ]
