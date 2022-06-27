@@ -8,7 +8,7 @@
 
 ---
 
-> _Az alkalmazás célja, hogy lehetőséget adjon a felhasználóknak a házkörüli feladatok elvégzésében segítséget, illetve szabadidőben alkalmi munkát találni._
+> _Az alkalmazás célja, hogy lehetőséget adjon adminisztratív feladatok elvégzésében egy olyan alkalmazásban, ami segít felhasználóknak a házkörüli feladatok elvégzésében segítséget, illetve szabadidőben alkalmi munkát találni._
 
 ---
 
