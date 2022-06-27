@@ -7,7 +7,7 @@
 
 - Forkolni kell az adott GitHub repository tartalmát:
 
-    https://github.com/lasurrealista/universe-of-superheroes
+    https://github.com/hvroberta89/vizsgaremek
 
 - A célgépre le kell klónozni az adott GitHub repository tartalmát.
 
