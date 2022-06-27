@@ -26,6 +26,12 @@ export class NgDataTableComponent<T extends { [x: string]: any }> implements OnI
   pageIndex: number = 0;
   pageSize: number = 10;
 
+  sorterKey: string = 'id';
+  sorterDirection: number = 1;
+
+  phrase: string = '';
+  filterKey: string = 'name';
+
   constructor(
     private route: ActivatedRoute,
   ) { }
@@ -50,4 +56,12 @@ export class NgDataTableComponent<T extends { [x: string]: any }> implements OnI
     this.deleteOne.emit(entity);
   }
 
+  onSort(key: string): void {
+    if (key === this.sorterKey) {
+      this.sorterDirection *= -1;
+    } else {
+      this.sorterDirection = 1;
+    }
+    this.sorterKey = key;
+  }
 }

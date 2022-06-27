@@ -9,6 +9,13 @@
       </div>
       <div class="card-body">
         <div class="table-responsive">
+          <div class="row my-2">
+            <span class="col-6 col-md-2 py-2 mx-1">Keresési kategória</span>
+            <select class="form-control border col-6 col-md-2" [(ngModel)]="filterKey">
+              <option *ngFor="let key of tableColumn" [value]="[key.key]">{{key.title}}</option>
+            </select>
+            <input [(ngModel)]="phrase" class="filter-search border rounded col-5 mx-1" type="text" placeholder="Search...">
+          </div>
           <table class="table">
             <thead class="text-primary">
               <th> # </th>
@@ -17,7 +24,7 @@
               </th>
               <th></th>
             <tbody>
-              <tr *ngFor="let item of list |paginator: pageIndex : pageSize; let i = index" >
+              <tr *ngFor="let item of list | filter: phrase : filterKey | paginator: pageIndex : pageSize; let i = index" >
                 <td>{{ i + (pageIndex*pageSize) + 1 }}</td>
                 <td *ngFor="let column of tableColumn">
                   {{ item[column.key] | xpipe:column.pipes:column.pipeArgs }}
@@ -43,7 +50,6 @@
       (page)="onChangePage($event)"
       [length]= list.length
       [pageSize]="10"
-      [pageSizeOptions]="[5, 10, 25, 100]"
       aria-label="Select page">
     </mat-paginator>
   </div>
