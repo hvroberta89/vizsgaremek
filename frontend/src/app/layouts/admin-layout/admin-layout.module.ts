@@ -10,7 +10,6 @@ import { RatingInputComponent } from '../../shared/rating-input/rating-input.com
 
 import { AdminLayoutRoutes }    from './admin-layout.routing';
 
-import { DashboardComponent }   from '../../pages/dashboard/dashboard.component';
 import { UsersComponent }       from '../../pages/users/users.component';
 import { WorkersComponent }     from '../../pages/workers/workers.component';
 import { JobsComponent }        from '../../pages/jobs/jobs.component';
@@ -37,7 +36,6 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     NgbRatingModule
   ],
   declarations: [
-    DashboardComponent,
     UsersComponent,
     WorkersComponent,
     JobsComponent,

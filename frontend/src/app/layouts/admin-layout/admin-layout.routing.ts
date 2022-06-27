@@ -2,8 +2,6 @@ import { Routes } from '@angular/router';
 
 import { HomeComponent } from 'app/pages/home/home.component';
 import { LoginComponent } from './../../pages/login/login.component';
-import { UserComponent } from 'app/pages/user/user.component';
-import { DashboardComponent } from 'app/pages/dashboard/dashboard.component';
 import { UsersComponent } from 'app/pages/users/users.component';
 import { UserEditorComponent } from './../../pages/user-editor/user-editor.component';
 import { JobsComponent } from 'app/pages/jobs/jobs.component';
@@ -18,7 +16,6 @@ import { ReviewEditorComponent } from './../../pages/review-editor/review-editor
 export const AdminLayoutRoutes: Routes = [
     { path: 'home',                 component: HomeComponent  },
     { path: 'login',                component: LoginComponent  },
-    { path: 'dashboard',            component: DashboardComponent },
     { path: 'users',                component: UsersComponent},
     { path: 'users-edit/:id',       component: UserEditorComponent},
     { path: 'jobs',                 component: JobsComponent},
@@ -29,5 +26,4 @@ export const AdminLayoutRoutes: Routes = [
     { path: 'categories-edit/:id',  component: CategoryEditorComponent},
     { path: 'reviews',              component: ReviewsComponent},
     { path: 'reviews-edit/:id',     component: ReviewEditorComponent},
-    { path: 'user',                 component: UserComponent},
 ];
