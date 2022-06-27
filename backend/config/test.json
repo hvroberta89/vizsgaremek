@@ -3,8 +3,5 @@
     "user": "rentAdmin",
     "pass": "fumvcjTiMdy3PVag",
     "host": "cluster0.ep0gx.mongodb.net/vizsgaremekDB?retryWrites=true&w=majority"
-  },
-  "photoPath": {
-    "dir": "./public/img"
   }
 }

@@ -18,7 +18,10 @@ module.exports = (model, populateList = []) => {
     },
     create(req, res, next) {
       return service.create(req.body)
-        .then(entity => res.json(entity))
+        .then(entity => {
+          res.status(201);
+          res.json(entity);
+        })
         .catch(err => {
           res.statusCode = 501;
           next(new createError.InternalServerError(err.message))
@@ -37,8 +40,9 @@ module.exports = (model, populateList = []) => {
     },
     deleteOne(req, res, next) {
       return service.deleteOne(req.params.id)
-        .then( () =>{
+        .then( response =>{
           res.status(202);
+          res.json(response);
           res.json('Delete successful.');
         })
         .catch(err => next(new createError.InternalServerError(err.message)));

@@ -7,15 +7,11 @@ const { response } = require('jest-mock-req-res');
 const { Test } = require('supertest');
 
 const app = require('./server');
-const User = require('./models/user');
-const Category = require('./models/category');
-const Job = require('./models/job');
-const Worker = require('./models/worker');
-const Review = require('./models/review');
+let token;
 
 describe('REST API integration tests', () => {
   beforeEach(done => {
-    const { host, user, pass } = config.get('testDB');
+    const { host, user, pass } = config.get('database');
     mongoose.connect(`mongodb+srv://${host}`, {
       user,
       pass,
@@ -25,7 +21,7 @@ describe('REST API integration tests', () => {
       supertest(app).post('/login')
         .set('Content-Type', 'application/json')
         .send({
-          email: 'test@pass.com',
+          email: 'test@test.com',
           password: 'testpass'
         })
           .end((err, res) => {
@@ -45,6 +41,45 @@ describe('REST API integration tests', () => {
 
     test('GET /users', done => {
        supertest(app).get('/users')
+        .set('Authorization', `Bearer ${token}`)
+        .expect(200)
+        .then(response => {
+            expect(Array.isArray(response.body)).toBeTruthy();
+            done();
+        });
+    });
+
+    test('GET /jobs', done => {
+       supertest(app).get('/jobs')
+        .set('Authorization', `Bearer ${token}`)
+        .expect(200)
+        .then(response => {
+            expect(Array.isArray(response.body)).toBeTruthy();
+            done();
+        });
+    });
+    test('GET /workers', done => {
+       supertest(app).get('/workers')
+        .set('Authorization', `Bearer ${token}`)
+        .expect(200)
+        .then(response => {
+            expect(Array.isArray(response.body)).toBeTruthy();
+            done();
+        });
+    });
+
+    test('GET /reviews', done => {
+       supertest(app).get('/reviews')
+        .set('Authorization', `Bearer ${token}`)
+        .expect(200)
+        .then(response => {
+            expect(Array.isArray(response.body)).toBeTruthy();
+            done();
+        });
+    });
+
+    test('GET /categories', done => {
+       supertest(app).get('/categories')
         .set('Authorization', `Bearer ${token}`)
         .expect(200)
         .then(response => {

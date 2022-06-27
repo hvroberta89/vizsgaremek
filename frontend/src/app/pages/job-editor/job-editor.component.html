@@ -163,8 +163,8 @@
           </div>
         </form>
         <ng-template #editorListTemplate let-matches="matches" let-query="query" let-typeaheadTemplateMethods>
-          <ul class="custom-list-group" [class.dropdown-menu]="isBs3">
-            <li class="custom-list-group-item"
+          <ul class="list-group" [class.dropdown-menu]="isBs3">
+            <li class="list-group-item"
                 *ngFor="let match of matches"
                 [class.active]="typeaheadTemplateMethods.isActive(match)"
                 (click)="typeaheadTemplateMethods.selectMatch(match, $event); selectEditorUser(match)"
@@ -174,8 +174,8 @@
           </ul>
         </ng-template>
         <ng-template #workerListTemplate let-matches="matches" let-query="query" let-typeaheadTemplateMethods>
-          <ul class="custom-list-group" [class.dropdown-menu]="isBs3">
-            <li class="custom-list-group-item"
+          <ul class="list-group" [class.dropdown-menu]="isBs3">
+            <li class="list-group-item"
                 *ngFor="let match of matches"
                 [class.active]="typeaheadTemplateMethods.isActive(match)"
                 (click)="typeaheadTemplateMethods.selectMatch(match, $event); selectWorkerUser(match)"
