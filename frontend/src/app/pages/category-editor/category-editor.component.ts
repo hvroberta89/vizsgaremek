@@ -14,6 +14,8 @@ export class CategoryEditorComponent implements OnInit {
 
   category$: Observable<Category>;
 
+  sure: boolean = false
+
   constructor(
     private categoryService: CategoryService,
     private activatedRoute: ActivatedRoute,
@@ -44,5 +46,10 @@ export class CategoryEditorComponent implements OnInit {
       });
     }
   }
+
+  onCancel(): void {
+    history.back()
+  }
+
 
 }

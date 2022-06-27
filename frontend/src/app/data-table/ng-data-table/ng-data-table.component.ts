@@ -56,12 +56,4 @@ export class NgDataTableComponent<T extends { [x: string]: any }> implements OnI
     this.deleteOne.emit(entity);
   }
 
-  onSort(key: string): void {
-    if (key === this.sorterKey) {
-      this.sorterDirection *= -1;
-    } else {
-      this.sorterDirection = 1;
-    }
-    this.sorterKey = key;
-  }
 }

@@ -88,4 +88,9 @@ export class ReviewEditorComponent implements OnInit {
       });
     }
   };
+
+  onCancel(): void {
+    history.back()
+  }
+
 };

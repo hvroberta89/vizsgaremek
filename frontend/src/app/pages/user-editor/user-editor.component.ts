@@ -60,10 +60,9 @@ export class UserEditorComponent implements OnInit {
     this.uploadFileName = event.name;
     this.uploadedFilePath = event.path;
     this.profileImg = `${environment.apiUrl}${event.path}`;
-    };
+  };
 
-  // getImageSrc(): string {
-  //    return this.profilImg = this.uploadedFilePath;
-  // }
-  //img/http://localhost:4200/assets/img/faces/joe-gardner-2.jpg
+  onCancel(): void {
+    history.back()
+  }
 };

@@ -94,4 +94,8 @@ export class WorkerEditorComponent implements OnInit {
     }
   };
 
+  onCancel(): void {
+    history.back()
+  }
+
 }

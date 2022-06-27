@@ -98,4 +98,8 @@ export class JobEditorComponent implements OnInit {
       });
     }
   };
+
+  onCancel(): void {
+    history.back()
+  };
 };
