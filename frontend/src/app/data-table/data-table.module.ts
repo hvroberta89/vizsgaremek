@@ -8,6 +8,7 @@ import { TextSlicerPipe } from './pipes/text-slicer.pipe';
 import { PaginatorPipe } from './pipes/paginator.pipe';
 import { XpipePipe } from './pipes/xpipe.pipe';
 import { FilterPipe } from './pipes/filter.pipe';
+import { SorterPipe } from './pipes/sorter.pipe';
 @NgModule({
   declarations: [
     NgDataTableComponent,
@@ -15,6 +16,7 @@ import { FilterPipe } from './pipes/filter.pipe';
     PaginatorPipe,
     XpipePipe,
     FilterPipe,
+    SorterPipe,
   ],
   imports: [
     CommonModule,

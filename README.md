@@ -85,18 +85,9 @@
 **Elfogadási kritériumok:**
 
 -  A szűrési paraméterek minden kategóriát tartalmazzanak
--  Lehetőséget biztosít összetett szűrések elvégzésére
+-  Lehetőséget biztosít szűrések elvégzésére
 
 **3. Agilis felhasználói történet:**
-
-> _Különböző kategóriák alapján lehet rendezni a munkalehetőségeket._
-
-**Elfogadási kritériumok:**
-
--  Minden egyes kategória szerint sorbarendezhető az adatbázis
--  Növekvő és csökkenő sorrendbe is rendezhetőek az adatok
-
-**4. Agilis felhasználói történet:**
 
 > _Új munkalehetőséget lehet felvinni az adatbázisba._
 
@@ -107,7 +98,7 @@
 -  Az adatok bevitele után a munkalehetőségek listája betöltődik újra automatikusan.
 -  Lehetőséget biztosít a folyamat megszakítására és betölti újra az adatbázist.
 
-**5. Agilis felhasználói történet:**
+**4. Agilis felhasználói történet:**
 
 > _Lehet módosítani a munkalehetőségeket._
 
@@ -118,7 +109,7 @@
 -  Az adatok módosítása után a munkalehetőségek listája betöltődik újra automatikusan.
 -  Lehetőséget biztosít a folyamat megszakítására, ebben esetben az adatok módosítása nélkül betölti újra az adatbázist.
 
-**6. Agilis felhasználói történet:**
+**5. Agilis felhasználói történet:**
 
 > _Lehet törölni a munkalehetőségeket._
 
@@ -154,18 +145,9 @@
 **Elfogadási kritériumok:**
 
 -  A szűrési paraméterek minden kategóriát tartalmaznak
--  Lehetőséget biztosít összetett szűrések elvégzésére
+-  Lehetőséget biztosít szűrések elvégzésére
 
 **3. Agilis felhasználói történet:**
-
-> _Különböző kategóriák alapján lehet rendezni a munkaerőket._
-
-**Elfogadási kritériumok:**
-
--  Minden egyes kategória szerint sorbarendezhető az adatbázis.
--  Növekvő és csökkenő sorrendbe is rendezhetőek az adatok.
-
-**4. Agilis felhasználói történet:**
 
 > _Új munkaerőket lehet felvinni az adatbázisba._
 
@@ -176,7 +158,7 @@
 -  Az adatok bevitele után a munkaerők listája betöltődik újra automatikusan.
 -  Lehetőséget biztosít a folyamat megszakítására és betölti újra az adatbázist.
 
-**5. Agilis felhasználói történet:**
+**4. Agilis felhasználói történet:**
 
 > _Lehet módosítani a munkaerőket._
 
@@ -187,7 +169,7 @@
 -  Az adatok módosítása után a munkalehetőségek listája betöltődik újra automatikusan.
 -  Lehetőséget biztosít a folyamat megszakítására, ebben esetben az adatok módosítása nélkül betölti újra az adatbázist.
 
-**6. Agilis felhasználói történet:**
+**5. Agilis felhasználói történet:**
 
 > _Lehet törölni a munkaerőket._
 
@@ -224,18 +206,9 @@
 **Elfogadási kritériumok:**
 
 -  A szűrési paraméterek minden kategóriát tartalmaznak
--  Lehetőséget biztosít összetett szűrések elvégzésére
+-  Lehetőséget biztosít szűrések elvégzésére
 
 **3. Agilis felhasználói történet:**
-
-> _Különböző kategóriák alapján lehet rendezni az értékeléseket._
-
-**Elfogadási kritériumok:**
-
--  Minden egyes kategória szerint sorbarendezhető az adatbázis.
--  Növekvő és csökkenő sorrendbe is rendezhetőek az adatok.
-
-**4. Agilis felhasználói történet:**
 
 > _Új értékeléseket lehet felvinni az adatbázisba._
 
@@ -246,7 +219,7 @@
 -  Az adatok bevitele után az értékelések listája betöltődik újra automatikusan.
 -  Lehetőséget biztosít a folyamat megszakítására és betölti újra az adatbázist.
 
-**5. Agilis felhasználói történet:**
+**4. Agilis felhasználói történet:**
 
 > _Lehet módosítani az értékeléseket._
 
@@ -257,7 +230,7 @@
 -  Az adatok módosítása után az értékelések listája betöltődik újra automatikusan.
 -  Lehetőséget biztosít a folyamat megszakítására, ebben esetben az adatok módosítása nélkül betölti újra az adatbázist.
 
-**6. Agilis felhasználói történet:**
+**5. Agilis felhasználói történet:**
 
 > _Lehet törölni az értékeléseket._
 
@@ -299,18 +272,9 @@
 **Elfogadási kritériumok:**
 
 -  A szűrési paraméterek minden kategóriát tartalmaznak
--  Lehetőséget biztosít összetett szűrések elvégzésére
+-  Lehetőséget biztosít szűrések elvégzésére
 
 **3. Agilis felhasználói történet:**
-
-> _Különböző kategóriák alapján lehet rendezni a felhasználókat._
-
-**Elfogadási kritériumok:**
-
--  Minden egyes kategória szerint sorbarendezhető az adatbázis.
--  Növekvő és csökkenő sorrendbe is rendezhetőek az adatok.
-
-**4. Agilis felhasználói történet:**
 
 > _Új felhasználókat lehet felvinni az adatbázisba._
 
@@ -321,7 +285,7 @@
 -  Az adatok bevitele után a felhasználók listája betöltődik újra automatikusan.
 -  Lehetőséget biztosít a folyamat megszakítására és betölti újra az adatbázist.
 
-**5. Agilis felhasználói történet:**
+**4. Agilis felhasználói történet:**
 
 > _Lehet módosítani a felhasználókat._
 
@@ -332,7 +296,7 @@
 -  Az adatok módosítása után a felhasználók listája betöltődik újra automatikusan.
 -  Lehetőséget biztosít a folyamat megszakítására, ebben esetben az adatok módosítása nélkül betölti újra az adatbázist.
 
-**6. Agilis felhasználói történet:**
+**5. Agilis felhasználói történet:**
 
 > _Lehet törölni a felhasználókat._
 
@@ -366,18 +330,9 @@
 **Elfogadási kritériumok:**
 
 -  A szűrési paraméterek minden kategóriát tartalmaznak
--  Lehetőséget biztosít összetett szűrések elvégzésére
+-  Lehetőséget biztosít szűrések elvégzésére
 
 **3. Agilis felhasználói történet:**
-
-> _Különböző szempontok alapján lehet rendezni a kategóriákat._
-
-**Elfogadási kritériumok:**
-
--  Minden egyes szempont szerint sorbarendezhető az adatbázis.
--  Növekvő és csökkenő sorrendbe is rendezhetőek az adatok.
-
-**4. Agilis felhasználói történet:**
 
 > _Új kategóriákat lehet felvinni az adatbázisba._
 
@@ -388,7 +343,7 @@
 -  Az adatok bevitele után a kategóriák listája betöltődik újra automatikusan.
 -  Lehetőséget biztosít a folyamat megszakítására és betölti újra az adatbázist.
 
-**5. Agilis felhasználói történet:**
+**4. Agilis felhasználói történet:**
 
 > _Lehet módosítani a kategóriákat._
 
@@ -399,7 +354,7 @@
 -  Az adatok módosítása után a kategóriák listája betöltődik újra automatikusan.
 -  Lehetőséget biztosít a folyamat megszakítására, ebben esetben az adatok módosítása nélkül betölti újra az adatbázist.
 
-**6. Agilis felhasználói történet:**
+**5. Agilis felhasználói történet:**
 
 > _Lehet törölni a kategóriákat._
 
